@@ -27,7 +27,7 @@ em, i {
 
 body {
   background-color: #000;
-  font-family: 11px, monospace;
+  font-family: 11px, Monaco, "Courier New", monospace;
   color: #aaa;
 }
 
@@ -36,15 +36,15 @@ div {
 }
 
 a {
-  color:#1d1;
+  color:#aaa;
 }
 
 a:link {
-  color:#1d1;
+  color:#aaa;
 }
 
 a:hover {
-  color:#1ff;
+  color:white;
 }
 
 
@@ -60,7 +60,7 @@ ul.posts {
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  line-height: 1em;
 }
 
 ul.posts span {
@@ -79,7 +79,9 @@ ul.posts span {
 .title {
   color: #a00;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 1.75em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #eee;
 }
 
 .site .title a {
@@ -108,7 +110,7 @@ ul.posts span {
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 2px solid #eee;
+  border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -174,7 +176,9 @@ ul.posts span {
   }
 
 #related {
+  border-top: 2px solid #eee;
   margin-top: 2em;
+  border-bottom: 2px solid #eee;
 }
 
   #related h2 {
