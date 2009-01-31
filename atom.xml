@@ -4,7 +4,7 @@
  <title>collapsing geography</title>
  <link href="http://cory.github.com/atom.xml" rel="self"/>
  <link href="http://cory.github.com/"/>
- <updated>2009-01-30T16:56:43-08:00</updated>
+ <updated>2009-01-30T17:06:55-08:00</updated>
  <id>http://cory.github.com/</id>
  <author>
    <name>Cory Ondrejka</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>more playing around</title>
-   <link href="http://cory.github.com/2009/01/29/more-playing-around.html"/>
-   <updated>2009-01-29T00:00:00-08:00</updated>
-   <id>http://cory.github.com/2009/01/29/more-playing-around</id>
-   <content type="html">&lt;p&gt;Textile is barfing in the related posts calculation.  Wonder if it is due to having less than 3 posts?&lt;/p&gt;</content>
+   <title>updating jekyll and disqus</title>
+   <link href="http://cory.github.com/2009/01/30/updating-jekyll-and-disqus.html"/>
+   <updated>2009-01-30T00:00:00-08:00</updated>
+   <id>http://cory.github.com/2009/01/30/updating-jekyll-and-disqus</id>
+   <content type="html">&lt;p&gt;Updated &lt;a href="http://github.com/mojombo/jekyll/tree/master"&gt;jekyll&lt;/a&gt; and that fixed the related posts issue.  Dropped the &lt;a href="http://disqus.com/integrate"&gt;Disqus&lt;/a&gt; generic instructions in and voila!&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -26,6 +26,14 @@
    <updated>2009-01-29T00:00:00-08:00</updated>
    <id>http://cory.github.com/2009/01/29/formatting-and-such</id>
    <content type="html">&lt;p&gt;Starting from scratch on design, as opposed to a &lt;a href="http://ondrejka.blogspot.com"&gt;Blogger&lt;/a&gt; template, feels very different.  Trying to do a little bit at a time and see where it leads.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>more playing around</title>
+   <link href="http://cory.github.com/2009/01/29/more-playing-around.html"/>
+   <updated>2009-01-29T00:00:00-08:00</updated>
+   <id>http://cory.github.com/2009/01/29/more-playing-around</id>
+   <content type="html">&lt;p&gt;Textile is barfing in the related posts calculation.  Wonder if it is due to having less than 3 posts?&lt;/p&gt;</content>
  </entry>
  
  <entry>
