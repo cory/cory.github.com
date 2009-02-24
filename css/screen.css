@@ -53,6 +53,9 @@ a:hover {
   padding: 0;
 }
 
+.speaking * {
+  text-decoration: none;  
+}
 
 ul.posts {
   list-style-type: none;
