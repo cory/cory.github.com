@@ -4,13 +4,21 @@
  <title>collapsing geography</title>
  <link href="http://cory.github.com/atom.xml" rel="self"/>
  <link href="http://cory.github.com/"/>
- <updated>2009-02-23T21:40:29-08:00</updated>
+ <updated>2009-02-23T21:57:55-08:00</updated>
  <id>http://cory.github.com/</id>
  <author>
    <name>Cory Ondrejka</name>
    <email>cory dot ondrejka at gmail dot com</email>
  </author>
 
+ 
+ <entry>
+   <title>trying facebook connect</title>
+   <link href="http://cory.github.com/2009/02/23/trying-facebook-connect.html"/>
+   <updated>2009-02-23T00:00:00-08:00</updated>
+   <id>http://cory.github.com/2009/02/23/trying-facebook-connect</id>
+   <content type="html">&lt;p&gt;Given that most folks I know already use Facebook, why not use Facebook connect for comments?  Let&#8217;s see if this works&#8230;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>updating jekyll and disqus</title>
