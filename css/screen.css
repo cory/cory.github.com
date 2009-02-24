@@ -194,7 +194,7 @@ ul.posts span {
 /*
 /*****************************************************************************/
   
-.wallkit_postcontent {
+.comments * {
   background:#000000;
   color: #aaa;
   border:1px solid #aaa;
