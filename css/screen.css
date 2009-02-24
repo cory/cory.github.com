@@ -194,21 +194,14 @@ ul.posts span {
 /*
 /*****************************************************************************/
   
-.facebook-connect a,
-.facebook-connect a:hover,
-.facebook-connect a img,
-.facebook-connect a:hover img{
-  border: 0
-}
-
-.facebook-connect .fbc_connect_button_area { 
+.fbc_connect_button_area { 
   border: 0;
   float:none;
   margin:0;
   padding:0
 }
 
-body .fbc_profile_header {
+.fbc_profile_header {
   background:#000000;
   border:1px solid #3d3e3d;
   border-right: 0;
