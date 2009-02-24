@@ -194,7 +194,14 @@ ul.posts span {
 /*
 /*****************************************************************************/
   
-.wallkit_postcontent, .wallkit_postcontent * {
-  background:#000000;
-  color: #F00;
+.wallkit_frame {
+ background-color: #000;
+}
+
+.wallkit_post {
+  color: #aaa;
+}
+
+.wallkit_form {
+  color: #aaa;
 }
