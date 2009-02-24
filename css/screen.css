@@ -194,86 +194,26 @@ ul.posts span {
 /*
 /*****************************************************************************/
   
- /* Default Facebook CSS */
- .fbbody
- {
-   background-color: #000;
-   font-family: 11px, Monaco, "Courier New", monospace;
-   color: #aaa;
- }
- /* Default Anchor Style */
- .fbbody a
- {
-     color: #aaa;
-     outline-style: none;
-     text-decoration: none;
-     font-size: 11px;
-     font-weight: bold;
- }
- .fbbody a:hover
- {
-     text-decoration: underline;
- }
- /* Facebook Box Styles */
- .fbgreybox
- {
-     background-color: #000;
-     border: 1px solid #cccccc;
-     color: #333333;
-     padding: 10px;
-     font-size: 13px;
-     font-weight: bold;
- }
- .fbbluebox
- {
-     background-color: #000;
-     border: 1px solid #d4dae8;
-     color: #333333;
-     padding: 10px;
-     font-size: 13px;
-     font-weight: bold;
- }
- .fbinfobox
- {
-     background-color: #000;
-     border: 1px solid #e2c822;
-     color: #333333;
-     padding: 10px;
-     font-size: 13px;
-     font-weight: bold;
- }
- .fberrorbox
- {
-     background-color: #000;
-     border: 1px solid #dd3c10;
-     color: #333333;
-     padding: 10px;
-     font-size: 13px;
-     font-weight: bold;
- }
- .fbcontentdivider
- {
-     margin-top: 15px;
-     margin-bottom: 15px;
-     width: 520px;
-     height: 1px;
-     background-color: #000;
- }
- /* Facebook Tab Style */
- .fbtab
- {
-     padding: 8px;
-     background-color: #d8dfea;
-     color: #3b5998;
-     font-weight: bold;
-     float: left;
-     margin-right: 4px;
-     text-decoration: none;
- }
- .fbtab:hover
- {
-     background-color: #3b5998;
-     color: #ffffff;
-     cursor: hand;
- }
-  
+.facebook-connect a,
+.facebook-connect a:hover,
+.facebook-connect a img,
+.facebook-connect a:hover img{
+  border: 0
+}
+
+.facebook-connect .fbc_connect_button_area { 
+  border: 0;
+  float:none;
+  margin:0;
+  padding:0
+}
+
+body .fbc_profile_header {
+  background:#000000;
+  border:1px solid #3d3e3d;
+  border-right: 0;
+  padding:10px 5px 5px 10px;
+  position:fixed; top: 45%; right:0;
+  text-align:left;
+  width:40em
+}
