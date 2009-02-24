@@ -194,20 +194,10 @@ ul.posts span {
 /*
 /*****************************************************************************/
   
-.fbc_connect_button_area { 
-  border: 0;
-  float:none;
-  margin:0;
-  padding:0
-}
-
-.fbc_profile_header {
+.wallkit_postcontent {
   background:#000000;
   color: #aaa;
-  border:1px solid #3d3e3d;
-  border-right: 0;
-  padding:10px 5px 5px 10px;
-  position:fixed; top: 45%; right:0;
+  border:1px solid #aaa;
   text-align:left;
   width:40em
 }
