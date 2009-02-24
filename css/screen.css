@@ -194,10 +194,7 @@ ul.posts span {
 /*
 /*****************************************************************************/
   
-.comments * {
+.comments, .comments * {
   background:#000000;
-  color: #aaa;
-  border:1px solid #aaa;
-  text-align:left;
-  width:40em
+  color: #F00;
 }
