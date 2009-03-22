@@ -31,25 +31,17 @@
 <div id="related">
   <ul class="posts">
     
+      <li><span>23 Feb 2009</span> &raquo; <a href="/2009/02/23/trying-facebook-connect.html">trying facebook connect</a></li>
+    
       <li><span>29 Jan 2009</span> &raquo; <a href="/2009/01/29/formatting-and-such.html">formatting and such</a></li>
     
       <li><span>27 Jan 2009</span> &raquo; <a href="/2009/01/27/moving-blog-to-github.html">moving blog to github</a></li>
-    
-      <li><span>30 Jan 2009</span> &raquo; <a href="/2009/01/30/updating-jekyll-and-disqus.html">updating jekyll and disqus</a></li>
     
   </ul>
 </div>
 
 <div class="comments">
-  <script src=
-  "http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" 
-  type="text/javascript"></script>
-
-  <fb:comments css="http://cory.github.com/css/screen.css?1234"></fb:comments>
-
-  <script type="text/javascript">
-  FB.init("041f4011e69d4e6cafb5b11d9a2b7f81", "/xd_receiver.htm");
-  </script>
+<div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/embed.js"></script><noscript><a href="http://collapsinggeography.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
   
     <div class="footer">
@@ -66,10 +58,18 @@
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
   </script>
   <script type="text/javascript">
-  try {
-  var pageTracker = _gat._getTracker("UA-3392594-7");
-  pageTracker._trackPageview();
-  } catch(err) {}
+  //<![CDATA[
+  (function() {
+  		var links = document.getElementsByTagName('a');
+  		var query = '?';
+  		for(var i = 0; i < links.length; i++) {
+  			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+  				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+  			}
+  		}
+  		document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/collapsinggeography/get_num_replies.js' + query + '"></' + 'script>');
+  	})();
+  //]]>
   </script>
   </body>
 </html>
