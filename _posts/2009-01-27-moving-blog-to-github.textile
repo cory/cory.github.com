@@ -1,0 +1,7 @@
+---
+layout: post
+title: moving blog to github
+---
+After a little over a year on "Blogger":http://ondrejka.blogspot.com, the incredible quantity of "comment spam":http://ondrejka.blogspot.com/2009/01/may-be-time-to-say-bye-to-blogger.html has exceeded my threshold of annoyance.  So, it is with a mixture of trepidation and excitement that I decided to start playing around with hosting on "GitHub":http://github.com and "Jekyll":http://github.com/mojombo/jekyll/tree/master.
+
+Expect many changes as I master "Liquid":http://www.liquidmarkup.org/ and "Textile":http://hobix.com/textile/.

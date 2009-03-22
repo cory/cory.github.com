@@ -1,0 +1,5 @@
+---
+layout: post
+title: back to disqus
+---
+Formatting Facebook comments is a pain, so back to Disqus.

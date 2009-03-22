@@ -1,0 +1,5 @@
+---
+layout: post
+title: updating jekyll and disqus
+---
+Updated "jekyll":http://github.com/mojombo/jekyll/tree/master and that fixed the related posts issue.  Dropped the "Disqus":http://disqus.com/integrate generic instructions in and voila! 
