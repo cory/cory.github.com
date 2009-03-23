@@ -1,0 +1,6 @@
+---
+layout: default
+title: code
+---
+
+Interesting code stuff will go here

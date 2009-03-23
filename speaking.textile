@@ -2,21 +2,27 @@
 layout: default
 title: speaking
 ---
-
+Cory is represented by the <a href="http://www.washingtonspeakers.com/speakers/speaker.cfm?speakerid=6164">Washington Speakers Bureau</a>
+<br />
 *2009*
-•	Keynote, Canadian Music Week, Toronto, March 2009.
-•	Panel speaker, "Digital Music - Forging Ahead with New Business Models," MusicEcon Conference, Los Angeles, CA, February 2009.
+• Keynote, Canadian Music Week, Toronto, March 2009.
+• Panel speaker, "Digital Music - Forging Ahead with New Business Models," MusicEcon Conference, Los Angeles, CA, February 2009.
+<embed src="http://blip.tv/play/gew07bNsjppW" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed> 
 •	Panel speaker, "Listen up - Why knowing your fans matters," MIDEM, Cannes, January 2009.
 
 
 *2008*
 •	Keynote speaker, "Recursive Innovation - Building Linden Lab and Second Life," Computer Supported Cooperative Work, San Diego, CA, November 2008.
 •	Keynote speaker, "Riding the Wave - Innovation and the Future of Music," Digital Music Forum West, October 2008.
+<object id="otv_o_330831" height="320" width="400"  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param value="http://www.ustream.tv/flash/video/758401" name="movie" /><param value="true" name="allowFullScreen" /><param value="always" name="allowScriptAccess" /><param value="transparent" name="wmode" /><param value="viewcount=true&amp;autoplay=false&amp;brand=embed&amp;" name="flashvars" /><embed name="otv_e_572918" id="otv_e_204747" flashvars="viewcount=true&amp;autoplay=false&amp;brand=embed&amp;" height="320" width="400" allowfullscreen="true" allowscriptaccess="always" wmode="transparent" src="http://www.ustream.tv/flash/video/758401" type="application/x-shockwave-flash" /></object>
 •	Keynote speaker, "Virtual Worlds," International Market Assessment India, July 2008.
 •	Panel speaker, "Collapsing Geography," Games, Learning and Society Conference, Madison, WI, July 2008.
 •	Keynote speaker, "Future of Virtual Worlds," Freescale Technology Conference, Orlando, FL, June 2008.
 •	Gerson Lehrman Group seminar, "Virtual Worlds - the Next 18 months", Palo Alto, CA, May 2008.
-•	Panelist on the future of virtual worlds, MetaverseU, February 2008.
+* Panel speaker, "Collaboration Technology and Engaging the Campus," Case Western Reserve University, May 2008.
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/0-nq1q3FeKk&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/0-nq1q3FeKk&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/T9ktTlzwLhg&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/T9ktTlzwLhg&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+•	<a href="http://www.massively.com/2008/02/18/metaverse-u-conversation-raph-koster-cory-ondrejka-howard-rhe/">Panelist on the future of virtual worlds</a>, MetaverseU, February 2008.
 •	Faculty seminar on virtual worlds, Annenberg School for Communication, January - May 2008.
 
 
@@ -29,9 +35,13 @@ title: speaking
 •	Culture and communication working group participant at the Aspen Institute FOCAS conference, August 2007.
 •	Participant in Rendon Group working session on “Discrediting Suicide Extremism,” August 2007.
 •	Keynote speaker on virtual worlds and user-generated content at the iMBx SEASIAN Ministerial Conference in Singapore, June 2007.
+<embed id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docid=4007818204748496567&hl=en&fs=true" style="width:400px;height:326px" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash"> </embed>
+• Panel speaker on virtual worlds and education, iCommons Conference, June 2007.
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/VPmDRq-66ok&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VPmDRq-66ok&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 •	Participant and provocateur at the 2007 Rueschlikon Conference on “Information Governance” in Zurich, Switzerland, June 2007. This invitation-only forum is hosted by Harvard’s Kennedy School of Government
 •	Presented “Collapsing Geography” to UC Irvine MBA students, May 2007.
 •	Panelist on user-generated content, Media in Transition conference, April 2007.
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="481" height="361" id="Main" align="middle"><param name="allowScriptAccess" value="always" /><param name="movie" value="http://mitworld.mit.edu/flash/player/Main.swf?host=cp58255.edgefcs.net&flv=mitw-00862-comm-forum-mit5-collective-intel-pt2-27apr2007&preview=http://mitworld.mit.edu//uploads/mitwstill-00862-comm-forum-mit5-collective-intel-pt2-27apr2007.jpg" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><embed src="http://mitworld.mit.edu/flash/player/Main.swf?host=cp58255.edgefcs.net&flv=mitw-00862-comm-forum-mit5-collective-intel-pt2-27apr2007&preview=http://mitworld.mit.edu//uploads/mitwstill-00862-comm-forum-mit5-collective-intel-pt2-27apr2007.jpg" quality="high" bgcolor="#000000" width="481" height="361" name="Main" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
 •	Keynote speaker at Cisco, ISBG offsite conference, March 2007.
 •	Presented “Future of Innovation” at Freedom to Connect conference, March 2007.
 •	Presented “Collapsing Geography” at Microsoft Academic Days conference, February 2007.
@@ -57,6 +67,7 @@ title: speaking
 
 *2005*
 •	Presented “Changing Realities” at the 22nd Chaos Computer Club Conference, December 2005.
+<embed id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docid=-2516619004547385895&hl=en&fs=true" style="width:400px;height:326px" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash"> </embed>
 •	Presented “People Powered” at the Berkman Luncheon Series, November 2005.
 •	Presented “We’re Not in Kansas Anymore” at the National Academies, November 2005.
 •	Panelist on the “State of Play Dinner Panel” at State of Play 3, October 2005.

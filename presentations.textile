@@ -1,6 +1,6 @@
 ---
 layout: default
-title: code
+title: presentations
 ---
 
 h1. USC Annenberg Faculty Lectures

@@ -1,0 +1,5 @@
+---
+layout: post
+title: some text notes
+---
+blather, blather
