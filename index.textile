@@ -19,11 +19,6 @@ title: collapsing geography
     {% endfor %}
   </ul>
 </div>
-  <div id="twitter_div">
-    <h2 class="sidebar-title">my twitter updates</h2>
-      <ul id="twitter_update_list"></ul>
-        <a href="http://twitter.com/CoryOndrejka" id="twitter-link" style="display:block;text-align:left;">follow me on twitter</a>
-  </div>
 <br />
 <div class="content">
   Lots of older stuff on my abandoned <a href="http://ondrejka.blogspot.com">blogger blog</a>
