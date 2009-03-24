@@ -26,9 +26,9 @@ em, i {
 }
 
 body {
-  background-color: #000;
+  background-color: #050505;
   font-family: 11px, Monaco, "Courier New", monospace;
-  color: #aaa;
+  color: #ccc;
 }
 
 div {
@@ -36,11 +36,11 @@ div {
 }
 
 a {
-  color:#aaa;
+  color:#a00;
 }
 
 a:link {
-  color:#aaa;
+  color:#a00;
 }
 
 a:hover {
@@ -67,6 +67,12 @@ ul.posts li {
 }
 
 ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+.topics {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;

@@ -1,0 +1,11 @@
+---
+layout: post
+title: foreclosure math
+---
+Via Google, estimates on total number of US homes current foreclosed or being foreclosed vary between 1M and 2M.Let us assume an upper bound of 2M homes. Median US home prices are freefall, currently around $175,000, down from a peak of over $300,000 in 2006. Of course, in foreclosed areas like Cleveland, the real value is basically $0. So, let's try to determine the sum total of wealth lost by these "toxic assets", assuming 50% of foreclosed home are worth effectively $0 and half are worth the current median.
+<br />
+(1M homes) x ($300,000 lost) + (1M homes) x ($300,000 - $175,000 lost) = $425 billion
+<br />
+So, $425 billion to keep 2 million families in their homes, make it easier for those families to hold on to jobs and to keep working, to prop up the all the credit default swaps, etc, that are collapsing because these mortgages aren't being repaid, and to ensure that banks don't collapse due to unpaid loans. Why are we pouring the money into the banks directly rather than protecting tax payers? Oh, because doing this would reward a bunch of predatory lenders? First, which is more important: keeping people in homes as we enter a second great depression or punish those who took advantage of lax regulations to cause it? Second, and more importantly, the act of repaying these loans would enable a process of identifying the top 20% of most egregious loans, allowing those who broke the law to be prosecuted.
+<br />
+OK, I'm not an expert, but given the astronomical sums we're talking about, keeping a sizable percentage of the workforce in homes plus propping up the umpteen trillions of dollars leveraged against those mortgages, $425 billion is starting to look pretty reasonable.
