@@ -3,67 +3,67 @@ layout: post
 title: yes we did
 ---
 I'm writing 38,000 feet over the North Atlantic and I feel like jumping up and down.  I'd probably end up arrested and the flight diverted to Reykjavik if I did, so perhaps not.
-<br />
+
 But I want to.
-<br />
+
 One of the flight attendants just passed along "200 to 90. Obama won Ohio."  I can't remember enough of <a href="http://www.fivethirtyeight.com/">Nate's</a> work to know if this makes it a sure thing and part of me is still convinced that he'll somehow lose and I'll have to move to New Zealand.
-<br />
+
 I was a Linden employee for 3 days when I got on BART to head home and heard they had called Florida for Gore.  People were laughing and joking on the train, happy the math looked promising.  It was a good night.  New job, world's coolest project, cool people to work with in Philip, Andrew, Tessa, and Frank, and the country going in the right direction.
-<br />
+
 When my fiance picking me up at BART, she said Florida was back in play.  We spent the night huddled around the television, waiting to see what happened.
-<br />
+
 I listened to a lot of NPR over the next weeks.  Wrote the land code to arguments about chads, fairness, and the democratic process.  Worked on strain gauge geometries with Andrew as we played with the rig.  Created predator-prey models for the forest and whipped out the first version of lltask.  Called Philip from the train home, excited about an idea to integrate a 3D <a href="http://sodaplay.com/">Sodaplay</a>.
-<br />
+
 And then it was over.  The Supreme Court ruled and Bush was our President.
-<br />
+
 Fast forward 4 years.  Our country went through 9/11, invaded two sovereign nations, failed to capture bin Ladin, survived the dot com bubble, and become more partisan than any time in recent memory.  
-<br />
+
 Interesting times for Linden as well.
-<br />
+
 The forest transformed into Linden World and then into Second Life.  We launched, failed to grow, laid off 1/3 of the company, gave residents IP ownership, changed the economic model, and received a big round of funding just before the State of Play 2 conference in New York.  Everyone I knew was excited for Kerry's prospects, expected it to be close, but had faith that American's would see what a disaster the first term of Bush's Presidency had been.
-<br />
+
 Jerry Paffendorf had asked me to speak at the Accelerating Change conference at Stanford, so I was writing on Tuesday as the exit poll numbers started leaking out.  A Salon article riffed on those numbers and suggested that Kerry was going to win.  Again, a happy trip home on BART.  Again, very different numbers by the time I was home.  Another night up late watching the numbers.  My wife and I went to sleep knowing that Bush had won again.
-<br />
+
 The next day half of Linden stayed home and commiserated over irc and email.  We had more people in the office on 9/12.
-<br />
+
 On Thursday I was staring at a talk that just wouldn't pull together.  Angry, depressed, sad, it was hard to build the kind of talk Accelerating Change deserved.  Philip suggested I write angry, so I did.  It wasn't filmed, but the audio is <a href="http://itc.conversationsnetwork.org/shows/detail369.html">online</a>.
-<br />
+
 I listened to that talk while waiting for my flight.  As hard as it is to listen to myself -- I sound like that??  Seriously? -- it was a nice trip back, because this was the first time I spoke about some of the underlying drivers of Second Life that have impacted so much of my thinking since then.
-<br />
+
 Cultural production.  Real-time, collaborative creation.  Continuous improvement of content in the world due to breadth of participation and competition.  Economic motivations driving massive and long-term cooperation and organization.  Using Second Life for education, training, and as a filter for hiring.
-<br />
+
 People and communities not being evil.
-<br />
+
 As mad as I was, I'm a little surprised I remembered that. After all, my community, my country, just let me down.  We allowed bigotry and fear to profoundly impact our decisions.  Listened to sound bites rather than each other.
-<br />
+
 But the evidence of Second Life was compelling.  Given tools and capabilities, people worked together in amazing ways.  Leveraged amateur-to-amateur education on a scale no one anticipated.  Cooperated.  Created.  Innovated.
-<br />
+
 Which brings us to now.
-<br />
+
 Virtually everyone smart I know was somehow involved in the Obama campaign.  I first brushed against the campaign nearly two years ago and they were already asking questions, creating a ground game, and building on what Trippy and Dean accomplished with everything learned about viral communities in the intervening years.
-<br />
+
 I didn't end up involved with the campaign to any degree.  Sure, I blogged about it and donated, but mostly I was working.  I was asked to sign on to Obama's tech policy when it was released last November and would have, except that the final version hit my inbox a few minutes ahead of Philip's email informing me that he wanted me to leave Linden.  Unfortunate timing, that.  
-<br />
+
 Fortunately they had plenty of voices of support.  It was, and is, a good start for thinking about technology.  More on that in a later post.
-<br />
+
 I do smile remembering a wide ranging brainstorm session at Aspen airport on the way home from the Aspen Institute.  There were both Obama and Clinton advisors there and we were talking voter registration and turnout.  Traditionally, ground teams focus on getting people to make 3 commitments in order to ensure turn out.
-<br />
+
 Make a donation.  Go to a rally.  Vote in the primary.  
-<br />
+
 If you do those things, you'll vote in the general election.
-<br />
+
 We talked about how to use technology to help.  Give volunteers online communities to feel more connected.  Use participation in social networks as overt acts, commitments.  Mashup data to help registrations.  Remember that <a href="http://chronicle.com/free/v53/i07/07a02701.htm">email is for old people</a>, so focus on cell phones and SMS to connect to the youth vote.  I doubt much of this was new to the Obama team, but over the next year there were some follow up questions and phone calls.  A lot of knowledgeable online community people get very, very busy.
-<br />
+
 All of which led to an historic, game-changing election.
-<br />
+
 An election where we spent more time learning from each other rather than from Rovian sound bites.  Where communities connected both internally and across boundaries.  Not that we're done, but Obama's broad base of support should be a mandate to heal the destructive red-blue divisions so exacerbated during the last 8 years.  
-<br />
+
 Healing that should serve as a model for how America -- and more importantly, Americans -- reengage with the world.
-<br />
+
 A flight attendant just passed along "Obama has 324."
-<br />
+
 Maybe I will start jumping up and down.
-<br />
+
 Congratulations, President-Elect Obama!  Hooray as well for everyone involved in his campaign.
-<br />
+
 Yay, us!

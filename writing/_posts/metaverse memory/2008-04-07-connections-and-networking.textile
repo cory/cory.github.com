@@ -3,35 +3,35 @@ layout: post
 title: connections and networking
 ---
 I was chatting with <a href="http://zero.hastypastry.net/pathfinder/">Pathfinder</a> at the <a href="http://www.virtualworlds2008.com/media/releases.html">Virtual Worlds Conference 08</a> in New York and we realized that there were two particularly long chains of personal connections that were relevant to the event and <a href="http://secondlife.com">Second Life</a>.  The first was the <a href="http://ondrejka.blogspot.com/2008/02/speaking.html">State of Play</a> conference, the second a video I had just been emailed showing Second Life being used for public diplomacy in Doha, Qatar.
-<br />
+
 The inaugural State of Play conference in November, 2003 was the first inflection point in Second Life's growth.  It was where Philip took down the house by announcing, during a shared panel with There.com's Will Harvey, that Second Life residents would retain intellectual property rights to their creations.  This announcement, the culmination of months of debate initiated by Larry's comment about ownership (1) and a complete rethinking of our EULA, generated incredible excitement and is a huge part of Second Life being what it is today.
-<br />
+
 But how did Linden Lab end up at State of Play, a small conference about games, economics, and law, created by Beth Noveck and held at New York Law School?
-<br />
+
 To answer that, we back up a few months to the first Austin Game Conference.  <a href="http://www.virtualworldsmanagement.com/about/chris.html">Chris Sherman</a> -- who also created the Virtual World Conference -- had decided the time was right for an MMORPG-focused games conference in Austin.  Robin Harper and I attended, largely because we were still unsure of whether Second Life was a game or not.  Second Life had around 1000 users, so basically nobody had heard of it or knew who we were.  On the second morning, <a href="http://www.raphkoster.com/">Raph Koster</a> delivered the keynote that later became <a href="http://www.theoryoffun.com/">A Theory of Fun</a>, which hit many topics related to user-created content and motivations for creation, so I decided to go up and say hello.
-<br />
+
 I hadn't met Raph yet at this point, but he knew about Second Life because our first community relations employee, Peter Alau (2) knew Raph from Sony and had setup a meeting where Philip and Peter visited SOE and demoed Second Life.  Raph recognized the Linden Lab t-shirt I was wearing as I waited after the talk.  We started chatting and ended up talking about music, along with an ASCAP lawyer who had some very interesting questions about music in online games.
-<br />
+
 As we walked across the main hall, Raph mentioned to the lawyer that he was speaking at a law and games conference at <a href="http://www.nyls.edu/">New York Law School</a>.  He said that <a href="http://mypage.iu.edu/%7Ecastro/">Ted Castronova</a> was going to be there, too, and this it would also focus on economics.  I thought that it seemed like a good conference for Second Life, but then didn't think much about it until I was sitting at Austin airport with Robin, waiting to fly home.  We were discussing the fact that even though AGC was a great conference, Second Life didn't really seem to fit in.  I remembered Raph's comment, did a bit of googling - since I hadn't remembered which New York school - and showed it to Robin.  She thought it looked interesting, especially since we were in the midst of our IP transition, so once back at Linden, she and Catherine Smith reached out to NYLS and Beth.
-<br />
+
 And to think that Robin and I considered skipping the keynote!
-<br />
+
 This will seem like a left-turn at Albuquerque, but it isn't.  I just received a pointer to this video:
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/LBHiHGQ9mcM&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/LBHiHGQ9mcM&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 This video is thrilling to see, because it raises some of the ideas possible when virtual worlds are applied to public diplomacy.  It also demonstrates how far networks can extend.
-<br />
+
 After State of Play, Beth gave a talk at Harvard on virtual worlds, law, IP, and economics.  This  talk generated a lot of excitement at Harvard and led to me being invited to speak at the <a href="http://cyber.law.harvard.edu/">Berkman Center</a>, where I met <a href="http://cyber.law.harvard.edu/people/jclippinger">John Clippinger</a>, a Berkman Fellow.  John was working on the user-centric identity project <a href="http://www.eclipse.org/higgins/">Higgins</a> (3) which seemed very applicable to Second Life, so he invited me to a later Berkman conference.  At that conference, John, BCG's <a href="http://www.bcg.com/impact_expertise/practice_area.jsp?practice=9#">Philip Evans</a>, and I ended up kicking around the idea that the massive entrepreneurial activity within Second Life could be a model and tool for real-world collaboration and market activity, and that Dubai might be the perfect test case.
-<br />
+
 John thought he knew the perfect person to ask about it, so a few weeks later we met <a href="http://www.vanheyst.com/vanHeystGroup/founders.php">Della van Heyst</a> in Palo Alto.  Della deserves a blog post -- hell, an entire blog -- all to herself, but for this story it is enough to say that she didn't think Dubai was the right place to start but that she was organizing AMD's Global Vision conference and would I like to speak at it, since Second Life was running on a huge grid of AMD-powered computers?  That seemed like a great opportunity for us, so I accepted.
-<br />
+
 Ironically, by the time of the conference, Intel has reclaimed their lead in the MIPS/watt game and Linden had switched back to <a href="http://blogs.zdnet.com/BTL/?p=3633">Intel CPUs</a>, making for a somewhat awkward talk.  The evening before my talk, Della hosted a speaker's dinner where I met <a href="http://www.biotechonomy.com/juan.htm">Juan Enriquez</a> and talked his ear off about virtual worlds and their uses.  Juan subsequently introduced me to <a href="http://uscpublicdiplomacy.com/index.php/about/bio_detail/cynthia_schneider/">Cynthia Schneider</a>, the former US Ambassador to Holland and one of the organizers of the US Islamic Forum in Doha (along with <a href="http://www.brookings.edu/experts/s/singerp.aspx">Peter Singer</a> at the Brookings Institution.)  Thanks to Cynthia, I attended the conference, spoke at Brookings (4) and re-introduced Cynthia to Josh Fouts at the Center for Public Diplomacy (5).
-<br />
+
 Which led to the panel and video at this year's Doha conference.
-<br />
+
 Pathfinder had seen the video -- and has met most of the connections in this story -- but as we laid them all out, we were amazed by how infectious the promise of virtual worlds are.   It was against the backdrop of that conversation that I found the sudden <a href="http://ondrejka.blogspot.com/2008/04/its-small-world-after-all.html">smallness</a> of virtual worlds disappointing.
-<br />
+
 Notes, because there are even more connections...
-<br />
+
 (1) I've written about the impact of Larry's comment in <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1023493">Collapsing Geography</a>.
 (2) Peter, worked at Linden because his then-girlfriend/now-wife and my wife had met at a mutual friend's wedding.
 (3) Higgins also has <a href="http://www.escapistmagazine.com/articles/view/issues/issue_34/208-Anonymity-is-Not-Enough">historical</a> links to Andrew Donoho's Papillon project, which arose in part due to State of Play and a tech talk I gave to IBM Austin's Advanced Technology Group.

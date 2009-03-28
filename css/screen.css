@@ -11,6 +11,7 @@
   font-family: inherit;
   font-style: inherit;
   font-size: 100%;
+  color: #666;
   border: 0 none;
   outline: 0;
   padding: 0;
@@ -27,7 +28,8 @@ em, i {
 
 body {
   background-color: #050505;
-  font-family: 11px, Monaco, "Courier New", monospace;
+  font-size: 100%;
+  font-family: ”Lucida Grande”,”Lucida Sans Unicode”,arial,sans-serif;
   color: #ccc;
 }
 
@@ -53,6 +55,18 @@ a:hover {
   padding: 0;
 }
 
+p {
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 120%;
+}
+
+h2 {
+  font-size: 110%;
+}
+
 .speaking * {
   text-decoration: none;  
 }
@@ -60,33 +74,34 @@ a:hover {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  font-size: 90%;
 }
 
 ul.posts li {
   line-height: 1em;
+  font-size: 90%;
 }
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-family: Monaco, monospace;
+  font-size: 90%;
 }
 
 .topics {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-family: Monaco, monospace;
+  font-size: 90%;
 }
 
 .site {
-  text-align: justify;
-  width: 40em;
-  margin: 3em auto 2em auto;
-  line-height: 1em;
+  text-align: left;
+  width: 50em;
+  margin: 2em auto 2em auto;
+  line-height: 1.2em;
 }
 
 .title {
-  color: #a00;
+  color: #666;
   font-weight: bold;
   margin-bottom: 1.75em;
   padding-bottom: 0.25em;
@@ -94,7 +109,7 @@ ul.posts span {
 }
 
 .site .title a {
-  color: #a00;
+  color: #666;
   text-decoration: none;
 }
   
@@ -105,16 +120,13 @@ ul.posts span {
 .site .title a.extra {
   color: #aaa;
   text-decoration: none;
-  margin-left: 1em;
+  margin-left: 3em;
 }
 
 .site .title a.extra:hover {
   color: white;
 }
 
-.site .meta {
-  color: #aaa;
-}
 
 .site .footer {
   font-size: 80%;
@@ -123,16 +135,7 @@ ul.posts span {
   margin-top: 2em;
   overflow: hidden;
 }
-  
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-    
-.site .footer .contact a {
-  color: #8085C1;
-}
-    
+      
 .site .footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
@@ -150,64 +153,49 @@ ul.posts span {
 /*****************************************************************************/
 
 #post {
-  
+  color: #666;  
 }
 
-  /* standard */
+#post #posttitle {
+  color: #aaa;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: .2em;
+  margin-bottom: .4em;
+}
+
+/* standard */
+
+#post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+#post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  font-size: 95%;
+  padding: 0 .2em;
+}
+
+#post pre code {
+    border: none;
+}
   
-  #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    padding: 0 .4em;
-  }
-  
-  #post code {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    font-size: 95%;
-    padding: 0 .2em;
-  }
-  
-    #post pre code {
-      border: none;
-    }
-    
-  /* terminal */
-  
-  #post pre.terminal {
-    border: 1px solid black;
-    background-color: #333;
-    color: white;
-  }
-  
-  #post pre.terminal code {
-    background-color: #333;
-  }
+/* terminal */
+
+#post pre.terminal {
+  border: 1px solid black;
+  background-color: #333;
+  color: white;
+}
+
+#post pre.terminal code {
+  background-color: #333;
+}
 
 #related {
   border-top: 2px solid #eee;
   margin-top: 2em;
   border-bottom: 2px solid #eee;
-}
-
-#related h2 {
-    margin-bottom: 1em;
-}
-
-/*****************************************************************************/
-/*
-/* Facebook style elements
-/*
-/*****************************************************************************/
-  
-.wallkit_frame {
- background-color: #000;
-}
-
-.wallkit_post {
-  color: #aaa;
-}
-
-.wallkit_form {
-  color: #aaa;
 }

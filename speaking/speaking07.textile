@@ -1,0 +1,23 @@
+---
+layout: default
+title: speaking
+---
+*2007*
+•	Keynote speaker to European Commission Publisher’s Forum, December 2007.
+•	Presenter to US-Arab Economic Summit, Bahrain, December 2007.
+•	Presenter to National Science Foundation Summit, Boulder, CO, October 2007.
+•	Presented Second Life and “Collapsing Geography” to House Commerce Committee chair, ranking member, and staffers, Washington, DC, October 2007.
+•	Panelist on “Get a (virtual) life” on NPR Talk of the Nation, Science Friday, August 2007.
+•	Culture and communication working group participant at the Aspen Institute FOCAS conference, August 2007.
+•	Participant in Rendon Group working session on “Discrediting Suicide Extremism,” August 2007.
+•	Keynote speaker on virtual worlds and user-generated content at the iMBx SEASIAN Ministerial Conference in Singapore, June 2007.
+<embed id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docid=4007818204748496567&hl=en&fs=true" style="width:400px;height:326px" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash"> </embed>
+• Panel speaker on virtual worlds and education, iCommons Conference, June 2007.
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/VPmDRq-66ok&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VPmDRq-66ok&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+•	Participant and provocateur at the 2007 Rueschlikon Conference on “Information Governance” in Zurich, Switzerland, June 2007. This invitation-only forum is hosted by Harvard’s Kennedy School of Government
+•	Presented “Collapsing Geography” to UC Irvine MBA students, May 2007.
+•	Panelist on user-generated content, Media in Transition conference, April 2007.
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="481" height="361" id="Main" align="middle"><param name="allowScriptAccess" value="always" /><param name="movie" value="http://mitworld.mit.edu/flash/player/Main.swf?host=cp58255.edgefcs.net&flv=mitw-00862-comm-forum-mit5-collective-intel-pt2-27apr2007&preview=http://mitworld.mit.edu//uploads/mitwstill-00862-comm-forum-mit5-collective-intel-pt2-27apr2007.jpg" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><embed src="http://mitworld.mit.edu/flash/player/Main.swf?host=cp58255.edgefcs.net&flv=mitw-00862-comm-forum-mit5-collective-intel-pt2-27apr2007&preview=http://mitworld.mit.edu//uploads/mitwstill-00862-comm-forum-mit5-collective-intel-pt2-27apr2007.jpg" quality="high" bgcolor="#000000" width="481" height="361" name="Main" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
+•	Keynote speaker at Cisco, ISBG offsite conference, March 2007.
+•	Presented “Future of Innovation” at Freedom to Connect conference, March 2007.
+•	Presented “Collapsing Geography” at Microsoft Academic Days conference, February 2007.
