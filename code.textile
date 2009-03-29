@@ -7,7 +7,7 @@ h1. "This blog":http://github.com/cory/cory.github.com
 
 Data for this blog is hosted at "github":http://github.com/cory/cory.github.com.  Driven to this by Blogger's incredible volume of comment spam.
 
-h1. "Mockup to HTML conversion routines":http://github.com/cory/mockup/
+h1. "Mockup to html conversion routines":http://github.com/cory/mockup/
 
 h2. What it is
 
