@@ -39,10 +39,12 @@ div {
 
 a {
   color:#a00;
+  text-decoration: none;  
 }
 
 a:link {
   color:#a00;
+  text-decoration: none;  
 }
 
 a:hover {
@@ -61,22 +63,32 @@ p {
 
 h1 {
   font-size: 120%;
+  padding-bottom: .2em;
+  margin-bottom: .5em;
 }
 
 h2 {
   font-size: 110%;
+  padding-bottom: .2em;
+  margin-bottom: .5em;
 }
 
 h3 {
   font-size: 100%;
+  padding-bottom: .2em;
+  margin-bottom: .5em;
 }
 
 h4 {
   font-size: 90%;
+  padding-bottom: .2em;
+  margin-bottom: .5em;
 }
 
 h5 {
   font-size: 80%;
+  padding-bottom: .2em;
+  margin-bottom: .5em;
 }
 
 .speaking * {
@@ -86,18 +98,18 @@ h5 {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
-  font-size: 90%;
+  font-size: 100%;
 }
 
 ul.posts li {
   line-height: 1em;
-  font-size: 90%;
+  font-size: 100%;
 }
 
 ul.posts span {
   color: #aaa;
   font-family: Monaco, monospace;
-  font-size: 90%;
+  font-size: 100%;
 }
 
 .topics {
@@ -168,11 +180,23 @@ ul.posts span {
   color: #666;  
 }
 
+#post h1 {
+  color: #666;  
+  border-bottom: 1px groove;
+}
+
+#post h2 {
+  color: #666;  
+  border-bottom: 1px dotted;
+}
+
 #post #posttitle {
   color: #aaa;
-  border-bottom: 1px solid #ddd;
+  background-color: #222;
+  border-top: 1px ridge #ddd;
+  border-bottom: 1px ridge #ddd;
   padding-bottom: .2em;
-  margin-bottom: .4em;
+  margin-bottom: 1em;
 }
 
 /* standard */

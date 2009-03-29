@@ -1,0 +1,22 @@
+---
+layout: post
+title: a whole new blog
+---
+
+h1. took you long enough
+
+Yes, it has taken forever, but I'm finally ready to move over to Jekyll full time.  Will turn Feedburner on, move DNS over today, and put up a goodbye post on Blogger.  I've pulled my "talks":./speaking and "presentations":./writing into more web-friendly formats, found videos of talks where they exist, and had fun moving docs to "Scribd":http://www.scribd.com/people/view/7541203-cory-ondrejka.
+
+h1. really, why the delay?
+
+I mucked around with Wordpress and other blogging options but didn't find anything that really grabbed.  Self-hosting seemed like too much work.  Moreover, static sites + lots of javascript fits into my ideas of The Right Way(tm) to use the web, so being able to use "Github":http://github.com, "Disqus":http://disqus.com, Scribd, <i>et al</i> made sense to me.
+
+Plus, it was a chance to learn more HTML and textile.
+
+Overall, Jekyll seems to mostly work.  The "LSI":http://en.wikipedia.org/wiki/Latent_semantic_analysis approach to "similar posts" doesn't seem to work at all.  May try turning it back on once I have more stuff written.  As a templating system, Liquid is quirky and makes we long for just using Ruby a la Rails, but it has been good enough so far, although I'm not happy with the options for categories and tags yet.
+
+I may just be using it incorrectly.
+
+h1. is this blog going to stick?
+
+I don't know.  There are small elements that are annoying, because I don't have my work flow down.  I think I want to write something akin to Cory's "Flashbake":http://wiki.github.com/commandline/flashbake more targeted to blogging.  Probably already written somewhere on Github, but small, fun side projects are one of lures of Ruby.

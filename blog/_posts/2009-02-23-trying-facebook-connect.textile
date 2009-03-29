@@ -1,5 +1,0 @@
----
-layout: post
-title: trying facebook connect
----
-Given that most folks I know already use Facebook, why not use Facebook connect for comments?  Let's see if this works...

@@ -1,5 +1,0 @@
----
-layout: post
-title: more playing around
----
-Textile is barfing in the related posts calculation.  Wonder if it is due to having less than 3 posts?
