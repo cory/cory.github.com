@@ -20,5 +20,5 @@ title: collapsing geography
   </ul>
 </div>
 <div class="content">
-  my abandoned blogger blog is <a href="http://ondrejka.blogspot.com">here</a>
+  <h5>my abandoned blogger blog is <a href="http://ondrejka.blogspot.com">here</a></h5>
 </div>

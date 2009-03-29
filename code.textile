@@ -3,4 +3,27 @@ layout: default
 title: code
 ---
 
-Interesting code stuff will go here
+h1. "This blog":http://github.com/cory/cory.github.com
+
+Data for this blog is hosted at "github":http://github.com/cory/cory.github.com.  Driven to this by Blogger's incredible volume of comment spam.
+
+h1. "Mockup to HTML conversion routines":http://github.com/cory/mockup/
+
+h2. What it is
+
+A set of routines built around the file mockup.rb.
+
+Usage: mockup [ options ]
+    -p, --pasteboard                 Use pasteboard rather than file
+    -n, --name [basename]            Basename for files created by exporter
+    -s, --source [filename]          File to use rather than pasteboard
+    -h, --help                       You're looking at it
+
+Allows you to convert from Balsamiq Mockup's XML file to HTML, css, and Javascript.
+
+h2. "But, why?" you ask
+
+I needed something fun to do as a general learning project for Ruby, BDD, rspec, autotest, etc.  I think Mockups is awesome, so though parsing the XML files would be a good exercise.  Plus, I can imagine some cases where being able to go straight to HTML would make Mockups even more useful.
+
+This is unlikely to be worked on again, but was fun to write.
+
