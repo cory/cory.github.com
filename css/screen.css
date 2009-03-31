@@ -11,7 +11,7 @@
   font-family: inherit;
   font-style: inherit;
   font-size: 100%;
-  color: #666;
+  color: #aaa;
   border: 0 none;
   outline: 0;
   padding: 0;
@@ -27,7 +27,7 @@ em, i {
 }
 
 body {
-  background-color: #050505;
+  background-color: #000;
   font-size: 100%;
   font-family: ”Lucida Grande”,”Lucida Sans Unicode”,arial,sans-serif;
   color: #ccc;
@@ -125,7 +125,7 @@ ul.posts span {
 }
 
 .title {
-  color: #666;
+  color: #888;
   font-size: 120%;
   margin-bottom: 1.75em;
   padding-bottom: 0.25em;
@@ -133,7 +133,7 @@ ul.posts span {
 }
 
 .site .title a {
-  color: #666;
+  color: #888;
   text-decoration: none;
 }
   

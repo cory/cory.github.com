@@ -1,0 +1,12 @@
+---
+layout: post
+title: engine yard is back, tweaking contrast
+---
+
+Looks like "Engine Yard's":http://engineyard.wordpress.com/ problems are fixed, so "Github":http://github.com is back up.  Rough day for them and definitely brings back memories of rough days on "Second Life":http://secondlife.com.
+
+In other news, tweaked the contrast a bit.  Programmers seem to broadly split into %{border:1px gray solid; color:white; background-color:blue}light text on dark background% and %{border:1px gray solid; color:black; background-color:white}dark text on light background% camps -- ok, we also split on emacs versus vi, command line versus ide, and perl verus python -- and I have always preferred %{border:1px gray solid; color:white; background-color:blue}light on dark%.
+
+Combine that with the <a href="http://www.amazon.com/gp/product/B001GCTT80?ie=UTF8&tag=collapsinggeo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001GCTT80">MBA's</a><img src="http://www.assoc-amazon.com/e/ir?t=collapsinggeo-20&l=as2&o=1&a=B001GCTT80" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/> amazing screen, and I didn't realize how hard the site was to read.
+
+Let me know in the comments whether this is better.
