@@ -7,4 +7,4 @@ One of the aspects of "Second Life":http://secondlife.com development that made 
 
 Apparently that has now changed.
 
-The "Hero Engine":http://www.heroengine.com/world.asp, which powers the new Star Wars MMO, is built around real-time collaboration inside the engine.  Very cool and exciting to see.  "Simutronics":http://www.play.net/corporate/ has been working on this engine for a while, so congratulations on getting it to the point of being production ready!
+The "Hero Engine":http://www.heroengine.com/world.asp, which powers the new Star Wars MMO, is built around real-time collaboration inside the engine.  "Massively":http://www.massively.com/2009/03/31/gdc09-how-heroengine-revolutionizes-mmorpg-game-design/ has a nice write-up of why this is so cool. "Simutronics":http://www.play.net/corporate/ has been working on this engine for a while, so congratulations on getting it to the point of being production ready!
