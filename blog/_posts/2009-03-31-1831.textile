@@ -1,0 +1,10 @@
+---
+layout: post
+title: collaborative creation
+---
+
+One of the aspects of "Second Life":http://secondlife.com development that made it so amazing was collaborative creation, the joy of being able to work with people around the world, in real time.  From the very beginning, we made sure that as much of your activity as possible was reflected into the world.  It has amazed me that nobody has picked up on this.
+
+Apparently that has now changed.
+
+The "Hero Engine":http://www.heroengine.com/world.asp, which powers the new Star Wars MMO, is built around real-time collaboration inside the engine.  Very cool and exciting to see.  "Simutronics":http://www.play.net/corporate/ has been working on this engine for a while, so congratulations on getting it to the point of being production ready!
