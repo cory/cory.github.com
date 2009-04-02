@@ -1,6 +1,7 @@
 ---
 layout: post
 title: lsl1
+excerpt: I just had a chance to read <a href="http://nwn.blogs.com/">James Au</a>'s new book, <a href="http://www.amazon.com/Making-Second-Life-Notes-World/dp/0061353205">The Making of Second Life.</a>  It was a fun read, but like any collection of memories, it captures only a tiny slice of the events that went into making <a href="http://secondlife.com">Second Life</a>.  So, I think it would be fun to make a semi-regular part of this site different moments from my memories of the first 7 years of Second Life.
 ---
 I just had a chance to read <a href="http://nwn.blogs.com/">James Au</a>'s new book, <a href="http://www.amazon.com/Making-Second-Life-Notes-World/dp/0061353205">The Making of Second Life.</a>  It was a fun read, but like any collection of memories, it captures only a tiny slice of the events that went into making <a href="http://secondlife.com">Second Life</a>.  So, I think it would be fun to make a semi-regular part of this site different moments from my memories of the first 7 years of Second Life.
 

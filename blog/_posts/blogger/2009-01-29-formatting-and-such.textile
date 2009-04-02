@@ -1,5 +1,6 @@
 ---
 layout: post
 title: formatting and such
+excerpt: Starting from scratch on design, as opposed to a "Blogger":http://ondrejka.blogspot.com template, feels very different.  Trying to do a little bit at a time and see where it leads.
 ---
 Starting from scratch on design, as opposed to a "Blogger":http://ondrejka.blogspot.com template, feels very different.  Trying to do a little bit at a time and see where it leads.

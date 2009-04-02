@@ -1,5 +1,6 @@
 ---
 layout: post
 title: disqus for comments
+excerpt: Along with a lot of the other geeks moving over to "jekyll":http://github.com/mojombo/jekyll/tree/master, it makes sense to try "disqus":http://disqus.com/ for comments.  Disqus lets you login with "Facebook Connect":http://developers.facebook.com/connect.php so you can either sign up via Disquq or use your Facebook login.
 ---
 Along with a lot of the other geeks moving over to "jekyll":http://github.com/mojombo/jekyll/tree/master, it makes sense to try "disqus":http://disqus.com/ for comments.  Disqus lets you login with "Facebook Connect":http://developers.facebook.com/connect.php so you can either sign up via Disquq or use your Facebook login.

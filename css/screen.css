@@ -97,19 +97,19 @@ h5 {
 
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
-  font-size: 100%;
+  margin-bottom: 0.1em;
+  font-size: 90%;
 }
 
 ul.posts li {
-  line-height: 1em;
-  font-size: 100%;
+  line-height: 0.5em;
+  font-size: 90%;
 }
 
 ul.posts span {
   color: #aaa;
   font-family: Monaco, monospace;
-  font-size: 100%;
+  font-size: 90%;
 }
 
 .topics {
@@ -151,6 +151,9 @@ ul.posts span {
   color: white;
 }
 
+.footer {
+  clear:both;
+}
 
 .site .footer {
   font-size: 80%;
@@ -169,6 +172,25 @@ ul.posts span {
 .site .footer .rss img {
   border: 0;
 }
+
+.floatleft {
+  float:left;
+  width:15em;
+}
+
+.right {
+  margin-left:15em;
+}
+
+.posttitle {
+  width:10em;
+  position: relative;
+  top: -0.8em;
+  left: 6em;
+  text-align: right;
+  line-height: 1em;
+
+}
     
 /*****************************************************************************/
 /*
@@ -178,6 +200,8 @@ ul.posts span {
 
 #post {
   color: #666;  
+  padding-top: .5em;
+  padding-bottom: .5em;
 }
 
 #post h1 {
@@ -196,7 +220,6 @@ ul.posts span {
   border-top: 1px ridge #ddd;
   border-bottom: 1px ridge #ddd;
   padding-bottom: .2em;
-  margin-bottom: 1em;
 }
 
 /* standard */

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: engine yard is back, tweaking contrast
+excerpt: Looks like "Engine Yard's":http://engineyard.wordpress.com/ problems are fixed, so "Github":http://github.com is back up.  Rough day for them and definitely brings back memories of rough days on "Second Life":http://secondlife.com.
 ---
 
 Looks like "Engine Yard's":http://engineyard.wordpress.com/ problems are fixed, so "Github":http://github.com is back up.  Rough day for them and definitely brings back memories of rough days on "Second Life":http://secondlife.com.

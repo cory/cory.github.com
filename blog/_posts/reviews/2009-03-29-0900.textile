@@ -1,6 +1,7 @@
 ---
 layout: post
 title: a whole new blog
+excerpt: Yes, it has taken forever, but I'm finally ready to move over to Jekyll full time.  Will turn Feedburner on, move DNS over today, and put up a goodbye post on Blogger.  I've pulled my "talks":./speaking and "presentations":./writing into more web-friendly formats, found videos of talks where they exist, and had fun moving docs to "Scribd":http://www.scribd.com/people/view/7541203-cory-ondrejka.
 ---
 
 h1. took you long enough

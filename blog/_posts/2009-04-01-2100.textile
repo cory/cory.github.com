@@ -1,0 +1,7 @@
+---
+layout: post
+title: blog revamp
+excerpt: Based on suggestions, added excerpts and tightened the site up a fair amount.  Adding in excerpts required editing existing posts, so this may blitz existing comments, which is a bummer.  However, this is what testing is all about.
+---
+
+Based on suggestions, added excerpts and tightened the site up a fair amount.  Adding in excerpts required editing existing posts, so this may blitz existing comments, which is a bummer.  However, this is what testing is all about.

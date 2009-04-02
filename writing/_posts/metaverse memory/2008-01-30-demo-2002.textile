@@ -1,6 +1,7 @@
 ---
 layout: post
 title: demo 2002
+excerpt: The <a href="http://www.demo.com/">Demo</a> conference is going on right now and the blogosphere is <a href="http://mashable.com/2008/01/30/demo-08-roundup-2/">abuzz</a>.  Certainly, Demo doesn't have the same glow that it did during the dotcom bubble, but I'm hearing more about it this year than I have for a while.  This got me thinking about <a href="http://lindenlab.com/pressroom/releases/02_02_11">Demo 2002</a>, when LindenWorld was first showed to the public.
 ---
 The <a href="http://www.demo.com/">Demo</a> conference is going on right now and the blogosphere is <a href="http://mashable.com/2008/01/30/demo-08-roundup-2/">abuzz</a>.  Certainly, Demo doesn't have the same glow that it did during the dotcom bubble, but I'm hearing more about it this year than I have for a while.  This got me thinking about <a href="http://lindenlab.com/pressroom/releases/02_02_11">Demo 2002</a>, when LindenWorld was first showed to the public.
 

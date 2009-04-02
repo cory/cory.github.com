@@ -1,6 +1,7 @@
 ---
 layout: post
 title: changing views
+excerpt: At Linden Lab, we took a brief look at Ruby in 2006.  Some Rails code had snuck into deployment and as we were digging into refactoring back end communications, Ruby and Rails came up as an option.  At the time, I remember thinking that Ruby had a comfortable syntax and was as easy as Perl for whipping out quick-and-dirty tasks.  Early performance testing was not encouraging and that first production piece of Rails code had issues, however, so Ruby and Rails got lumped together in the collective Linden hive mind as Bad Technology(tm).
 ---
 At Linden Lab, we took a brief look at Ruby in 2006.  Some Rails code had snuck into deployment and as we were digging into refactoring back end communications, Ruby and Rails came up as an option.  At the time, I remember thinking that Ruby had a comfortable syntax and was as easy as Perl for whipping out quick-and-dirty tasks.  Early performance testing was not encouraging and that first production piece of Rails code had issues, however, so Ruby and Rails got lumped together in the collective Linden hive mind as Bad Technology(tm).
 

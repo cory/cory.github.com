@@ -1,6 +1,7 @@
 ---
 layout: post
 title: posts out of order
+excerpt: Looks like running Jekyll locally generates different results than when Github runs it after a push.  My local site shows these posts in the correct order.  A mystery!
 ---
 
 Looks like running Jekyll locally generates different results than when Github runs it after a push.  My local site shows these posts in the correct order.  A mystery!

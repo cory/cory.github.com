@@ -1,6 +1,7 @@
 ---
 layout: post
 title: collaborative creation
+excerpt: One of the aspects of "Second Life":http://secondlife.com development that made it so amazing was collaborative creation, the joy of being able to work with people around the world, in real time.
 ---
 
 One of the aspects of "Second Life":http://secondlife.com development that made it so amazing was collaborative creation, the joy of being able to work with people around the world, in real time.  From the very beginning, we made sure that as much of your activity as possible was reflected into the world.  It has amazed me that nobody has picked up on this.
