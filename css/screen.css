@@ -189,7 +189,21 @@ ul.posts span {
   left: 6em;
   text-align: right;
   line-height: 1em;
+}
 
+.search {
+  width:9.5em;
+  background-color:#222;
+  color: #eee;
+  border-bottom: 1px dashed white;
+}
+    
+.searchbutton {
+  font-size: 80%;
+  width:4em;
+  background-color:#222;
+  color: #eee;
+  border: 1px solid white;
 }
     
 /*****************************************************************************/

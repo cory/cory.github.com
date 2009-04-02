@@ -20,7 +20,13 @@ title: collapsing geography
     </ul>
   </div>
   <div class="content">
-    <h5>my abandoned blogger blog is <a href="http://ondrejka.blogspot.com">here</a></h5>
+    <form method="get" action="http://www.google.com/search">
+      <div>
+        <input type="text" id="search" value="" class="search"/>
+        <input type="hidden" name="q" value="site:cory.github.com" />
+        <input type="submit" value="search" class="searchbutton" />
+      </div>
+    </form>
   </div>
 </div>
 <div class="right">
