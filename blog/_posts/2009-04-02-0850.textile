@@ -1,0 +1,13 @@
+---
+layout: post
+title: why learning projects are fun
+excerpt: Dropped Peldi of "Mockups":http://www.balsamiq.com fame a note letting him know about my quick-and-dirty "Mockups-to-HTML":http://cory.github.com/code.html Ruby learning project.  He's "pointing his community":http://www.getsatisfaction.com/balsamiq/topics/bmml_html_css_ruby_converter at it!
+---
+
+Dropped Peldi of "Mockups":http://www.balsamiq.com fame a note letting him know about my quick-and-dirty "Mockups-to-HTML":http://cory.github.com/code.html Ruby learning project.  He's "pointing his community":http://www.getsatisfaction.com/balsamiq/topics/bmml_html_css_ruby_converter at it!
+
+I hope that someone finds it useful.  I'm unlikely to revisit the code any time soon, but even if it only serves as inspiration for a more useful project in the future, it has served it's purpose.
+
+Plus it was fun to write.
+
+Even better, Peldi just documented his "BMML spec":http://www.balsamiq.com/products/mockups/help/bmml which I had just picked through by hand, so I bet more interesting projects will be on the way soon!

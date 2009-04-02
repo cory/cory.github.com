@@ -7,7 +7,7 @@ title: collapsing geography
     <ul class="posts">
       blog updates
       {% for post in site.categories.blog limit:5 %}
-      <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div></li>
+      <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle" style="color:white"><a href="{{ post.url }}">{{ post.title }}</a> (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</div></li>
       {% endfor %}
     </ul>
   </div>
@@ -15,7 +15,7 @@ title: collapsing geography
     <ul class="posts">
       writing and older blog posts
       {% for post in site.categories.writing limit:5 %}
-      <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div></li>
+      <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle" style="color:white"><a href="{{ post.url }}">{{ post.title }}</a> (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</div></li>
       {% endfor %}
     </ul>
   </div>
@@ -27,7 +27,7 @@ title: collapsing geography
   <div class="content">
     <ul class="posts">
       <div id="post">
-        {% for post in site.categories.blog limit:3 %}
+        {% for post in site.categories.blog limit:4 %}
         <div id="post">
           <h1 id="posttitle">{{ post.title }}</h1>
           {{ post.excerpt | textilize}}<a href="{{ post.url }}"> &raquo;</a>
