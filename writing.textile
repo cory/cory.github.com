@@ -1,6 +1,6 @@
 ---
 layout: default
-title: writing
+title: cory ondrejka's writing
 ---
 
 <div class="floatleft">

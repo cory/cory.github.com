@@ -1,6 +1,6 @@
 ---
 layout: default
-title: code
+title: cory ondrejka's code
 ---
 
 h1. "This blog":http://github.com/cory/cory.github.com

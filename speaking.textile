@@ -1,6 +1,6 @@
 ---
 layout: default
-title: speaking
+title: cory ondrejka's talks
 ---
 Cory is represented by the <a href="http://www.washingtonspeakers.com/speakers/speaker.cfm?speakerid=6164">Washington Speakers Bureau</a>
 

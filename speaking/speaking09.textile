@@ -1,6 +1,6 @@
 ---
 layout: default
-title: speaking
+title: cory ondrejka's talks from 2009
 ---
 *2009*
 • Keynote, Canadian Music Week, Toronto, March 2009.

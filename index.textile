@@ -1,6 +1,6 @@
 ---
 layout: default
-title: collapsing geography
+title: cory ondrejka's github blog
 ---
 <div class="floatleft">
   <div class="content">

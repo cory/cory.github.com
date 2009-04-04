@@ -1,6 +1,6 @@
 ---
 layout: default
-title: publications
+title: cory ondrejka's publications
 ---
 
 *Ondrejka, C. “Collapsing Geography,” Innovations: Technology | Governance | Globalization, MIT Press, 2007*

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: speaking
+title: cory ondrejka's talks from 2006 and earlier
 ---
 *2006*
 •	Keynote speaker at Beyond 2006, November 2006.

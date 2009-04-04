@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blog
+title: cory ondrejka's blog
 ---
 
 <div class="floatleft">

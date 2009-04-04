@@ -1,6 +1,6 @@
 ---
 layout: default
-title: speaking
+title: cory ondrejka's talks from 2007
 ---
 *2007*
 •	Keynote speaker to European Commission Publisher’s Forum, December 2007.

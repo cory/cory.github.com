@@ -1,6 +1,6 @@
 ---
 layout: default
-title: speaking
+title: cory ondrejka's talks from 2008
 ---
 *2008*
 •	Keynote speaker, "Recursive Innovation - Building Linden Lab and Second Life," Computer Supported Cooperative Work, San Diego, CA, November 2008.
