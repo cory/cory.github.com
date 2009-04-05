@@ -1,0 +1,14 @@
+---
+layout: post
+title: making podcast music show up in iPod shuffle play
+excerpt: The is a ton of online discussion of what to do in iTunes if you get a lot of music in podcasts.  iTunes tries to be helpful and by default doesn't include podcasts in shuffle mode.  More confusing the Google searchers, older versions of iTunes treated podcasts differently than other music, so there are hints on line ranging from "remove the ID3 tags" to "reencode as AAC."  You don't need to do any of these things.
+---
+
+The is a ton of online discussion of what to do in iTunes if you get a lot of music in podcasts.  iTunes tries to be helpful and by default doesn't include podcasts in shuffle mode.  More confusing the Google searchers, older versions of iTunes treated podcasts differently than other music, so there are hints on line ranging from "remove the ID3 tags" to "reencode as AAC."  You don't need to do any of these things.
+
+Instead, it's very simple:
+* Move the podcast songs into playlists you like
+* Right-click (or control click) on the song to bring up the context menu, choose "Get Info"
+* Select the "Options" tab and uncheck the "Skip when shuffling" checkbox
+
+Re-sync your iPhone and you're done.  Your entire playlist will show up in shuffle! If you have lots of Podcast music, you can multiselect them and bring up "Get Info" on all the songs at once.

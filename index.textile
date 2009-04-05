@@ -31,7 +31,7 @@ title: cory ondrejka's github blog
 </div>
 <div class="right">
   <div class="content">
-    <ul class="posts">
+    <ul class="excerpts">
       <div id="post">
         {% for post in site.categories.blog limit:4 %}
         <div id="post">
