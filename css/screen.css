@@ -127,7 +127,7 @@ ul.posts span {
 .title {
   color: #888;
   font-size: 120%;
-  margin-bottom: 1.75em;
+  margin-bottom: 0.15em;
   padding-bottom: 0.25em;
   border-bottom: 1px solid #eee;
 }
@@ -215,7 +215,7 @@ ul.posts span {
 #post {
   color: #666;  
   padding-top: .5em;
-  padding-bottom: .5em;
+  padding-bottom: .1em;
 }
 
 #post h1 {
@@ -233,7 +233,7 @@ ul.posts span {
   background-color: #222;
   border-top: 1px ridge #ddd;
   border-bottom: 1px ridge #ddd;
-  padding-bottom: .2em;
+  padding-bottom: .15em;
 }
 
 /* standard */
