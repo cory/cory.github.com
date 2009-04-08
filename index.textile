@@ -36,7 +36,7 @@ title: cory ondrejka's github blog
         {% for post in site.categories.blog limit:4 %}
         <div id="post">
           <h1 id="posttitle">{{ post.title }}</h1>
-          {{ post.excerpt | textilize}}<a href="{{ post.url }}"> &raquo;</a>
+          {{ post.excerpt }} <a href="{{ post.url }}"> &raquo; </a>
         </div>
         {% endfor %}
       </div>
