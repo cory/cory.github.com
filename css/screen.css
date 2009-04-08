@@ -11,7 +11,7 @@
   font-family: inherit;
   font-style: inherit;
   font-size: 100%;
-  color: #aaa;
+  color: #ccc;
   border: 0 none;
   outline: 0;
   padding: 0;
@@ -30,7 +30,7 @@ body {
   background-color: #000;
   font-size: 100%;
   font-family: ”Lucida Grande”,”Lucida Sans Unicode”,arial,sans-serif;
-  color: #ccc;
+  color: #ddd;
 }
 
 .floatname {
@@ -47,10 +47,13 @@ div {
 
 a {
   color:#d22;
-  text-decoration: none;  
 }
 
 a:link {
+  color:#d22;
+}
+
+a:visited {
   color:#d22;
   text-decoration: none;  
 }
@@ -228,18 +231,18 @@ ul.posts span {
 /*****************************************************************************/
 
 #post {
-  color: #666;  
+  color: #aaa;  
   padding-top: .5em;
   padding-bottom: .1em;
 }
 
 #post h1 {
-  color: #666;  
+  color: #aaa;  
   border-bottom: 1px groove;
 }
 
 #post h2 {
-  color: #666;  
+  color: #aaa;  
   border-bottom: 1px dotted;
 }
 

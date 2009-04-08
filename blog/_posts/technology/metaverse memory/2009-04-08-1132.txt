@@ -1,0 +1,11 @@
+---
+layout: post
+title: tipping, aka the love machine, hits the big time
+excerpt: One of the ideas at "Linden Lab":http://secondlife.com that I am most fond of was tipping, which Philip renamed to "The Love Machine." I am completely jazzed to see "TipJoy":http://tipjoy.com/twitterapps/ take the idea to the big time, by combining TipJoy's easy micro-payment system with Twitter and PayPal.  This is seriously awesome.
+---
+
+One of the ideas at "Linden Lab":http://secondlife.com that I am most fond of was tipping, which Philip renamed to "The Love Machine."  The idea was that as people become busy, it becomes easier to forget to thank coworkers for going a bit out of their way to help you.  Finding a crucial bug, crunching some extra numbers, helping you figure out the right person to take a question to,  All no problem with a bit of help, but serious suck if not. My idea was to create a positive-sum, transparent game, where anyone could give a coworker a tip and bit of text as thanks.  This way, when someone helped you, you could say "thank you" publicly and give them a tiny amount of money.  I expected this to have a few benefits.
+
+First, people like being thanked, especially publicly.  Second, by giving a bit of money with tips, the thanks felt real.  Third, the overall network was interesting to study.  Who got the most tips, what subnetworks evolved, who wasn't every getting any tips, who tried to game the system were all possible questions.  Ultimately, because of the transparency, nobody was dumb enough to try and game it and the a lot of the data was interesting, at least early on.  The system, like so much of Linden Lab, ran into organizational scale issues, but the basic idea ended up being very cool.
+
+So, I am completely jazzed to see "TipJoy":http://tipjoy.com/twitterapps/ take the idea to the big time, by combining TipJoy's easy micro-payment system with Twitter and PayPal.  This is seriously awesome.  Obviously, it is zero-sum rather than positive-sum (although you could use it just like the Linden Love Machine if you had a central funder) but it is incredibly low friction and flexible.  I expect we'll see some very cool ideas layered on top of this!
