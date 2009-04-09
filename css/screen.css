@@ -46,15 +46,15 @@ div {
 }
 
 a {
-  color:#d22;
+  color:#F00;
 }
 
 a:link {
-  color:#d22;
+  color:#f00;
 }
 
 a:visited {
-  color:#d22;
+  color:f00;
   text-decoration: none;  
 }
 
