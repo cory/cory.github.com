@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writing
 title: connections and networking
 excerpt: I was chatting with <a href="http://zero.hastypastry.net/pathfinder/">Pathfinder</a> at the <a href="http://www.virtualworlds2008.com/media/releases.html">Virtual Worlds Conference 08</a> in New York and we realized that there were two particularly long chains of personal connections that were relevant to the event and <a href="http://secondlife.com">Second Life</a>.  The first was the <a href="http://ondrejka.blogspot.com/2008/02/speaking.html">State of Play</a> conference, the second a video I had just been emailed showing Second Life being used for public diplomacy in Doha, Qatar.
 ---

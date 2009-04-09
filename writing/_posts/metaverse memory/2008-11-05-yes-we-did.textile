@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writing
 title: yes we did
 excerpt: I'm writing 38,000 feet over the North Atlantic and I feel like jumping up and down.  I'd probably end up arrested and the flight diverted to Reykjavik if I did, so perhaps not.
 ---
