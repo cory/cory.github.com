@@ -27,7 +27,7 @@ em, i {
 }
 
 body {
-  background-color: #000;
+  background-color: #151a1a;
   font-size: 100%;
   font-family: ”Lucida Grande”,”Lucida Sans Unicode”,arial,sans-serif;
   color: #ddd;
@@ -46,11 +46,11 @@ div {
 }
 
 a {
-  color:#F00;
+  color:#E73;
 }
 
 a:link {
-  color:#f00;
+  color:#E73;
 }
 
 a:visited {
@@ -137,7 +137,7 @@ ul.posts span {
 
 .site {
   text-align: left;
-  width: 50em;
+  width: 52em;
   margin: 2em auto 2em auto;
   line-height: 1.2em;
 }
@@ -145,7 +145,7 @@ ul.posts span {
 .title {
   color: #888;
   font-size: 120%;
-  margin-bottom: 0.15em;
+  margin-bottom: 1em;
   padding-bottom: 0.25em;
   border-bottom: 1px solid #eee;
 }
@@ -200,6 +200,11 @@ ul.posts span {
   margin-left:15em;
 }
 
+.center {
+  margin-left:5em;
+  margin-right:5em;
+}
+
 .posttitle {
   width:10em;
   position: relative;
@@ -233,7 +238,8 @@ ul.posts span {
 #post {
   color: #aaa;  
   padding-top: .5em;
-  padding-bottom: .1em;
+  padding-bottom: .5em;
+  line-height: 1.5em;
 }
 
 #post h1 {
