@@ -1,0 +1,7 @@
+---
+layout: post
+title: lots of laughing during user testing
+excerpt: Major changes coming to the blog styling.  Just got a rather extensive critique, so when I get some free time I will work on version two.  Thanks for the patience (or for reading via "Feedburner":http://feeds2.feedburner.com/github/fgmV link).
+---
+
+Major changes coming to the blog styling.  Just got a rather extensive critique, so when I get some free time I will work on version two.  Thanks for the patience (or for reading via "Feedburner":http://feeds2.feedburner.com/github/fgmV link).
