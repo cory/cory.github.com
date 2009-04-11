@@ -69,6 +69,7 @@ a:hover {
 }
 
 p {
+  color: #aaa;  
   margin-bottom: 1em;
 }
 
@@ -116,7 +117,6 @@ ul.posts {
 .excerpts {
   list-style-type: none;
   margin-bottom: 0.1em;
-  font-size: 90%;
 }
 
 ul.posts li {
@@ -198,11 +198,6 @@ ul.posts span {
 
 .right {
   margin-left:15em;
-}
-
-.center {
-  margin-left:5em;
-  margin-right:5em;
 }
 
 .posttitle {

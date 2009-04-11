@@ -1,0 +1,7 @@
+---
+layout: code
+title: balsamiq mockup xml to html conversion routines
+excerpt: I needed something fun to do as a general learning project while learning the programming language Ruby, behavior driven development, and the testing tools rspec and autotest.  I wrote about the early exploration "here":http://cory.github.com/writing/2009/01/12/changing-views.html.  I decided to play with converting from "Balsamiq Mockups":http://www.balsamiq.com/products/mockups to HTML because Balsamiq is very cool, it provided a relatively complicated text case, and I can imagine some cases where being able to go straight to HTML would make Mockups even more useful.  Full description, instructions for use, and code on "GitHub":http://github.com/cory/mockup/. This is unlikely to be worked on again, but was fun to write.
+---
+
+I needed something fun to do as a general learning project while learning the programming language Ruby, behavior driven development, and the testing tools rspec and autotest.  I wrote about the early exploration "here":http://cory.github.com/writing/2009/01/12/changing-views.html.  I decided to play with converting from "Balsamiq Mockups":http://www.balsamiq.com/products/mockups to HTML because Balsamiq is very cool, it provided a relatively complicated text case, and I can imagine some cases where being able to go straight to HTML would make Mockups even more useful.  Full description, instructions for use, and code on "GitHub":http://github.com/cory/mockup/. This is unlikely to be worked on again, but was fun to write.

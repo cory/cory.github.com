@@ -1,0 +1,7 @@
+---
+layout: code
+title: hosting this blog on github
+excerpt: This blog has the text, markup, and css hosted on "GitHub":http://github.com, a most excellent service that provides storage of "git":http://en.wikipedia.org/wiki/Git_(software) repositories. Git is normally used for revision control of software code, but it is also possible to use it for storing text or other data. This blog uses "GitHub pages":http://github.com/blog/272-github-pages to automatically convert the "repository":http://github.com/cory/cory.github.com into the "blog":http://cory.github.com. I am also using the open source project "Jekyll":http://github.com/mojombo/jekyll/tree/master and to test changes to style, layout, and to preview new posts.
+---
+
+This blog has the text, markup, and css hosted on "GitHub":http://github.com, a most excellent service that provides storage of "git":http://en.wikipedia.org/wiki/Git_(software) repositories. Git is normally used for revision control of software code, but it is also possible to use it for storing text or other data. This blog uses "GitHub pages":http://github.com/blog/272-github-pages to automatically convert the "repository":http://github.com/cory/cory.github.com into the "blog":http://cory.github.com. I am also using the open source project "Jekyll":http://github.com/mojombo/jekyll/tree/master and to test changes to style, layout, and to preview new posts.

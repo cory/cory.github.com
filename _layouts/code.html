@@ -1,6 +1,5 @@
 ---
 layout: default
-title: cory ondrejka's open source code
 ---
 
 <div class="floatleft">
@@ -14,14 +13,10 @@ title: cory ondrejka's open source code
   </div>
 </div>
 <div class="right">
-  <div class="content">
-    <ul class="excerpts">
-        {% for post in site.categories.code limit:10 %}
-        <div id="post">
-          <h1 id="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          {{ post.excerpt }}  (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
-        </div>
-        {% endfor %}
-    </ul>
+  <div class="center">
+    <div id="post">
+      <h1 id="posttitle"><a href="/code.html">{{ page.title }}</a></h1>
+    {{ content }}
+    </div>
   </div>
 </div>
