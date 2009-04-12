@@ -223,7 +223,35 @@ ul.posts span {
   color: #eee;
   border: 1px solid white;
 }
-    
+
+/*****************************************************************************/
+/*
+/* disqus css
+/*
+/*****************************************************************************/
+
+.dsq-recent-comments {
+  width:10em;
+}
+
+.dsq-widget-item {
+  font-family: ”Lucida Grande”,”Lucida Sans Unicode”,arial,sans-serif;
+  font-size: 80%;
+  width:15.9em;
+  text-align: justify;
+  line-height: 1em;
+  margin: 0em;
+}
+
+.dsq-widget-user {
+  line-height: 1em;
+}
+
+.dsq-widget-comment {
+  color: #aaa;  
+  font-weight:none;
+}    
+
 /*****************************************************************************/
 /*
 /* Posts

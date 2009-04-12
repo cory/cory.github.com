@@ -19,16 +19,15 @@ title: cory ondrejka's github blog
       {% endfor %}
     </ul>
   </div>
-  <div class="floatleft">
-    <div class="content">
-      <ul class="posts">
-        open source code projects
-        {% for post in site.categories.code %}
-        <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div></li>
-        {% endfor %}
-      </ul>
-    </div>
+  <div class="content">
+    <ul class="posts">
+      open source code projects
+      {% for post in site.categories.code %}
+      <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div></li>
+      {% endfor %}
+    </ul>
   </div>
+  <div id="dsq-recentcomments" class="dsq-widget">recent comments<script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/recent_comments_widget.js?num_items=4&avatar_size=24&excerpt_length=100"></script></div><a href="http://disqus.com">powered by disqus</a>
   <div class="content">
     <form method="get" action="http://www.google.com/search">
       <div>
@@ -42,7 +41,7 @@ title: cory ondrejka's github blog
 <div class="right">
   <div>
     <ul class="excerpts">
-        {% for post in site.categories.blog limit:4 %}
+        {% for post in site.categories.blog limit:6 %}
         <div id="post">
           <h1 id="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
           {{ post.excerpt }}  (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
