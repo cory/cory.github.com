@@ -8,7 +8,9 @@ h1. License
 The following directories and their contents are Copyright Cory Ondrejka and licensed under a "Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License":http://creativecommons.org/licenses/by-nc-sa/3.0/:
 
 * blog
+* speaking
 * writing
+* code
 
 All other directories and HTML generally started off from "Tom Preston-Werner's":http://github.com/mojombo/jekyll example markup and is MIT licensed as follows:
 
