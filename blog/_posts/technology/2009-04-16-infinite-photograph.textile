@@ -1,0 +1,7 @@
+---
+layout: post
+title: national geographic infinite photograph
+excerpt: The National Geographic website has a very cool "infinite photograph":http://www.thegreenguide.com/infinite-photograph on it.  It doesn't seem to have enough photos (there are a lot of duplicates making up specific colors/intensities) but it is a neat effect.
+---
+
+The National Geographic website has a very cool "infinite photograph":http://www.thegreenguide.com/infinite-photograph on it.  It doesn't seem to have enough photos (there are a lot of duplicates making up specific colors/intensities) but it is a neat effect.
