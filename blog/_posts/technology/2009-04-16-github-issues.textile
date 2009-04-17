@@ -1,0 +1,11 @@
+---
+layout: post
+title: github picks up issues
+excerpt: GitHub continues its push to become a complete hub for development by adding quick-and-easy "issue tracking":http://github.com/blog/411-github-issue-tracker to projects.  For example, when "Heather":http://disqus.com/people/b12630fb3016e3b3e6b769fe730d21ed/ next has a complaint about the color scheme, she could open an "issue on it":http://github.com/cory/cory.github.com/issues.
+---
+
+GitHub continues its push to become a complete hub for development by adding quick-and-easy "issue tracking":http://github.com/blog/411-github-issue-tracker to projects.  For example, when "Heather":http://disqus.com/people/b12630fb3016e3b3e6b769fe730d21ed/ next has a complaint about the color scheme, she could open an "issue on it":http://github.com/cory/cory.github.com/issues.
+
+How long before GitHub takes a few pages from the "Innocentive":http://www.innocentive.com/ playbook?  They could easily add challenges and rewards via PayPal (or "TipJoy":http://cory.github.com/blog/2009/04/08/1132.html), simple project management, more collaboration tools, etc.
+
+
