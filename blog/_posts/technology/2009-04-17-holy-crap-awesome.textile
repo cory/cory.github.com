@@ -1,9 +1,7 @@
 ---
 layout: post
 title: holy crap awesome
-excerpt: I know, you're sick of "GitHub love":http://github.com, especially if you aren't a programmer, product manager, or developer of one stripe or another, but I really think these guys are on the right track.  They have opened up their "developer site":http://develop.github.com/ and have all the pieces to make just about any project tool you can imagine.  Thanks, guys!
+excerpt: I know, you're sick of "GitHub love":http://github.com, especially if you aren't a programmer, product manager, or developer of one stripe or another, but I really think these guys are on the right track.  They have opened up their "developer site":http://develop.github.com/ and have all the pieces to make just about any project tool you can imagine.  Thanks, guys!  Wonder if they'll figure out some profit sharing, bounty, or referral program to encourage you to make tools that generate paying GitHub accounts?
 ---
 
-I know, you're sick of "GitHub love":http://github.com, especially if you aren't a programmer, product manager, or developer of one stripe or another, but I really think these guys are on the right track.  They have opened up their "developer site":http://develop.github.com/ and have all the pieces to make just about any project tool you can imagine.  Thanks, guys!
-
-Wonder if they'll figure out some profit sharing, bounty, or referral program to encourage you to make tools that generate paying GitHub accounts?
+I know, you're sick of "GitHub love":http://github.com, especially if you aren't a programmer, product manager, or developer of one stripe or another, but I really think these guys are on the right track.  They have opened up their "developer site":http://develop.github.com/ and have all the pieces to make just about any project tool you can imagine.  Thanks, guys!  Wonder if they'll figure out some profit sharing, bounty, or referral program to encourage you to make tools that generate paying GitHub accounts?
