@@ -8,4 +8,3 @@ GitHub continues its push to become a complete hub for development by adding qui
 
 How long before GitHub takes a few pages from the "Innocentive":http://www.innocentive.com/ playbook?  They could easily add challenges and rewards via PayPal (or "TipJoy":http://cory.github.com/blog/2009/04/08/1132.html), simple project management, more collaboration tools, etc.
 
-
