@@ -1,0 +1,10 @@
+---
+layout: post
+title: xkcd makes me happy to be a geek
+excerpt: Geek humor at it's very best. <img src="http://imgs.xkcd.com/comics/cant_sleep.png" width="585" height="192" border="0">
+---
+
+Geek humor at it's very best. <img src="http://imgs.xkcd.com/comics/cant_sleep.png" width="585" height="192" border="0">
+
+
+
