@@ -41,10 +41,10 @@ title: cory ondrejka's github blog
 <div class="right">
   <div>
     <ul class="excerpts">
-        {% for post in site.categories.blog limit:6 %}
+        {% for post in site.categories.blog limit:5 %}
         <div id="post">
           <h1 id="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          {{ post.excerpt }}  (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
+          {{ post.content }} (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
         </div>
         {% endfor %}
     </ul>

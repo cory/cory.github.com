@@ -1,0 +1,7 @@
+---
+layout: post
+title: google's move into 3d on web
+---
+
+About a year ago, I wrote about betting on the web, surfing the wake of the whole world trying to make the web work better.  Since then, much has happened around graphics on the web.  The "canvas tag":http://www.benjoffe.com/code/demos/canvascape/ has taken off, great game engines like "Unity":http://unity3d.com/ are emerging, and "OpenGL":http://www.khronos.org/news/press/releases/khronos-launches-initiative-for-free-standard-for-accelerated-3d-on-web/ has turned its attention to the web.  Now, Google throws its hat in the ring with "o3d":http://code.google.com/apis/o3d/.  Very cool stuff when you think about how this will blend with Google's "3d warehouse":http://sketchup.google.com/3dwarehouse/ and "sketchup":http://sketchup.google.com/.  A much more interesting starting place for online collaboration than Lively.
+
