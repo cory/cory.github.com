@@ -1,0 +1,7 @@
+---
+layout: post
+title: the ultimate obscurity is not security story
+excerpt: Cool story on "Wired":http://www.wired.com/print/politics/security/news/2009/04/fleetcom about Brazilian hijacking of US military communication satellites.  Apparently, $500 gets you the kit and the knowledge to bounce off the FLTSATCOM transponders, which happily repeat any signal that hits their uplink antenna in the 292- to 317-MHz range.  Think about this discussion, "Do we need to have a security protocol for these birds?" "Nah, who's going to figure out where the satellite is, what frequency to hit it with, and then cobble the equipment together?"  Oops!
+---
+
+Cool story on "Wired":http://www.wired.com/print/politics/security/news/2009/04/fleetcom about Brazilian hijacking of US military communication satellites.  Apparently, $500 gets you the kit and the knowledge to bounce off the FLTSATCOM transponders, which happily repeat any signal that hits their uplink antenna in the 292- to 317-MHz range.  Think about this discussion: "Do we need to have a security protocol for these birds?" "Nah, who's going to figure out where the satellite is, what frequency to hit it with, and then cobble the equipment together?"  Oops!
