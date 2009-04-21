@@ -1,0 +1,7 @@
+---
+layout: post
+title: more kindle tech books
+excerpt: I wrote a few days ago about <a href="./blog/2009/04/18/oreilly-kindle-support.html">O'Reilly</a> bringing a bunch of their tech books to kindle.  Just noticed that "The Pragmatic Programmers":http://www.pragprog.com/ now support the mobi format, too.  Thanks, PragProg!
+---
+
+I wrote a few days ago about <a href="./blog/2009/04/18/oreilly-kindle-support.html">O'Reilly</a> bringing a bunch of their tech books to kindle.  Just noticed that "The Pragmatic Programmers":http://www.pragprog.com/ now support the mobi format, too.  Thanks, PragProg!
