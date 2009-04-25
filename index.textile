@@ -6,7 +6,7 @@ title: cory ondrejka's github blog
   <div class="content">
     <ul class="posts">
       blog updates
-      {% for post in site.categories.blog limit:5 %}
+      {% for post in site.categories.blog limit:10 %}
       <li><span>{{ post.date | date_to_string }}</span> <div class="posttitle" style="color:white"><a href="{{ post.url }}">{{ post.title }}</a></div></li>
       {% endfor %}
     </ul>
@@ -43,8 +43,8 @@ title: cory ondrejka's github blog
     <ul class="excerpts">
         {% for post in site.categories.blog limit:5 %}
         <div id="post">
-          <h1 id="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          {{ post.content }} (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
+          <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><span class="alignright">(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</span></div>
+          {{ post.content }}
         </div>
         {% endfor %}
     </ul>

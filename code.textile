@@ -18,8 +18,8 @@ title: cory ondrejka's open source code
     <ul class="excerpts">
         {% for post in site.categories.code limit:10 %}
         <div id="post">
-          <h1 id="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          {{ post.content }}  (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
+        <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><span class="alignright"></span></div>
+          {{ post.content }}
         </div>
         {% endfor %}
     </ul>

@@ -257,6 +257,10 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+.alignright {
+  float: right;
+}
+
 #post {
   color: #aaa;  
   padding-top: .5em;
@@ -266,7 +270,7 @@ ul.posts span {
 
 #post h1 {
   color: #aaa;  
-  border-bottom: 1px groove;
+  float: left;
 }
 
 #post h2 {
@@ -275,11 +279,13 @@ ul.posts span {
 }
 
 #post #posttitle {
+  width: 100%;
+  height: 100%;
   color: #aaa;
   background-color: #222;
   border-top: 1px ridge #ddd;
   border-bottom: 1px ridge #ddd;
-  padding-bottom: .15em;
+  padding-bottom: .5em;
 }
 
 /* standard */

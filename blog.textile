@@ -18,7 +18,7 @@ title: cory ondrejka's blog
     <ul class="excerpts">
         {% for post in site.categories.blog limit:10 %}
         <div id="post">
-          <h1 id="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><span class="alignright">(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</span></div>
           {{ post.content }}  (<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)
         </div>
         {% endfor %}
