@@ -1,0 +1,13 @@
+---
+layout: post
+title: brain simulations
+---
+Cool story on the "BBC":http://news.bbc.co.uk/1/hi/sci/tech/8012496.stm about the "Blue Brain Project":http://bluebrain.epfl.ch/page18699.html's recent success in simulating "neocortical columns":http://en.wikipedia.org/wiki/Neocortical_column.  This 6-layered, 2mm x 0.5mm column of neurons is the basic building block of the neocortex.
+!http://3.bp.blogspot.com/_XFAWxHsldhE/R1iOhGS0UOI/AAAAAAAAAP8/ch6oIfTNwbk/s1600/bluebrain_column.jpg!
+These columns, and the complex wiring between them, is what makes us *us*, so accurately simulating one column is the first step in simulating all of them.  Humans only have about 2 million neocortical columns, so even though it took a supercomputer to simulate one of them today, getting 2 million times the processing capability isn't that far away, especially given the relatively modest bandwidth requirements between columns.  With the time horizon for enough computing horsepower to simulate the entire brain only 10-15 years away and a theoretical blueprint for design and simulation well underway, synthetic brains may finally achieve what we've been promised since the 1960's.
+
+The focus on neocortical columns was made famous in geek communities by Jeff Hawkins' book, <a href="http://www.amazon.com/gp/product/0805078533?ie=UTF8&tag=collapsinggeo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0805078533">On Intelligence</a><img src="http://www.assoc-amazon.com/e/ir?t=collapsinggeo-20&l=as2&o=1&a=0805078533" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>.  Philip was very excited by the book in 2004 and it made the Linden rounds in 2004.  Soon after, Jeff announced "Numenta":http://www.numenta.com/, a company focused on developing the book's ideas.  At the time, I would have bet that by 2009, a group of us would have moved on to the brain project.  After all, building "Skynet":http://en.wikipedia.org/wiki/Skynet_(fictional) always felt like an appropriate follow on to Second Life.
+
+The exciting/terrifying part, of course, is that much like Juan Enriquez's arguments about homo evolutis, reaching a barely functional brain is likely to be vastly more difficult than taking that brain to levels that far exceed human norms.
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/JNcLKbJs3xk&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/JNcLKbJs3xk&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
