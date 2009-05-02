@@ -1,0 +1,9 @@
+---
+layout: post
+title: how cool would this be on the iphone or as a game?
+---
+Jack Schulze has created a sweet method of looking at a city: !http://kottkegae.appspot.com/images/uptown.jpg!
+He explains what he did on his "blog":http://schulzeandwebb.com/hat/, but what jumps out at me is a) what a beautiful approach this would be for pedestrian navigation on portable devices and b) a core display mechanic for dozens of different games.
+For navigation, the approach smoothly blends between a first person view in the near field (which is useful for aligning the map to what you actually are seeing) and a useful 3rd person, god's eye view for seeing the big picture/setting context in the distance.  Especially when thinking about applications where situational awareness is important, this could open up whole new lines of research on UX.  Imagine this running on iPhone, with a smooth animation between current positions and where you tap in the distance.  The change in view point again helps you, since in the near field you're tapping "forward", so your taps are on buildings, potentially to see nearby points of interest.  In the far field, you're tapping "down", so taps naturally map to addresses. 
+As for games, how cool would it be to play an RTS or FPS on that map?
+Very inspiring work!
