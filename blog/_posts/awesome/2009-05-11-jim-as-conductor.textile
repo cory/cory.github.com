@@ -1,0 +1,8 @@
+---
+layout: post
+title: why jim is in the dictionary under "awesome"
+---
+
+<embed src="http://blip.tv/play/AYGAx2aB6RA" type="application/x-shockwave-flash" width="580" height="460" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+"Jim Purbrick":http://jimpurbrick.com/ conducting the London Geek iPhone OScestra at "Open Hack London":http://openhacklondon.pbworks.com/.  Very cool and terrifying at the same time.
