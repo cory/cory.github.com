@@ -1,0 +1,22 @@
+---
+layout: post
+title: annoying github, git, jeweler, ruby gem "bug" 
+---
+Trust me, this is too geeky for words, but while mucking around with a small ruby test project ran into a bug that consumed most of the flight back from London and a late night debug session last night.  Google didn't find the answer, so posting here in case someone else runs into it.  Let us imagine you are:<div style="line-height:1em">
+* Building an app that automatically checks directories into "git":http://git-scm.com/.  For me, this is "rubyflashbake":http://github.com/cory/rubyflashbake/tree/master.
+* Testing this app using "autotest":http://www.zenspider.com/ZSS/Products/ZenTest/ and "rspec":http://rspec.info/.
+* During testing, you are creating and destroying git repositories, adding files, etc.
+* You decide to jump on Github's Ruby "gem":http://gems.github.com/ hosting.
+* In order to play nice to Github's gem generation, you follow their recommendations and grab the "jeweler":http://github.com/technicalpickles/jeweler/tree/master gem and add it as a rake task.
+* Decide to check for test coverage with rcov, so you create a rake specs task
+</div>
+*Hilarity* will ensue. Not only will a ton of your tests fail, your main git repository will have a ton of staged files and act as if you just triggered a ton of git commands from your project root, even though all your tests take place off in a test directory.  Unfortunately, all attempts to reproduce the behavior from the command line fail.  Autotest still works fine, too. Hmmm.
+Lots of code cleanup later I had the "Eureka!" moment and thought "I wonder what the environment looks like within autotest versus rake?"
+(puts ENV.to_hash.to_s is your friend!)
+Lo and behold, three environment variables were set by rake -- GIT_DIR, GIT_WORK_TREE and GIT_INDEX_FILE -- and these three variable will override git command line settings.  Turns out, jeweler, in an attempt to be helpful, sets these environment variables up for you, hence the difference between rake and autotest.  
+
+This was easy to fix in an rspec before clause:
+  ENV["GIT_DIR"] = nil
+  ENV["GIT_WORK_TREE"] = nil
+  ENV["GIT_INDEX_FILE"] = nil
+So, strange mystery solved and a bit of knowledge gained.
