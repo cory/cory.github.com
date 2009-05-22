@@ -1,0 +1,6 @@
+---
+layout: post
+title: photos to maps
+---
+"Microsoft's Visual Earth":http://www.microsoft.com/virtualearth/ has been doing this for a while, but these new movies from "C3":http://www.c3technologies.com/en_image_tech.php are quite pretty.  Definite style points for all the matrix-camera action, too.  Very impressive for a straight imagery-to-model conversion.  What would be really cool would be to see their engine running in "Unity3D":http://unity3d.com/ or another web platform.
+<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/RqtlGNtc58g&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/RqtlGNtc58g&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="500" height="400"></embed></object>
