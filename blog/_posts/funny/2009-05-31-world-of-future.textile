@@ -1,0 +1,6 @@
+---
+layout: post
+title: the world of the future
+---
+I know, I need to do a "Google Wave":http://google.com/wave post, but for now, enjoy the World of the Future!
+<object width="600" height="480"><param name="movie" value="http://www.youtube.com/v/GJjUVIIYptE&hl=en&fs=1&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GJjUVIIYptE&hl=en&fs=1&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="480"></embed></object>
