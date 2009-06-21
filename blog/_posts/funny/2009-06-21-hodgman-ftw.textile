@@ -1,0 +1,7 @@
+---
+layout: post
+title: hodgman ftw
+---
+
+Sorry to be away for so long.  Work and life have both been rather busy of late.  For your patience, you are rewarded with John Hodgman at the Correspondent's dinner:
+<object width="600" height="480"><param name="movie" value="http://www.youtube.com/v/yW7OPByRGDY&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yW7OPByRGDY&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="480"></embed></object>
