@@ -44,7 +44,7 @@ title: cory ondrejka's github blog
     <ul>
         {% for post in site.categories.blog limit:5 %}
         <div id="post">
-          <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><p /><span class="alignright">(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</span></div>
+          <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><p /><span class="alignright">(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</span></div><br />
           <p>{{ post.content }}</p>
         </div>
         {% endfor %}
