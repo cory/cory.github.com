@@ -1,2 +1,8 @@
-auto: true
-server: true
+destination: ./_site
+auto:        true
+server:      true
+lsi:         false
+server_port: 4000
+pygments:    false
+markdown:    rdiscount
+permalink:   date
