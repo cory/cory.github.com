@@ -18,7 +18,7 @@ title: cory ondrejka's open source code
     <ul>
         {% for post in site.categories.code limit:10 %}
         <div id="post">
-        <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><span class="alignright"></span></div>
+        <div id="posttitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1><p /></div>
           {{ post.content }}
         </div>
         {% endfor %}
