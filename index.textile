@@ -2,6 +2,7 @@
 layout: default
 title: cory ondrejka's github blog
 ---
+
 <div class="floatleft">
   <div class="content">
     <ul class="posts">
