@@ -1,0 +1,6 @@
+---
+layout: post
+title: speaking in metaplace today, 2pm PDT
+---
+"Raph Koster":http://www.raphkoster.com/ and I will be having a chat, moderated by my former Linden coworker Robin Harper, today in "Metaplace":http://metaplace.com/.  We just crossed paths at "State of Play":http://www.nyls.edu/events/state_of_play/home in NYC and we're looking forward to chatting about the present and future of virtual worlds and the web.  In related, and cool news, Metaplace just announced that their Flash client can be embedded, so you can join the discussion this afternoon through the client below.
+<iframe width="640" height="540" src="https://beta.metaplace.com/remote/embedsimple/thestage" style="border: 0; margin: 0; padding: 0; overflow: hidden;" frameborder="0" scrolling="no" scrollbar="no"></iframe>
