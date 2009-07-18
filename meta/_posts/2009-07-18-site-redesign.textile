@@ -1,0 +1,5 @@
+---
+layout: post
+title: time in a hotel room, site redesigned
+---
+Had some time today to futz with the blog and site.  Hopefully significantly more readable.  Let me know!
