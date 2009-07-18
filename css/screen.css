@@ -25,9 +25,9 @@ body {
 
 h1, h2, h3, h4, h5 {font-weight: bold;}
 
-h1 {font-size: 2em;}
-h2 {font-size: 1.75em;}
-h3 {font-size: 1.5em;}
+h1 {font-size: 4em;}
+h2 {font-size: 3em;}
+h3 {font-size: 1.75em;}
 h4 {font-size: 1.2em;}
 h5 {font-size: 1.1em;}
 h6 {font-size: 1em;}
@@ -72,9 +72,9 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #aaa;
+  color: #555;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: 85%;
 }
 
 /*****************************************************************************/
@@ -84,7 +84,6 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
   text-align: justify;
   width: 60em;
   margin: 1em auto 1em auto;
@@ -92,13 +91,21 @@ ul.posts span {
 }
 
 .title {
-  color: #a00;
-  font-weight: bold;
-  margin-bottom: 2em;
+  margin: 3em auto 3em auto;
+}
+
+.title img {
+  position: relative;
+  bottom: -0.05em;
+  width: 1em;
+  height: 1em;
 }
 
 .site .title a {
-  color: #a00;
+  font-size: 3em;
+  color: #2C2CA8;
+  font-weight: bold;
+  text-align: left;
   text-decoration: none;
 }
 
@@ -107,7 +114,9 @@ ul.posts span {
 }
 
 .site .title a.extra {
-  color: #aaa;
+  text-align: left;
+  font-size: 2em;
+  color: #0A0A0A;
   text-decoration: none;
 }
 
@@ -116,7 +125,7 @@ ul.posts span {
 }
 
 .site .meta {
-  color: #aaa;
+  color: #0A0A0A;
 }
 
 .site .footer {
@@ -266,6 +275,13 @@ ul.posts span {
 }
 
 .right h3 {
-  line-height: 2.5em;
-  
+  line-height: 2.5em; 
+}
+
+.blurb {
+  line-height: 1.2em;
+  font-size: 2.7em;
+  font-weight: normal;
+  letter-spacing: -0.05em;
+  margin-top: -0.6em;
 }

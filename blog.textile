@@ -4,39 +4,19 @@ title: cory ondrejka's blog
 ---
 
 <div class="floatleft">
-  <div>
+  <div class="landing">
     <ul>
-        {% for post in site.posts limit:10 %}
+        {% for post in site.posts limit:5 %}
         <div id="post">
-          <div id="posttitle"><h2><a href="{{ post.url }}">{{ post.title }}</a></h2><span class="alignright">(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</span></div>{{ post.content }}
+          <div id="posttitle"><h3><a href="{{ post.url }}">{{ post.title }}</a></h3><span class="alignright">(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</span></div>{{ post.content }}
         </div>
         {% endfor %}
-    </ul>
+    </ul>    
   </div>
 </div>
 <div class="right">
   <div class="content">
-    <h3>recent posts</h3>
-    <ul class="posts">
-      {% for post in site.posts %}
-      <li>
-        <table class="date-slug" border="0" width="100%">
-        <tr>
-        <td width="10%" class="date">
-          <h5>{{ post.date | date: "%d" }}</h5>
-          <h6>{{ post.date | date: "%b" }}</h6>
-          <h4>{{ post.date | date: "%y" }}</h4>
-        </td>
-        <td width="7%">
-        </td>
-        <td class="slug" width="80%"><a href="{{ post.url }}">{{ post.title }}</a>
-          {{ post.categories | array_to_sentence_string }}
-        </td>
-        </tr>
-        </table>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include postsunlimited.textile %}
   </div>
   <div class="search-blog">
     <h3>search blog</h3>

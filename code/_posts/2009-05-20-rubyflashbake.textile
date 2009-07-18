@@ -2,19 +2,18 @@
 layout: code
 title: rubyflashbake automatic web-aware git and github checkins
 ---
-h2. A Ruby project inspired by Thomas Gideon's python "Flashbake":http://wiki.github.com/commandline/flashbake project
+h4. A Ruby project inspired by Thomas Gideon's python "Flashbake":http://wiki.github.com/commandline/flashbake project
 
-h3. What is rubyflashbake?
+h5. What is rubyflashbake?
 
 Automatically checks in files from watched directories to git and github with time, location, weather, and recent twitter comments in the commit comments.
 
-h3. "But, why?" you ask
+h5. "But, why?" you ask
 
 I thought that Flashbake was a very cool project, but since I spend time in the Ruby world - and do more blogging than writing - converting it to Ruby seemed like a fun weekend project. Plus, I wanted to experiment with monitoring directories, building an app that works well with small Ruby plugins, do some web scraping, automate git, and building a gem.
-
 As always, it's all about writing snippets of fun code.  This gave me an excuse to look at
 
-h3. Use
+h5. Use
 
 You can find the project on "Github":http://github.com/cory/rubyflashbake/tree/master.  It is also packaged as a Ruby Gem, so you can download and install it by:
 
