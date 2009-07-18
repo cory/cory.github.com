@@ -1,0 +1,5 @@
+---
+layout: default
+title: publications from 2003 and earlier
+---
+Ondrejka, C. and P. Rosedale. “<a href="http://www.gamasutra.com/resource_guide/20030916/rosedale_pfv.htm">Enabling Player-Created Online Worlds with Grid Computing and Streaming.</a>” Gamasutra (www.gamasutra.com), 2003
