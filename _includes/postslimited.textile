@@ -1,6 +1,6 @@
 <h3>recent posts</h3>
 <ul class="posts">
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:3 %}
   <li>
     <table class="date-slug" border="0" width="100%">
     <tr>

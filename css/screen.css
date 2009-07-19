@@ -229,14 +229,17 @@ ul.posts span {
 /*
 /*****************************************************************************/
  
-.dsq-recent-comments {
-  width:10em;
+.dsq-widget {
+  width:17em;
+  float: right;
+}
+
+.dsq-widget-title {
 }
  
 .dsq-widget-item {
-  font-family: ”Lucida Grande”,”Lucida Sans Unicode”,arial,sans-serif;
-  font-size: 80%;
-  width:15.9em;
+  font: 1em/2.5 "Museo Sans", Georgia, "Times New Roman", "Nimbus Roman No9 L", serif;
+  width:17em;
   text-align: justify;
   line-height: 1em;
   margin: 0em;
@@ -271,6 +274,7 @@ ul.posts span {
 }
 
 .search-blog {
+  margin-top: 3em;
   line-height: 1em;
 }
 
