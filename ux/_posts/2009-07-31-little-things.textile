@@ -1,0 +1,10 @@
+---
+layout: post
+title: sometimes it's the little things
+---
+"Techcrunch":http://www.techcrunchit.com/2009/07/31/testing-the-reverberations-of-echo-commenting-on-techcrunch/ has an article up using "JS-Kit's Echo":http://js-kit.com/echo/ for comments.  Similar to "Disqus":http://disqus.com/, which I use, Echo is all about bridging conversations across the web.  This image struck me:
+!/images/echosnap.png!
+
+p{border:1px dotted black;margin:1em;padding:1em;}. This site requires registration before you can leave a comment. Select an authentication option under the "Leave a comment as" menu
+
+Do you see a "Leave a comment as" menu? I see a "From" dropdown.  Echo is already asking the user to do more than they are used to, why make life even more difficult?
