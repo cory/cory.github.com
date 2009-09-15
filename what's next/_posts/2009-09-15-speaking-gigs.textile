@@ -2,7 +2,7 @@
 layout: post
 title: speaking gigs
 ---
-Sitting at SFO, about to fly to Miami via Charlotte in order to give a speech on technology, product development, and transformation to a small group of senior executives. Although I gave "talks":/speaking,html for EMI, I haven't built an original keynote in a while, so this has been an enjoyable exercise.
+Sitting at SFO, about to fly to Miami via Charlotte in order to give a speech on technology, product development, and transformation to a small group of senior executives. Although I gave "talks":/speaking.html for EMI, I haven't built an original keynote in a while, so this has been an enjoyable exercise.
 
 The client, to their credit, actually pushed hard to get an outline early, which kept procrastination to lower levels than I am used to. The themes that are emerging tie technological innovation, corporate transformation, and disruption together through community engagement and agile processes, so this should be a lot of fun.  Since it is only a 25 person audience, the talk will be very interactive and allow for extensive discussions.
 
