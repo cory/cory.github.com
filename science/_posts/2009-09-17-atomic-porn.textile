@@ -1,0 +1,9 @@
+---
+layout: post
+title: wondrous fuzzy balls
+---
+This is just amazing. By sending high voltage through a rigid strand of carbon surrounded by a phosphor screen, Ukrainian team has used a field emission electron microscope to directly image s- and p- orbitals. In 10th grade, we built these out of balloons -- and quantum mechanics predicted these shapes -- but how cool is it to actually see the orbitals?
+
+!/images/fuzzyballs.jpg(fuzzy balls)!
+
+Consider these pictures for a moment. Human thought, determination, and creativity first led to a theory able to explain chemical and physical behaviors, despite having no ability to directly observe the mechanisms involved.  Now, 83 years after the "Schrödinger equation":http://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation was first solved, another long chain of determination, stubbornness, and ingenuity has led to something that feels nearly impossible -- imaging of a single electron orbital.  Awesome.
