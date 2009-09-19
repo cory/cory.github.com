@@ -1,0 +1,9 @@
+---
+layout: post
+title: photosynth scaled up to a city
+---
+If you recall, "Photosynth":http://photosynth.net/ is a Microsoft Research project that used thousands of photos to construct 3D views of locations. Researchers at the University of Washington have scale it up.  A lot.
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/sQegEro5Bfo&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sQegEro5Bfo&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+There is an awesome convergence of photogrammetric techniques -- like this as well as Microsoft's Virtual Earth -- and human edited geometry a la Second Life and Google Earth coming that is going to give us interactive-scale and fully up-to-date models of the whole world.
+
+And wait for that convergence to hit augmented reality.  Living in the future kicks butt.
