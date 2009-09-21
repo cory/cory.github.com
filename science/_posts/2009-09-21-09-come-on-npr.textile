@@ -1,0 +1,26 @@
+---
+layout: post
+title: a request for npr
+---
+It's "pledge week on NPR":https://www.kqed.org/pledge/, so lots of our favorite shows are getting interrupted in order to ask us for money. Now, I'm fine with this, even though I'm already a member, but this year I have a request in return. In fact, if NPR were to get this right -- even for just one week -- I'd gleefully up my donation and still be happy with "pledge week":https://www.kqed.org/pledge/.
+
+What is it I want?
+
+Stop using "*scientists*" as if it means something.
+
+Some recent examples:
+* "Some *scientists* in Peru are closely watching microscopic marine life."
+* "For more than 50 years, *scientists* who study the brain have been misled by squid."
+* "Lasers on this scale can produce tiny light sources, which in turn can help *scientists* capture images of tiny things we really care about, like the molecules inside our bodies."
+
+Using "scientists" in each of these sentences is about as useful as saying "humans" or "adults." Worse, by bandying it about like a talisman, the authors both attempt to make an argument from authority and assume that their listeners aren't astute enough to care that we learn less from the story.  Consider these versions:
+
+* "Some *microbiologists* in Peru are closely watching microscopic marine life."
+* "For more than 50 years, *doctors* and *biologists* who study the brain have been misled by squid."
+* "Lasers on this scale can produce tiny light sources, which in turn can help *physicists* and *biologists* capture images of tiny things we really care about, like the molecules inside our bodies."
+
+The real world isn't "Gilligan's Island":http://en.wikipedia.org/wiki/Gilligan%27s_Island or "Fringe":http://en.wikipedia.org/wiki/Fringe_%28TV_series%29, where the "professor" knows everything about anything. By granting the title of "scientist" as a blanket imprimatur for "knows everything", speakers are allowed to speak as authorities when they shouldn't. A Nobel Laureate in chemistry may have only a lay person's knowledge of cosmology, evolution, or climate change. Knowing the domain of knowledge gives us clues about whether the person is really an expert or not.
+
+I would expect NPR to understand this.
+
+I am regularly disappointed when they do not.

@@ -5,7 +5,7 @@ title: cory ondrejka's github blog
 
 <div class="floatleft">
   <div class="blurb">
-Figuring out what to do next. More "blogging":/blog.html. Follow me on "twitter":http://twitter.com/coryondrejka. Currently "speaking":/speaking.html requests "Washington Speakers Bureau":http://www.washingtonspeakers.com/speakers/speaker.cfm?speakerid=6164, consulting, and advising. Previously, digital transformation and marketing "EMI Music":http://emi.com, co-creator "Second Life":http://secondlife, visiting professor "USC Annenberg":http://annenberg.usc.edu/, "author":/writing.html, and "game developer":http://www.mobygames.com/developer/sheet/view/developerId,56427/.  "Random coding projects":/code.html.
+I'm trying to figure out what to do next. In the meantime, I'm "blogging":/blog.html, "speaking":/speaking.html, consulting, "writing":/writing.html, "coding":/code.html, and advising. You can also follow what I'm up to on "twitter":http://twitter.com/coryondrejka.
   </div>
   <h3>search site via google</h3>
   <div class="search-blog">
