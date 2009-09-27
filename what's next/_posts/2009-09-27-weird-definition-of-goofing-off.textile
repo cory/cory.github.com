@@ -1,0 +1,12 @@
+---
+layout: post
+title: goofing off... or not
+---
+In my ongoing plan to take 2-months for decompression, my current tasks are:
+* 5 speaking gigs (1 delivered, 3 more scheduled, 1 probable), which have given me a fresh chance to think about some hard problems.
+* A one-day-a-week project exploring some ideas around communication. Not sure if there is a product/company there, but I get to write code, re-learn various machine learning algorithms, and see what's there.
+* Another one-day-a-week project testing to see whether a marketplace is the right solution to a business problem I see.  Again, fun learning and writing code.
+* A third one-day-a-week project thinking about what lies at the collision between augmented reality, virtual worlds, and several related technology trends.
+* Advising/mentoring 3 early-stage startups on product design, technology options, and strategy. Exciting to work with a range of bright, early stage teams!
+
+Guess this might no longer qualify as goofing off...
