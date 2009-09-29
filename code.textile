@@ -13,6 +13,7 @@ title: cory ondrejka's code
     </ul>
   </div>
 </div>
+
 <div class="right">
   <div class="content">
     <h3>recent posts</h3>
