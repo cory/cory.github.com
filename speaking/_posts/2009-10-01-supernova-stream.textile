@@ -1,0 +1,7 @@
+---
+layout: default
+title: link to supernova talk
+---
+Thanks to Chris and the rest of the Supernova and BlogTalkRadio teams! Skype ended up being an epic fail -- three drops during the hour -- but otherwise it was an enjoyable dive into how to learn from agile development throughout organizations.
+
+<embed src="http://www.blogtalkradio.com/BTRPlayer.swf?file=http%3A%2F%2Fwww%2Eblogtalkradio%2Ecom%2FSupernova%2Fplay%5Flist%2Exml&autostart=false&bufferlength=5&volume=100&borderweight=1&bordercolor=#999999&backgroundcolor=#FFFFFF&dashboardcolor=#0098CB&textcolor=#FFFFFF&detailscolor=#FFFFFF&playlistcolor=#999999&playlisthovercolor=#333333&cornerradius=10&callback=http://www.blogtalkradio.com/FlashPlayerCallback.aspx&C1=7&C2=6042973&C3=31&C4=&C5=&C6=" width="210" height="105" quality="high" pluginspage="http://www.adobe.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" menu="false" allowScriptAccess="always"></embed>
