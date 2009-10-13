@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: post
 title: two books worth reading
 excerpt: How to foster and sustain disruptive innovation has been on my mind a lot lately.  I've been coalescing my thoughts on <a href="http://ondrejka.blogspot.com/2008/04/innovating-innovation.html">how I would do it</a> and reading up on other <a href="http://ondrejka.blogspot.com/2008/05/apparently-im-not-only-one-rethinking.html">approaches</a>.  To that point, I recently read two books that apply.
 ---

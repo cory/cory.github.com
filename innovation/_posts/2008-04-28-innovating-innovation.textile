@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: post
 title: innovating innovation
 excerpt: One of the best parts of the <a href="http://secondlife.com">Second Life</a> experience was its impact on how I think about innovation.  From the first conversations with Philip about how to build Linden and our embrace of user-generated content to <a href="http://www.electricsheepcompany.com/">ESC</a> and <a href="http://www.riversrunred.com/">Rivers Run Red</a>, innovation has been central to the process.  And I do mean innovation – the commercialization of knowledge – not just invention – the creation of knowledge.  It’s not enough to come up with interesting new ideas; those ideas need to be taken to a market.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: post
 title: foreclosure math
 excerpt: Via Google, estimates on total number of US homes current foreclosed or being foreclosed vary between 1M and 2M.Let us assume an upper bound of 2M homes. Median US home prices are freefall, currently around $175,000, down from a peak of over $300,000 in 2006. Of course, in foreclosed areas like Cleveland, the real value is basically $0. So, let's try to determine the sum total of wealth lost by these "toxic assets", assuming 50% of foreclosed home are worth effectively $0 and half are worth the current median.
 ---
