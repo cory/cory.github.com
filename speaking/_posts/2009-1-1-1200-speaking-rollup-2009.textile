@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: talks from 2009
 ---
 *2009*

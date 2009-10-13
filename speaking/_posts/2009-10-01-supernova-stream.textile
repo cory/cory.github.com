@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: link to supernova talk
 ---
 Thanks to Chris and the rest of the Supernova and BlogTalkRadio teams! Skype ended up being an epic fail -- three drops during the hour -- but otherwise it was an enjoyable dive into how to learn from agile development throughout organizations.

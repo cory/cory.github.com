@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: technology and marketing talk
 ---
 This was a really fun talk to put together, as the goal was a mixed 90-minutes of presentation and discussion.  Moreover, first time really blending my tech background and my experience in a non-geek role at EMI.

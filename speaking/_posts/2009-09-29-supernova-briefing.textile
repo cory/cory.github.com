@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: supernova briefing 1 October
 ---
 Thursday morning at 9am PDT I'm on the "Supernova Network Age Briefing":http://supernovahub.com/2009/09/oct-1-supernova-network-age-briefing-with-cory-ondrejka-agility-beyond-coding/. We'll be talking about the reasons for -- and challenges to -- broadly applying agile methodologies to how businesses approach all of product development.  Should be a lot of fun! "Call in or join online":http://supernovahub.com/2009/09/oct-1-supernova-network-age-briefing-with-cory-ondrejka-agility-beyond-coding/.
