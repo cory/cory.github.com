@@ -1,0 +1,7 @@
+---
+layout: post
+title: irobot researchers have big brains
+---
+This is creepy and cool.
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/SbqHERKdlK8&color1=0x0&color2=0x4400&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/SbqHERKdlK8&color1=0x0&color2=0x4400&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></embed></object>
