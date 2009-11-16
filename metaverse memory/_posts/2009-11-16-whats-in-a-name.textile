@@ -1,0 +1,23 @@
+---
+layout: post
+title: what's in a name?
+---
+In 2005, Second Life and Linden Lab were both growing. For a company with a "no management"-mantra, communication and feedback were becoming a challenge. One of my tasks was to invent a new system for employees to give each other feedback, one that would be fun, so easy everyone would use it, and that would generate interesting aggregate information about how individuals and the company were doing.
+
+The design that emerged was tipping.
+
+Tipping -- via an internal web tool -- would be a positive-sum, transparent game, a way to publicly thank a fellow Linden for going above and beyond. Finding a crucial bug, crunching some extra numbers, helping you figure out the right person to take a question to. Think "Twitter plus $1." The key was to make it a small amount of money, as a payment makes it real but you don't want to distort behavior with meaningful payouts.
+
+Tipping was designed to solve three problems: help Lindens know what their fellow employees were doing, generate aggregate data on connections within the company, and identify extreme outliers.  It wasn't clear to me if your tipping rank would be important, but it might be meaningful data if you were generally at the top or the bottom of the list.
+
+Philip loved the idea and renamed it “The Love Machine.” He carved out some time and built the first prototype implementation in November of 2005. It was a serious hit and people started using it. As far as I know, it is still in use today.
+
+So, it is with a crooked smile that I see Philip and Ryan naming their new company "LoveMachine":http://www.lovemachineinc.com/ with a "stated goal":http://www.lovemachineinc.com/Home/blog-1/averageoflovemachinespeculationisthebestpicture of selling The Love Machine to business. At Linden, Philip repeatedly demonstrated his vision is for organizations to operate without management. That by collecting and aggregating numbers, you can generate emergent organizations able to take on any problem and act efficiently based on ratings and ranks.
+
+The challenges that emerge, of course, fall into three broad categories. First, we optimize for what we measure, so unless you *know* what you are measuring exctly aligns with business goals, there are going to be misalignments. At Linden, people wrote tools to make it easier to use The Love Machine by irc, chat, email, and the web. This created "pile-on voting", where an employee would thank someone and other employees would also deliver love to the recipient. This made the amount of love received a function of the time of initial delivery and the communication channel used, which may or may not have been desired. Second, people don't like just being numbers, they want to understand what they can do to improve, so while The Love Machine should provide additional context for peer and manager feedback, it clearly can't replace those conversations. Finally, with a transparent system like the Love Machine, are those ranked at the top retained? Are employees who leave or who are fired near the bottom? If not, you may introduce more communication and management overhead rather than reduce it.
+
+LoveMachine will have to correct these deficiencies. Moreover, LoveMachine will need overcomes the basic impedance mismatch of a tool like The Love Machine. Small companies will get excited about it -- may already be excited since there is a Love Machine on Facebook -- but may not be big enough to really need it. Big companies definitely need better tools for communication and feedback, but implementing solutions like The Love Machine is just the start of broader cultural change.
+
+But it will be fun to watch Philip and Ryan. Clearly, they're both going to be a lot happier building something early again, and the technology is straightforward. More importantly, Philip will be speaking from the heart when he talks about why companies need The Love Machine.
+
+Congratulations and good luck, guys!
