@@ -1,0 +1,32 @@
+---
+layout: post
+title: visting nist
+---
+Yesterday I spoke at the National Institute for Standards and Technology in Gaithersburg, Maryland. Thanks to the first big winter storm, Dulles is down for the count, so I'm catching up on email and blogging.  First, my talk from NIST:
+
+<a title="View Cory Ondrejka NIST Talk 12.09 on Scribd" href="http://www.scribd.com/doc/24320750/Cory-Ondrejka-NIST-Talk-12-09" style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block; text-decoration: underline;">Cory Ondrejka NIST Talk 12.09</a> <object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="doc_989030917473599" name="doc_989030917473599" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" align="middle"	height="500" width="100%" >		<param name="movie"	value="http://d1.scribdassets.com/ScribdViewer.swf?document_id=24320750&access_key=key-22lwox8yhpo1jj7axwzk&page=1&version=1&viewMode=slideshow"> 		<param name="quality" value="high"> 		<param name="play" value="true">		<param name="loop" value="true"> 		<param name="scale" value="showall">		<param name="wmode" value="opaque"> 		<param name="devicefont" value="false">		<param name="bgcolor" value="#ffffff"> 		<param name="menu" value="true">		<param name="allowFullScreen" value="true"> 		<param name="allowScriptAccess" value="always"> 		<param name="salign" value="">    			    	<param name="mode" value="slideshow">	    		<embed src="http://d1.scribdassets.com/ScribdViewer.swf?document_id=24320750&access_key=key-22lwox8yhpo1jj7axwzk&page=1&version=1&viewMode=slideshow" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" play="true" loop="true" scale="showall" wmode="opaque" devicefont="false" bgcolor="#ffffff" name="doc_989030917473599_object" menu="true" allowfullscreen="true" allowscriptaccess="always" salign="" type="application/x-shockwave-flash" align="middle" mode="slideshow" height="500" width="100%"></embed>	</object>	
+
+I could have attempted to fly out Friday afternoon but would have meant passing up a tour of the NIST facility and I am too much of a geek to miss that. Huge thanks to the many NIST researchers who took time out to answer a ton of my enthusiastic but amateur questions about quantum computing and neutron research. Awesome flashbacks, as this was my first visit to a "nuclear reactor":http://www.ncnr.nist.gov/ since the Navy. The "neutron imaging facility":http://physics.nist.gov/MajResFac/Nif/facility.html is simply amazing, using "neutron interferometry":http://physics.nist.gov/Divisions/Div846/Gp3/NIOF/web02A.html to image the interior of operating hydrogen fuel cells -- a striking collision of pure science and applied research.
+
+!{width:608px}/images/family640w.jpg(neutron interferometers)!
+
+For the fabrication geeks in the audience, the key to neutron interferometry is precision machining of neutron interferometers from silicon. Requiring micron and mico-radian accuracy, fewer than 10 useful interferometers have been successfully fabricated in the last 30 years.
+
+On the quantum computing side, NIST is exploring quantum communication at broadband (> 2Mb/s) rates via the "quantum communication testbed":http://www.nist.gov/public_affairs/brochures/quantum_short.htm
+
+!{width:608px}/images/QKDlab.jpg(quantum communication)!
+
+On the opposite side from broadband testing -- with the conventional approach of strongly attenuated photon source -- NIST is also experimenting with single photon sources and detectors.
+
+!{width:608px}/images/photoncounting.jpg(photon detector)!
+
+This single photon detector uses magnetic resonance cooling to reach 50 microkelvin and detects a single photon through the temperature change of the sensor. Traditional single photon counters generally can detect 0 or "more than 0" photons, a real problem with attenuation-based photon sources which probabilistically generate 0, 1, or more than 1 photons.
+
+!{width:608px}/images/KDPPhoto.jpg(correlated photons)!
+!{width:608px}/images/PhasematchCurve.jpg(phase match)!
+
+NIST is also exploring using correlated photons in single photon sources. A beautiful part of the experiment was being able to use the experiment display the expected phase curve in its own light.  You can also see a "movie of the result":http://physics.nist.gov/Divisions/Div844/facilities/cprad/Movies/PhasematchCurve.mov
+
+All-in-all, the most geek fun I've had in a while. Well worth being stuck in this:
+
+!{width:608px}/images/snow.jpg(snow)!
