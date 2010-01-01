@@ -12,7 +12,10 @@
   	<meta name="keywords" content="virtual worlds, music, programming, ruby, innovation" />
     <link href="http://feeds2.feedburner.com/github/fgmV" rel="alternate" title="Cory Ondrejka" type="application/atom+xml" />
     <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="/css/blog.css" type="text/css" />
+    <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">	
+    <!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
     <script type="text/javascript" src="/js/prototype.js"></script>
     <script type="text/javascript" src="/js/scriptaculous.js?load=effects,controls"></script>
     <link rel="icon" type="image/gif" href="/favicon.gif">
@@ -28,51 +31,27 @@
     </script>
   </head>
   <body>
-
-  <div class="site">
-    <table class="title" border="0" width="100%">
-      <tr>
-        <td width="71.5%"><a href="/">Cory Ondrejka</a></td>
-        <td width="7.5%">
-          <a class="extra" href="http://feeds2.feedburner.com/github/fgmV"><img src="/images/rss.png" alt="rss"/></a>
-        </td>
-        <td width="11%">
-          <a class="extra" href="/blog.html">blog</a>
-        </td>
-        <td width="10%">
-          <a class="extra" href="/cv.html">cv</a>
-        </td>
-      </tr>
-    </table>
-  
-    {{ content }}
-  
-    <div class="footer">
-      <div class="contact">
-        <p>
-          Cory Ondrejka's current spot on the web<br />
-          cory dot ondrejka at gmail dot com<br />
-          <a href="http://feeds2.feedburner.com/github/fgmV">xml feed</a><br /><br />
-          <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>.
-        </p>
+    <div class="container">
+      <div class="span-24">
+        {{ content }}
+      </div>
+      <div class="span-24">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />
       </div>
     </div>
-  </div>
-
-
-  <script type="text/javascript">
-   //<![CDATA[
-   (function() {
-       var links = document.getElementsByTagName('a');
-       var query = '?';
-       for(var i = 0; i < links.length; i++) {
-         if(links[i].href.indexOf('#disqus_thread') >= 0) {
-           query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    <script type="text/javascript">
+     //<![CDATA[
+     (function() {
+         var links = document.getElementsByTagName('a');
+         var query = '?';
+         for(var i = 0; i < links.length; i++) {
+           if(links[i].href.indexOf('#disqus_thread') >= 0) {
+             query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+           }
          }
-       }
-       document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/collapsinggeography/get_num_replies.js' + query + '"></' + 'script>');
-     })();
-   //]]>
-   </script>
+         document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/collapsinggeography/get_num_replies.js' + query + '"></' + 'script>');
+       })();
+     //]]>
+     </script>
   </body>
 </html>
