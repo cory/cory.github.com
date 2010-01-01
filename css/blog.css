@@ -16,8 +16,8 @@ a {
 }
 
 a, a:visited {
-  color: #474;
-  text-shadow: 0px 1px 0px #343;
+  color: #7a7;
+  text-shadow: 0px -1px 0px #121;
 }
 
 a:hover, a:focus {
