@@ -20,8 +20,9 @@ title: Agile or Dead
 <div class="span-15 last">
   {% for post in site.posts limit:5 %}
   <span class="date">{{ post.date | date: "%A, %B %d, %Y" }}</span>
-  <div class="title"><a href="{{ post.url }}">{{ post.title }}</a>(<a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>)</div>
+  <div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
   {{ post.content }}
+  <div class="comment-link"><a href="{{ post.url }}#disqus_thread">{{ post.title }}</a></div>
   {% endfor %}
 </div>
 
