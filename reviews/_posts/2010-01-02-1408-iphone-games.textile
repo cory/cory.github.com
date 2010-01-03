@@ -1,0 +1,74 @@
+---
+layout: post
+title: iPhone Games
+---
+I've been looking at a lot of iPhone games lately, both to survey the market and to get a feel for what the iPhone can do. Before I dive into the games, a few general thoughts after playing a lot of iPhone games.
+
+* There are some strikingly fun games lurking on the iPhone. As you'd expect, the quality distribution is a pretty steep power law, but with many games offering free trials or 99 cent price tags, the mistake penalty is low. 
+* There are a ton of licensed games developed by professional developers, but I've had a lot more fun playing out in indie land.
+* The great indie games are, from a game perspective, really amateurish. _Nota Bene_ by "amateur" I don't mean "crappy," instead they aren't taking advantage of 40 years of game development to make the games more fun, replayable, addictive, and rewarding. More on that in individual reviews, but the largest missed opportunity is recognizing the importance of *pacing* in gameplay. Just like great music isn't all about the crescendos, players don't want every moment of their play experience to be at maximum stress. Valleys define the peaks, and even brief transitions help the player feel their mad skillz progressing. And before you start complaining that iPhone casual games don't have time for this pacing nonsense, it may be worth looking at how great pacing dominated the most successful arcade games -- games built for 45-60 second plays.
+* Something obvious many developers don't get: on the iPhone, the interface is also the display! If your fingers are providing control inputs, you're blocking part of the screen. It makes me a sad panda when enemies use that hidden space to kill me.
+
+I'm not going to try and rank all of these or give them ratings. Suffice it to say that these represent about 20% of the total iPhone games I've downloaded or purchased and are the ones I keep playing. They all have at least some flaws, but were fun enough and easily worth their purchase price. This is the order they're on my iPhone screen right now.
+
+<b>"Geodefense Swarm":http://criticalthoughtgames.com/geodefenseswarm</b>
+!/images/gd-swarm.jpg!:http://criticalthoughtgames.com/geodefenseswarm
+
+Geodefense Swarm is the first "tower defense game":http://en.wikipedia.org/wiki/Tower_defense game I played on iPhone and I think it is by far the best. GD Swarm is a free path tower game on a hexagonal grid, so where you place your towers controls the paths of the creeps. The graphics -- an obvious ode to "Geometry Wars":http://en.wikipedia.org/wiki/Geometry_Wars -- are simple, beautiful neon with an appropriate level of gratuitous particles. GD Swarm, especially on later levels, is quite hard and at times almost overwhelming, but I enjoyed all of it. The sense of accomplishment when you realize you are going to win a level and your fully-upgraded towers are wailing on creeps is excellent. This is easily my favorite game on iPhone and I hope Critical Thought Games start selling level packs soon!
+
+<b>"Geodefense":http://criticalthoughtgames.com/geodefense</b>
+!/images/geodefense.jpg!:http://criticalthoughtgames.com/geodefense
+
+Geodefense is the second "tower defense game":http://en.wikipedia.org/wiki/Tower_defense I played on iPhone but Critical Thought Games developed it before Geodefense Swarm. While I very much enjoyed completing it, it is the weaker of the two games. In Geodefnese, the creeps follow defined paths. You place and upgrade towers along the path, with strategy focused on matching tower and upgrade selection to creep order. Most of the early levels are very well paced, with a real sense of progress and accomplishment. Unfortunately, many of the last few levels are defeated by similar, degenerate strategies -- particular many level 2 and 4 laser towers. As with Geodefense Swarm, it is a no brainer for Critical Thought to start selling level packs, which I will eagerly buy.
+
+<b>"geoSpark":http://criticalthoughtgames.com/geospark</b>
+!/images/geospark.jpg!:http://criticalthoughtgames.com/geospark
+
+geoSpark is Critical Thought's third game and is beautiful and "flow":http://en.wikipedia.org/wiki/Flow_%28psychology%29 inducing. It feels like a bit of a step back to me, unfortunately, because unlike the wonderful pacing of their two tower defense games, geoSpark sort of goes on and on. Both the mechanic of dragging like shapes together -- and accelerating the other shapes -- and the bonus lives feel delightfully old school, but it would really benefit from a bit more feeling of progress. Still, I have been playing it a fair bit.
+
+<b>"Canabalt":http://www.canabalt.com/</b>
+!/images/canabalt.jpg!:http://www.canabalt.com/
+
+Canabalt was a strikingly successful flash game before it moved to the iPhone. With a single action -- jumping as your character runs to the right -- Canabalt is the ultimate single-button, x-axis tourism game. With a gorgeous, gray aesthetic, Canabalt is fun game both to play and watch. Thanks to its randomly generated background, every game is different, so you play it reactively, rather than simply memorizing the jump sequence. Unfortunately, as good as Canabalt is, I am left frustrated because it could easily have been so much better. The problem, unsurprisingly, is the lack of pacing. With every game simply a run to the right -- and the wildly differing challenges presented by the level creation -- games vary dramatically in length, with success feeling more like a result of a particularly easy sequence than player skill. This could have been fixed by making the escape a series of levels with the random generator creating progressively harder transitions. Perhaps in Canabalt 2?
+
+<b>"Doodle Jump":http://www.limasky.com/</b>
+!/images/doodlejump.jpg!:http://www.limasky.com/
+
+Doodle Jump is riding a wave of well-deserved popularity. The simple mechanic is your player jumping from platform to platform, using the accelerometer to control direction and a screen tap to shoot enemies. It's adorable, instantly accessible, and delightfully challenging. Alas, you could transplant the pacing discussion from Canalt. Exactly the same problems here, despite the developers trying to convey progress via changing challenges. Like Canabalt, still worth buying and playing -- just a tease that makes you wonder what version 2 will be like.
+
+<b>"Siberian Strike":http://www.gameloft.com/mobile-games/siberian-strike/</b>
+!/images/siberianstrike.jpg!:http://www.gameloft.com/mobile-games/siberian-strike/
+
+Siberian Strike feels a lot like the classic Capcom arcade game "1942":http://en.wikipedia.org/wiki/1942_%28video_game%29. It's a vertically scrolling shooter, all pixels are dangerous, and powerups give you completely over-the-top weaponry. Great fun, extremely silly storyline, and even a well executed set of trenchrun interstitial levels. Early versions were crashing my iPhone so I had set it aside, but the current version ran solidly. Played it all the way through.
+
+<b>"Ken Ken":http://www.kenken.com/aboutus_craze.html</b>
+!/images/kenken.jpg!:http://www.kenken.com/aboutus_craze.html
+
+Ken Ken is, like "Soduko":http://en.wikipedia.org/wiki/Sudoku, a puzzle built around satisfying simple mathematical constraints. I like it, as the harder levels have a delightful feeling of "no way" when you look at them. Sure, it's basically solving a bunch of linear equations, but I've found it a perfect way to burn a few minutes.
+
+<b>"Spider: the Mystery of Bryce Manor":http://www.tigerstylegames.com/Spider/tsobm/index.html</b>
+!/images/spider.jpg!:http://www.tigerstylegames.com/Spider/tsobm/index.html
+
+Spider is an amazing game. It is gorgeous, perfectly leverages the iPhone's screen as an input device, and almost perfectly paced. You're a spider exploring an abandoned mansion, eating bugs to replenish your silk supply. Each level introduces new bugs, different challenges for web creation, and pieces of the underlying mystery. I can't wait to see what the Spider team does next, because I couldn't put my iPhone down until I completed Spider.
+
+<b>"Meteor Blitz":http://alleylabs.com/meteor_blitz.html</b>
+!/images/meteorblitz.jpg!:http://alleylabs.com/meteor_blitz.html
+
+A lot of games try to use virtual control sticks on the iPhone, but Meteor Blitz is the first one that I found to consistently work well. Think "Robotron":http://en.wikipedia.org/wiki/Robotron:_2084 meets "Asteroids":http://en.wikipedia.org/wiki/Asteroids_%28video_game%29 meets "Sinistar":http://en.wikipedia.org/wiki/Sinistar. Waves of asteroids and geometric enemies appear. You shoot them and collect the bonuses left over. Suffers a bit from pacing problems, but the action is so fluid that for some reason it bothers me less than the other games. Gorgeous and fun, Meteor Blitz has been sucking up more of my time lately.
+
+<b>"Field Runners":http://fieldrunners.com/</b>
+!/images/fieldrunners.png!:http://fieldrunners.com/
+
+Generally considered the gold standard of iPhone tower defense games, I enjoyed Fieldrunners enough to play it through, but it felt clunky, slow, and easy compared to GD Swarm. The graphics are adorable, but the each level takes a surprisingly long time to play. While waiting for more GD Swarm levels, Fieldrunners was plenty of fun and filled the tower defense void.
+
+<b>"Defender Chronicles":http://www.defenderchronicles.com/</b>
+!/images/defender-chronicles.jpg!:http://www.defenderchronicles.com/
+
+Defender Chronicles has a lot going for it. It's an innovative take on tower defense, with pretty, vertical levels and detailed troops and creeps. Unfortunately, many of the actions take an annoying number of taps to complete and I couldn't find a screen zoom that balanced the state of the level while still allowing me to enjoy the detail. Several levels also seemed to suffer from required first moves -- much like Geofense -- which bugged me. Despite that, I played it through and liked the inventory and RPG elements. It was easily as fun as Fieldrunners, though like Fieldrunners felt a step below both the Geodefense games.
+
+<b>"Flight Control":http://www.firemint.com/flightcontrol/</b>
+!/images/flight-control.jpg!:http://www.firemint.com/flightcontrol/
+
+Flight Control is so popular, I don't think it needs an introduction. It has spawned a ton of similar games and was the second game I bought for iPhone after Spider. Drawing paths is natural on the iPhone and helps get your fingers out of the way, so the overall experience just feels right. Unfortunately, Flight Control is another game that suffers terribly from pacing problems -- it just gets harder -- but that hasn't stopped me from playing it a fair amount.
+
+Overall, I think iPhone has probably changed video games forever. I don't have to carry an additional device and for less than the price of one console game, I've enjoyed dozens of different games. Plus, when I like a demo, it's so easy to just buy the full game that I generally do. The downside, of course, is that the iPhone is likely to undergo the same inevitable quality arms race that every other game platform has, which is problematic given the economics of iPhone development already seem marginal. Certainly, in-game purchases and digital items will help, but 2010 is definitely going to be an interesting period for mobile gaming!
