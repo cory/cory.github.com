@@ -1,0 +1,18 @@
+---
+layout: post
+title: If 37signals and Tech Crunch Post, it Must be True
+---
+"Vivek Wadhwa":http://www.techcrunch.com/author/vivek/ has been doing some very cool research into entrepreneurial behavior and trends. Today he posted on an article on Tech Crunch called "Got degree envy? No worries, you can still make it big.":http://www.techcrunch.com/2009/10/24/got-degree-envy-no-worries-you-can-still-make-it-big/ This was linked to on 37signals' bog as "Where one studies has no correlation to entrepreneurial success":http://37signals.com/svn/posts/2116-link-where-one-studies-has-no-correlation-to-entrepreneurial-success and is making the round of the blogosphere and twitterverse.
+
+You can read the actual "paper":http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1127248. It turns out that it appears to matter where you went. Ivy League schools, which confer 1.6% of all US degrees, has 8% of the sample, so they were over-represented by 4 times.
+
+More interesting, the top 10 schools, or 3% of the sample, accounted for 19% of the sample, so over-represented by over 6 times.<sup><a href="#ftn1">1</a></sup>
+
+
+In fact, the authors themselves state:<blockquote>As such, our results show a disproportionately high concentration of U.S-born tech founders with terminal Ivy-League degrees engaging in entrepreneurial startup activities in the engineering and technology industries</blockquote>
+
+Now, there is still an important message here, since the top universities don't have 80 or 90% of the success -- although going to some college does matter, as 95% of the sample have college degrees -- but to assert that "where one studies has no correlation to entrepreneurial success" is just the kind of meme that will take off.
+
+And be wrong.
+
+<sup><a name="ftn1">1</a></sup>And this stat is fuzzy, because unlike the Ivy League stat it is calculated as percentage of universities represented in study, not students.
