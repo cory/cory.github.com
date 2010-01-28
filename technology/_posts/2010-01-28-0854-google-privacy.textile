@@ -1,0 +1,24 @@
+---
+layout: post
+title: Google Privacy Vows and "Meaningful"
+---
+Who knew? Today is "International Privacy Day":http://dataprivacyday2010.org/ -- probably not created by Hallmark. In celebration, Google decided to renew its "privacy vows":http://googleblog.blogspot.com/2010/01/googles-privacy-principles.html:
+<blockquote>Use information to provide our users with valuable products and services.
+Develop products that reflect strong privacy standards and practices.
+Make the collection of personal information transparent.
+Give users meaningful choices to protect their privacy.
+Be a responsible steward of the information we hold.
+</blockquote>
+Read in the light of "my earlier post":http://ondrejka.net/technology/2010/01/19/0634-inevitable.html on this topic, a couple of issues jump out.
+If Google wants to couch this in terms of personal information and truly wants to make the collection transparent, they'd will need to make *all* of their data collection transparent. All information is ultimately going to be personally identifiable -- and therefore potentially private form a user's perspective. Are they ready to do this?
+"Meaningful choices" is going to be a huge challenge. First, given Moore's Law, we don't have a useful framework for talking about private or personal data. Second, even given a framework, teaching users about complicated and ephemeral concepts is difficult. On the plus side, we can look at "Creative Commons":http://creativecommons.org for some guidance on how to approach education.
+I would propose some necessary but (perhaps) not sufficient conditions for me to make a meaningful choice about data collection. Answer:
+<blockquote>What data is being collected?
+How long the data will be retained?
+How will the data be shared?
+What datasets the data will be aggregated with?
+Context for how the data will be used -- will it be aggregated across other data sources related to me? aggregated across other users? used to optimize services I have opted in to? to advertise to me?
+Can I opt-out at a later date?
+What is the impact of opting out now?
+</blockquote>
+Presenting this information is going to be user-experience nightmare, but without it, informed consent is at best a polite fiction.
