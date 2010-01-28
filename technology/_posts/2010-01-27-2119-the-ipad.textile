@@ -1,0 +1,25 @@
+---
+layout: post
+title: Yup, I'll Be Buying an iPad
+---
+Oh, the highs and the lows. Nothing could possibly have lived up to the hype, excitement, and rumors that have been swirling around the long-rumored-but-now-real Apple iPad. "Tech Crunch has already decreed the iPad a dud":http://www.crunchgear.com/2010/01/27/the-ipad-our-take/:<blockquote>I mean, I already did a whole spiel on CNN (what?!) why the iPad is sorta “meh” in my eyes, but to recap: I simply don’t get it. It’s not an iPhone replacement because it’s not a phone (duh); it’s not an iPod touch replacement because it’s not portable; and I already have enough “real” computers that I don’t need a tablet.</blockquote>
+
+Engadget is decidedly "luke warm":http://www.engadget.com/2010/01/27/editorial-engadget-on-the-ipad/, while Gizmodo posted "8 Things that Suck About iPad":http://i.gizmodo.com/5458382/8-things-that-suck-about-the-ipad:<blockquote>A lot of people at Gizmodo are psyched about the iPad. Not me! My god, am I underwhelmed by it. It has some absolutely backbreaking failures that will make buying one the last thing I would want to do.</blockquote>
+
+Once you get over the iJesusPadTablet and the epic "MadTV skit":http://www.youtube.com/watch?v=lsjU0K8QPhs, there is some very interesting stuff going one with the iPad.
+
+First, as "Gruber already nailed":http://daringfireball.net/2010/01/ipad_big_picture, Apple building custom silicon for this device is a sea change in terms of optimizing performance for the product. In a lot of ways, this is back to the glory days of 80's and early 90's arcade development, where the game design and hardware were developed together. It made life hell for the poor saps trying to port your games to a SNES, but it meant the arcade games always blew the home market away. Then the arcade business started crashing and developers switched to commodity PC hardware or modified consumer hardware like the PSX and arcade games weren't special anymore. Suddenly your home rig played the best games. Mobile computing was stuck in the same, commoditized rut. Until today. Wonder how long until that chip makes it into the iPhone. Or the next MacBook Air.
+
+Second, the design. Get over the bezel, folks. Where the hell are you supposed to hold a one and a half pound device? You don't want your thumbs in front of content, accidentally generating inputs all the time. Get over the lack of wide screen, too. This isn't just designed to be movie player, you want to be able to surf the web in portrait mode and that would stink if it was 16x9. Instead, we see Apple's first cut at a mobile computer that you sit around with, with a host of intelligent decisions made around that use case. You will lounge with iPad -- maybe we'll see a resurgence in beanbag sales. The design of the iPad -- much like the Kindle -- makes you treat technology like a book, something that cozy up to.
+
+Third, battery life for a mobile device. No, 10 hours isn't my <a href="http://www.amazon.com/gp/product/B0015T963C?ie=UTF8&tag=collapsinggeo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0015T963C">Kindle</a><img src="http://www.assoc-amazon.com/e/ir?t=collapsinggeo-20&l=as2&o=1&a=B0015T963C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>'s 2-3 weeks of use, but it may be long enough. Using a Kindle, you forget that it is an electronic device precisely because you aren't worried about when to juice up. iPad may do this as well.
+
+Fourth, unlimited 3G for $30, without a contract. While not quite as good as Kindle's free Whispernet, this is still dramatically cheaper than what we've seen before.
+
+Fifth, iPad is a ridiculously cool game machine.
+
+Sixth, however good it might be as a game machine, it crushes as a textbook and education tool. For all of Kindle's strengths, pdfs are still often fubared even on the DX and search/annotation doesn't play well with e-ink. iPad becomes an extra screen for reference books while coding, will properly render pdf papers, and can be stuffed full of specialized apps for education.
+
+Finally, lots of people are spouting about how this doesn't replace a netbook for web browsing, but I'm not so sure. Making the intangible tangible -- which the iPhone did and now the iPad does via high performance and multi-touch -- changes how we engage and interact with media. I wouldn't be at all surprised if tactile browsing is *crushingly better* than keyboard + mouse, and given how much of our day is spent on the web, something that makes that more fun is a big deal. Even better for the web, the iPad is a seriously big deal for HTML5 + javascript projects. Suddenly you have an always connected, full screen device with seriously high performance and HTML5 compliant browsing.
+
+So, pundits be damned, I'll be ordering one the day I can. I am worried about the virtual keyboard, but willing to chance it. I think the iPad will slot in quite nicely between my iPhone and MacBook Air, be a much better fit for light browsing and writing tasks when traveling, and would fit my presentation style. Looking forward to building and presenting a keynote on one!
