@@ -1,0 +1,18 @@
+---
+layout: post
+title: Are you Listening, Amazon?
+---
+While I spent the weekend in Las Vegas with some friends for a honest-its-not-really-a-bachelor-party (some poker thoughts to come), the blogosphere has been vibrating to the news that Amazon has decided to stop selling all Macmillan titles, both physical and digital, over "a pricing dispute with Macmillan":http://www.engadget.com/2010/01/31/amazon-pulled-macmillan-titles-due-to-price-conflict-confirme/. Let us accept as given nobody outside the negotiation knows all the details, but the current consensus version of the story is:
+<blockquote>At the "iPad announcement":http://ondrejka.net/technology/2010/01/27/2119-the-ipad.html, Steve Jobs "mentioned in an interview":http://www.engadget.com/2010/01/29/steve-jobs-compares-ipad-battery-life-to-kindles-youre-not-g/ that Amazon and Apple book prices would be same, at a rumored $14.99 price point -- which is $5 more than Amazon's price
+The day after iPad's announcement, Macmillan proposed a new variable pricing scheme, with digital titles launching at $14.99 and then declining to $5.99
+Amazon responded to this pricing demand by pulling all of Macmillan's titles
+</blockquote>
+Odd twists here. Apple only recently announced variable pricing on mp3 downloads via the iTunes Music Store. Amazon famously built its mp3 business on DRM-free music when iTunes was selling AAC with digital rights management. "John Scalzi":http://whatever.scalzi.com/2010/01/30/a-quick-note-on-ebook-pricing/ is one of may authors to weigh in.
+Amazon, of course, claims they are doing this for the customer, but as a customer who has been annoyingly positive about Kindle for years, a point of order.
+I like variable pricing.
+Hell, I *love* variable pricing.
+More to the point, I *really love* Baen's variable pricing, where ebook prices run from "$15 for advanced reader copies":http://www.webscription.net/c-2-advance-reader-copies.aspx all the way "down to free":http://www.baen.com/library/. This model is fantastic. New release from author I read everything by? Great, order the e-arc and get to read it months ahead of time. More of a "maybe I'll like this"-release? Get it via "webscriptions":http://www.webscription.net/c-97-2010-webscriptions.aspx for somewhere between $1-5. Taking a complete flyer on a new author? Read something of their's in the free library.
+Oh, and did I mention all of Baen's releases are DRM-free? This makes them approximately 186,282% cooler than Kindle DRM-ed books and is why Baen's Universe has received so many thousands of dollars from me. Of course, apparently I was the only one doing this as "Universe is closing":http://baens-universe.com/articles/Universe_Closing, but I doubt this is a failing of variable pricing.
+Obviously, Macmillan's model is not this cool. Instead, it just transliterates from the physical model of hardcover and softcover releases into digital. Like so many areas of publishing, it leaves money on the table and doesn't actually seem to leverage the differences of digital very effectively.
+But, it still means that if I'm willing to wait and surf the back catalog, I can get a discount compared to new releases.
+So, Amazon, as a customer and Kindle owner who's purchasd 88 books for Kindle in 15-months, are you going to listen?
