@@ -1,0 +1,13 @@
+---
+layout: post
+title: Government 2.0 LA Conference
+---
+Just delivered the opening keynote for the "Government 2.0 LA conference":http://gov20la.org/. This talk was the most fun that I've had in a while, both because of the engaged and active audience who interrupted with lots of questions and because pulling the talk together required a bunch of research and exploration.
+
+I first heard the story of "Matthew Fontaine Maury":http://en.wikipedia.org/wiki/Matthew_Fontaine_Maury from "Professor Doctor Herbert Burket":http://www.herbert-burkert.net. The more I learned about Maury, the more I thought I could build a Government 2.0 discussion around his story of transforming navigation and the collection of global meteorological data.
+
+What makes Maury's story so interesting is in the mid-1800's he was able to build a multinational, viral, crowdsourced, and meta-data system. His approaches and techniques are exactly the same as Google and other Web 2.0 companies from 150 years later. Even better, he did it all from within an institution -- the United States Navy -- not necessarily known for innovative and original thinking. His story also perfectly illustrates four tools that government has available to drive change: data, regulation, bully pulpit, and commercial excitement. Even better, Maury's story connects the California gold rush, the Cape Horn Sweepstakes, and the amazing achievements of "Eleanor Cressy and the Flying Cloud":http://en.wikipedia.org/wiki/Flying_Cloud_%28Clipper%29.
+
+It all makes for a nice reminder that if history doesn't repeat, it certain rhymes and there are lessons to be learned from the rhyming.
+
+<a title="View Cory Ondrejka Government 2.0 LA Opening Keynote on Scribd" href="http://www.scribd.com/doc/26487973/Cory-Ondrejka-Government-2-0-LA-Opening-Keynote" style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block; text-decoration: underline;">Cory Ondrejka Government 2.0 LA Opening Keynote</a> <object id="doc_229053641461813" name="doc_229053641461813" height="600" width="100%" type="application/x-shockwave-flash" data="http://d1.scribdassets.com/ScribdViewer.swf" style="outline:none;" >		<param name="movie" value="http://d1.scribdassets.com/ScribdViewer.swf">		<param name="wmode" value="opaque"> 		<param name="bgcolor" value="#ffffff"> 		<param name="allowFullScreen" value="true"> 		<param name="allowScriptAccess" value="always"> 		<param name="FlashVars" value="document_id=26487973&access_key=key-nplgien2o5e1xxb1tuw&page=1&viewMode=slideshow"> 	</object>
