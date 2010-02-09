@@ -1,0 +1,22 @@
+---
+layout: post
+title: Limit Hold 'Em in Vegas
+---
+A "couple of weeks back I spent the weekend in Las Vegas":http://ondrejka.net/stupid/2010/01/31/1158-somethoughts-on-amazon.html. Despite almost 20 years of work in technology, this was my first trip to Vegas. A primary goal was to figure out if I could kill time in a casino without hemorrhaging too much money. Lots of friends -- and fellow geeks -- argued that Blackjack is the best way to conserve cash at a casino, turns out for that -- for me -- limit Texas Hold-em seems to fill that niche.
+
+I don't play much poker. I don't play online and only occasionally join friends for games. I like playing poker, but for whatever reason the chance to play just doesn't come up that often. Also, after an introduction to "Ed Felten":http://www.cs.princeton.edu/~felten/'s "teach your daughter to kick your butt at poker"-method in Singapore, I've been teaching my daughter how to play. But, to be clear, I am not a serious player by any stretch of the imagination.
+
+So, I didn't know what to expect. At the "Mandalay Bay Casino":http://www.mandalaybay.com/, it turns out the cheap game is "3-6 Limit." That is to say, "Texas Hold 'em":http://en.wikipedia.org/wiki/Texas_hold_%27em, but with $3 big blinds, $3 calls and raises until the turn when the minimum bet goes up to $6. Since it's a limit game, there's no all-in, pots stay relatively small, and fewer sharks are swimming around. Plus, the cheap tables are a goldmine of people watching.
+
+After 3 days and probably 12-hours at the tables, I ended up about $450. Much of this came from hitting a straight-flush, which payed out a high hand bonus of $250, so really I was up more like $200. Still, given that I had a self-imposed limit of "lose no more than $200 over the course of the weekend", this was a pretty good outcome.
+
+Three quick takeaways:
+* I'm glad I was playing low stakes, as at one point I was about $150 down. If I was playing higher stakes, I would have hit my limit and had to stop.
+* I played too aggressively. Way too often I'd stay in with off suit queen seven, or similar. This is a good way to chase pots and lose money. Laying down crap is important.
+* I rarely used early, aggressive betting to scare people out of hands
+
+On the flight home, I got curious about how the numbers worked out. You can go online and look up the "odds of various hands winning in Texas Hold 'em":http://www.gocee.com/poker/HE_Val_Sort.htm, but that isn't any fun, so I wrote some code to simulate random games. My results matched what you look up online. With 7 players, starting with paired aces gives you about a 40% winning percentage, with a steady drop through the face cards to paired jacks's giving you about 25%. Open ended straight-flush draws, say queen jack on suit, start a bit below that.
+
+What surprised me a bit, however, was what happens if you are able to pare the field down a bit. If you assume a bunch of smart players -- people generally laying down if they had neither a pair, two high face cards, or open straight flush, your odds rise pretty dramatically, about 20% across the board. For example, the high pairs move into 50-60% range of winning percentages. What this says is that while I played too aggressively, I didn't use aggressive betting to narrow the field. Obviously, with low stakes limit, people will pay to stay in longer, but a bit of up front betting would have helped.
+
+Anyway, it was a fun weekend and a nice excuse to play with "Ruby":http://www.ruby-lang.org/en/, "rspec":http://rspec.info/, and "Cucumber":http://cukes.info/ to do some modeling.
