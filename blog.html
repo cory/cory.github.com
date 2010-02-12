@@ -2,9 +2,9 @@
 layout: default
 title: Agile or Dead
 ---
-<div class="span-24 title">
+<div class="span-23 title">
   <div class="span-8"><a href="/index.html"><span class="lowlight">Agile or Dead</span></a></div>
-  <div class="span-16 last">
+  <div class="span-15 last">
     <a href="/blog.html"><span class="lowlight">Blog</span></a>
     <a href="/speaking.html">Speaking</a>
     <a href="/advising.html">Advising</a>
@@ -18,7 +18,7 @@ title: Agile or Dead
   {% include postsunlimited.html %}
   <div class="recent-comments"><div id="dsq-recentcomments" class="dsq-widget"><span class="dsq-widget-title"></span><script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/recent_comments_widget.js?num_items=3&avatar_size=32&hide_avatars=1"></script></div></div>
 </div>
-<div class="span-15 last">
+<div class="span-14 last">
   {% for post in site.posts limit:5 %}
   <span class="date">{{ post.date | date: "%A, %B %d, %Y" }}</span>
   <div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>

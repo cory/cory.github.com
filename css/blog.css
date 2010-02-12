@@ -1,9 +1,22 @@
 body {
-  font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
-  font-size: 0.8em;
-  color:#ccc;
-  text-shadow: 0px -1px 0px #333;
-  font-size: 100%;
+  background: #334;
+  font-family: "proxima-nova-1","proxima-nova-2","Helvetica Neue",Helvetica,Arial,sans-serif
+  color:#ddf;
+  text-shadow: 0px 1px 0px #333;
+  font-size: 110%;
+  font-weight: 100;
+  letter-spacing: 0.12em;
+}
+
+.wrapper {
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-box-shadow: 0px 0px 20px #aad;
+  -webkit-box-shadow: 0px 0px 20px #aad;
+  background: #1d1d1f;
+  padding-top: 1.7em;
+  margin-top: 4em;
+  margin-bottom: 4em;
 }
 
 br {
@@ -16,23 +29,23 @@ a {
 }
 
 a, a:visited {
-  color: #7a7;
-  text-shadow: 0px -1px 0px #121;
+  color: #99c;
+  text-shadow: 0px 0px 2px #aad;
 }
 
 a:hover, a:focus {
   color: #ccf;
-  text-shadow: 0px -1px 0px #333;
+  text-shadow: 0px 0px 2px #ccf;
 }
 
 .spotlight {
-  color: #afa;
+  color: #aaf;
   text-shadow: 0px 1px 0px #000;
 }
 
 .lowlight {
-  color: #333;
-  text-shadow: 0px -1px 0px #777;
+  color: #666;
+  text-shadow: 0px 0px 4px #ccf;
 }
 
 .date {
@@ -70,13 +83,14 @@ a:hover, a:focus {
 
 .recent-comments {
   font-size: 80%;
+  font-weight: 100;
   margin: 0em 1em 0em 0em;
   padding: 0em 0.5em;
-  border-left: 1px solid #666;
+  border-left: 1px solid #aad;
 }
 
 blockquote {
   margin-left: 1.5em;
   padding-left: 1em;
-  border-left: 1px solid #afa;
+  border-left: 1px solid #aad;
 }
