@@ -1,0 +1,7 @@
+---
+layout: post
+title: Video from Government 2.0 LA Conference
+---
+Video from the talk I "previously posted the slides to":http://ondrejka.net/speaking/2010/02/06/1254-gov20la-talk.html.
+
+<object width="400" height="265"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9737808&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=9737808&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="265"></embed></object><p><a href="http://vimeo.com/9737808">Cory Ondrejka Delivers Keynote Address to Gov20LA 2010</a> from <a href="http://vimeo.com/gov20la">Gov20LA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
