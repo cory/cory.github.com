@@ -1,0 +1,34 @@
+---
+layout: post
+title: The Most Important Project You've Never Heard Of
+---
+Tuesday night, "Mitch Kapor":http://en.wikipedia.org/wiki/Mitch_Kapor held an event to introduce his network to a project he's been involved with for about a year, the "Open Source Digital Voting Foundation":http://osdv.org/. I left convinced that OSDV is critical to America and our democracy. I will be giving "money and time":http://www.trustthevote.org/be-involved.
+
+Why?
+
+Most of my readers will have followed the many times security researchers "have exposed flaws in voting machines and election processes":http://en.wikipedia.org/wiki/Premier_Election_Solutions. 
+Did you know those same, flawed machines are used in *88%* of elections in the United States? 
+Did you know that with the acquisition of "Diebold":http://en.wikipedia.org/wiki/Premier_Election_Solutions by "ES&S":http://en.wikipedia.org/wiki/ES%26S, that those 88% are all *owned and operated by one company*?
+
+Why, as technologists, do we get "up in arms about a browser monopoly":http://techcrunch.com/2010/02/22/microsoft-ballot-screen/, but we accept a monopoly in *how we vote*?!
+
+At OSDV says, *how we vote is as important as who we vote for*.
+
+We have all watched the increasingly significant flaws in our election system in national elections since 2000:
+* 2000 Florida recount -- Supreme Court decided election
+* 2004 Ohio recount -- Widespread voting machine malfunctions
+* 2006 Nationwide voting machine malfunctions
+* 2008 Minnesota -- Ballot confusion leads to 8-month legal battle
+
+"OSDV":http://osdv.org/ arose from a simple premise: how could you ensure that *every vote counts* in American elections?
+
+From 2006-2008, foundation volunteers researched US voting systems and connected with stakeholders, collaborating with state elections directors to ensure the architecture meets state requirements.
+
+In 2009, OSDV began acting on their research:
+* Deployed an "online voter registration service with Rock the Vote":http://www.rockthevote.com/about/press-room/press-releases/osdv-voter-registration.html
+* Launched "Trust the Vote":http://www.trustthevote.org/background to coordinate open source development around voter registration, ballot design, ballot tabulation and auditing
+* Released the first "open source election system source code":http://www.wired.com/threatlevel/2009/10/open-source/
+
+But this is just the beginning. OSDV is now ramping up to deploy open source voting systems in time for the 2012 election cycle. Doing this will be an enormous undertaking, but one that is necessary if we are to ensure our votes count.
+
+Please, click "here to find out how you can help":http://www.trustthevote.org/be-involved.
