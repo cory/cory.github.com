@@ -12,7 +12,7 @@ Did you know that with the acquisition of "Diebold":http://en.wikipedia.org/wiki
 
 Why, as technologists, do we get "up in arms about a browser monopoly":http://techcrunch.com/2010/02/22/microsoft-ballot-screen/, but we accept a monopoly in *how we vote*?!
 
-At OSDV says, *how we vote is as important as who we vote for*.
+As OSDV says, *how we vote is as important as who we vote for*.
 
 We have all watched the increasingly significant flaws in our election system in national elections since 2000:
 * 2000 Florida recount -- Supreme Court decided election
@@ -22,7 +22,7 @@ We have all watched the increasingly significant flaws in our election system in
 
 "OSDV":http://osdv.org/ arose from a simple premise: how could you ensure that *every vote counts* in American elections?
 
-From 2006-2008, foundation volunteers researched US voting systems and connected with stakeholders, collaborating with state elections directors to ensure the architecture meets state requirements.
+From 2006-2008, foundation volunteers researched US voting systems and connected with stakeholders throughout the voting process, collaborating with state elections directors to ensure the architecture meets state requirements.
 
 In 2009, OSDV began acting on their research:
 * Deployed an "online voter registration service with Rock the Vote":http://www.rockthevote.com/about/press-room/press-releases/osdv-voter-registration.html
