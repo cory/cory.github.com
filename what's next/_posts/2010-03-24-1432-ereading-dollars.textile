@@ -1,0 +1,12 @@
+---
+layout: post
+title: 4 Simple Features to Get My E-Reading Dollars
+---
+E-books and e-readers have come up a couple of times recently. Between the 150+ "Baen e-books":http://www.webscription.net/c-2-advance-reader-copies.aspx and 95+ "Amazon e-books I've purchased for Kindle":http://www.amazon.com/gp/product/B0015T963C?ie=UTF8&tag=collapsinggeo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0015T963C, I strongly suspect I'm in the top 1% or so of book purchasers, so I'm going to use myself as the target market for what I'd want out of an e-reader. So, what would get my money?
+
+<blockquote>1) Early access. I already pay Baen an extra $15 per book when I can get it early. "This is free money for any publisher who wants it":http://www.webscription.net/c-2-advance-reader-copies.aspx, and Baen has gotten a lot of mine.
+2) Automatic purchases by series and by author. I follow dozens of series and until they start sucking, I will *always* buy the next book. Why not automate that for me? I'd even pay a small amount for the service, but at the very least you stop losing money when I fail to notice a new release.  Ditto for authors I follow.
+3) DRM-free. Baen's received far more of my dollars than Amazon, despite the Amazon purchase process being quite a bit easier. Why? DRM-free means I can move the book where I want it, read it how I want. I'm happy to vote with my wallet on this one. Didn't the book industry learn anything from iTunes and DRM-free music?
+4) Social features for my books. Give me an e-reader that makes it easy to record comments and thoughts, to share those thoughts with friends, recommend books, buy books for friends, etc.</blockquote>
+
+None of these are difficult features, either technically or from a licensing standpoint. Who'll do it first?
