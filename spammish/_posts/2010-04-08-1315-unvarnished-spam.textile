@@ -1,0 +1,15 @@
+---
+layout: post
+title: Facebook Inoculation
+---
+Earlier this week, a friend hit me with a request for an Unvarnished Review on Facebook. Normally, I respond to nothing on Facebook -- the Werewolf bites were fun while they lasted -- but since I trust "Hunter":http://elapsedtime.blogspot.com/ I thought "what the hell?" and clicked through. It's an interesting concept -- get anonymous feedback from people you (in theory) trust and an "area Hunter just posted about":http://elapsedtime.blogspot.com/2010/04/on-internet-data-will-verify-youre-dog.html -- so I gave a few reviews. Was going to leave it there but instead decided to do an experiment.
+
+I was curious how inoculated Facebook users were to spammy-looking invites. Facebook has made a host of changes to their home pages and alerting rules, plus the various social games dominate whatever attention space is left. My hypothesis: even with a careful selection of likely responders, very few would respond.
+
+I sent out 35 Unvarnished invites to likely responders.  The results?
+
+* 12 (35%) people emailed to ask variants of "was your account hacked?", "are you advising this company?", "was this an experiment?" (Answers: No, No, Yes. I have no connection with Unvarnished and have since removed the app from my Facebook account.)
+
+* 6 (17%) people left reviews
+
+A bit higher than I expected, but the law of small numbers applies. Thus endeth the experiment. Apologies for the spam added to your Facebook wall, but thanks for the tidbit of data.
