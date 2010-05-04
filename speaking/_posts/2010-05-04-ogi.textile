@@ -1,0 +1,7 @@
+---
+layout: post
+title: Open Government and Innovation Keynote
+---
+Just finished delivering this. Great, engaged audience despite being early in the morning, tons of good questions afterwards, too.
+
+<a title="View Cory Ondrejka OGI Keynote on Scribd" href="http://www.scribd.com/doc/30897132/Cory-Ondrejka-OGI-Keynote" style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block; text-decoration: underline;">Cory Ondrejka OGI Keynote</a> <object id="doc_924956893543215" name="doc_924956893543215" height="600" width="100%" type="application/x-shockwave-flash" data="http://d1.scribdassets.com/ScribdViewer.swf" style="outline:none;" >		<param name="movie" value="http://d1.scribdassets.com/ScribdViewer.swf">		<param name="wmode" value="opaque"> 		<param name="bgcolor" value="#ffffff"> 		<param name="allowFullScreen" value="true"> 		<param name="allowScriptAccess" value="always"> 		<param name="FlashVars" value="document_id=30897132&access_key=key-1ytl3lmvnksqw63p33w5&page=1&viewMode=list"> 		<embed id="doc_924956893543215" name="doc_924956893543215" src="http://d1.scribdassets.com/ScribdViewer.swf?document_id=30897132&access_key=key-1ytl3lmvnksqw63p33w5&page=1&viewMode=list" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="600" width="100%" wmode="opaque" bgcolor="#ffffff"></embed> 	</object>
