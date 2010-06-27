@@ -1,0 +1,65 @@
+---
+layout: post
+title: Publishers Who Don't Know History...
+---
+I've posted a "few":http://ondrejka.net/what%27s%20next/2010/03/24/1432-ereading-dollars.html "times":http://ondrejka.net/technology/2010/03/22/1154-amazon-mob-rule.html "about":http://ondrejka.net/stupid/2010/01/31/1158-somethoughts-on-amazon.html ebooks, but I've been reading a lot more about ebooks recently. Recently Wired "discussed":http://www.wired.com/epicenter/2010/05/universal-e-books-format/all/1#ixzz0pY0bR6nO the desire to have a universal ebook format and the "PBS Newshour":http://www.pbs.org/newshour/bb/media/jan-june10/books_05-27.html hosted a discussion with best-selling author Scott Turow, president of the Authors Guild, Jonathan Galassi, president of the publishing house Farrar, Straus, and Giroux, and Cathy Langer, lead buyer for Tattered Cover Book Stores.
+
+Apparently nobody in the book business is aware of what happened to the music business over the last decade and they are determined to make all the same mistakes.
+
+*Mistake #1: Piracy is the enemy*
+
+Tim O'Reilly "wrote about this years ago":http://tim.oreilly.com/pub/a/p2p/2002/12/11/piracy.html. There is no compelling evidence that the impact of piracy on media is nearly as negative as the double whammies of technological change and institutional incompetence.
+
+*Mistake #2: People will always want hardcover books*
+
+True, but true in the same sense that people -- and by people, I mean "hardcore fans" -- will always want vinyl. Despite vinyl records being crushed by CDs, vinyl has made a bit of a comeback of late. Collectors and audiophiles have created a thriving niche market.
+
+But it's still niche. In the case of vinyl, about 1% of overall music sales.
+
+*Mistake #3: People will always need bookstores*
+
+Three words: Independent. Record. Stores.
+
+We all miss the personalized recommendation of the small record store employee, but apparently the market did not. At FooCamp this weekend, "Sara Winge":http://twitter.com/sarawinge had a great comment that capture the problem of the market not sufficiently rewarding the curator: <blockquote>So, the curactor needs to work at a gas station?</blockquote>
+
+It's very different if the curation you love can also pay your bills.
+
+So, how to avoid following the music path?
+
+*Focus on Discovery*
+
+Friends share, borrow, and recommend books. Currently, publishers are generally being stupid about this. There are two paths to reduced stupid.
+
+The first is publishers who understand how technology is changing reading habits and take advantage of it. "Baen":http://www.baen.com/ and "O'Reilly":http://oreilly.com/ are leading this charge by avoiding DRM and giving away books, though neither is really focused on helping me lend and share books.
+
+The second is for Amazon or Apple -- the only two ebook retailers with the scale to really push publishers -- to optimize their reading software to enable sharing, loaning and discovery. The software work to do this would be trivial -- the hard part is getting the licenses correct. However, with both Amazon and Apple already enabling books to be simultaneously read on multiple devices, it would appear they have made some progress on the legal side.
+
+*Make eBooks as Valuable as Books*
+
+Speaking of legal and usefulness, eBooks with DRM suck. You can't lend them, you may have to repurchase them, and you can't use them the way you want. If publishers want to be able to sell eBooks at closer to hardcover price points, they can't break the book with DRM. This is so obvious -- and amply demonstrated by Apple and Amazon's experiences with music DRM -- it is astounding to see book publishers not get it.
+
+*Stop Leaving Money on the Table*
+
+Ask anyone with an e-reader and they will tell you that they want to subscribe to authors and series. Please, take my money and let me automate these purchases! There is *no* downside to this.
+
+If you want to make even more, do what Baen does and let me buy copies early. Baen lets us off easy, actually charging less than hardcover for "their ARCs":http://www.webscription.net/c-2-advance-reader-copies.aspx.
+
+*Create Markets for Curators*
+
+Amazon already does this a bit with Amazon Associates, but it doesn't really work for a physical curator.
+
+I regularly make Kindle purchases while in bookstores. I'll see something on the shelf, decide that I want it and immediately have it on my iPhone and iPad. That doesn't help the bookstore. Barnes and Noble decided to address this with the Nook, which I doubt will help given the development and marketing costs involved.
+
+Worse, it really doesn't help the small bookstore.
+
+What would help is if Amazon or Apple made their apps location aware and created a revenue sharing program for small bookstores. Increased ebook awareness in exchange for rewarding the curators. This would work even better if more ebook readers offered subscription and recurring revenue purchase options, so the local book store could sell higher value packages than a single book, making more significant rev shares possible.
+
+*Play to the 1% Fans*
+
+Just like vinyl is making a comeback, it is certain that fans of certain authors will want special editions. This doesn't just mean a normal hardcover. Take a lesson from "Josh Freese":http://joshfreese.com/buynow/. Don't just publish a hardcover, give me a goldleaf, dragon leather wrapped tome!
+
+Of course, this isn't easy either. If each special edition costs you a million dollars to create, book publishers are still hosed. The challenge is to make it easy for a particular publisher and author to choose the right options for them. J.K. Rowling probably doesn't want to have dinner with a fan, but should definitely offer super-premium editions of <a href="http://www.amazon.com/gp/product/0545162076?ie=UTF8&tag=collapsinggeo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0545162076">Harry Potter</a><img src="http://www.assoc-amazon.com/e/ir?t=collapsinggeo-20&l=as2&o=1&a=0545162076" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>.
+
+As "Charlie Stross points out":http://www.antipope.org/charlie/blog-static/2009/03/reminder_why_theres_no_tipjar.html -- just like making music -- there are a host of costs in the lifecycle of a creating a book. Unlike music or newspapers, book publishing has not gone through a recent period of internal misalignment -- with music, institutions optimized for physical distribution during vinyl replacement, while newspapers built staked the business on classified ads. As a result, ebooks aren't likely to be as immediately destructive.
+
+However not "immediately destructive" doesn't mean "be dumb." Losing local bookstores will badly damage discovery. Reduced price points for eBooks can hurt margins. Making smart decisions about book publishing has the chance to make books more useful than every before. Unlike the music industry in 2002, book publishers should be focusing on their customers and how to make books better *now*.
