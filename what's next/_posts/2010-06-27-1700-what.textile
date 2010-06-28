@@ -1,0 +1,25 @@
+---
+layout: post
+title: What's Cory Doing Now?
+---
+"For some reason":http://blogs.secondlife.com/community/features/blog/2010/06/24/returning-to-the-lab, there has been some questions about what I'm up to these days. Since leaving EMI, I've been plugging back into technology and tech companies I thought were interesting and that I could help. Time for an update on them:
+
+h3. "Instinctiv":http://instinctiv.com/
+
+"Instinctiv":http://instinctiv.com/ is a multiplatform music player that uses some very clever machine learning to let you discover the music you already own. The OS X player is released, mobile and Windows are close. If you spend a lot of time listening to music off of your Mac, grab Instinctiv! You can also sign up on the site to be part of the private beta on your mobile phone.
+
+h3. "Togetherville"::http://togetherville.com/
+
+"Togetherville":http://togetherville.com/ is an online community for kids and their grownups. Togetherville entered public beta in May and has had some "great coverage":http://blog.togetherville.com/news/. The team have done an amazing job and if you have kids, you should check it out!
+
+h3. "Profounder":http://www.profounder.com/
+
+"Profounder":http://www.profounder.com/ is bringing crowdfunding to business. They've just started their alpha entrepreneur program which you can learn more "about":https://www.profounder.com/registrations/new.
+
+h3. "Celmatix":http://celmatix.com/
+
+"Celmatix":http://celmatix.com/ is a New York-based biotechnology and personalized medicine startup, focused on creating a non-invasive diagnostic for assessing oocyte quality and female fertility. Amazing mix of scientific research and computational challenges, but very early stage. Stay tuned.
+
+In addition, without going into details, I can say "David":http://whohastimeforthis.blogspot.com/, "James":http://www.cham.net/james/, and "Ethan":http://twitter.com/ethankurz at "Bessemer":http://bvp.com/ are great to work with. 
+
+Plus, coding everyday is a blast. So having fun and keeping plenty busy.
