@@ -2,7 +2,7 @@
 layout: post
 title: What's Cory Doing Now?
 ---
-"For some reason":http://blogs.secondlife.com/community/features/blog/2010/06/24/returning-to-the-lab, there has been some questions about what I'm up to these days. Since leaving EMI, I've been plugging back into technology and tech companies I thought were interesting and that I could help. Time for an update on them:
+"For some reason":http://blogs.secondlife.com/community/features/blog/2010/06/24/returning-to-the-lab, there have been some questions about what I'm up to these days. Since leaving EMI, I've been plugging back into technology and tech companies I thought were interesting and that I could help. Time for an update on them:
 
 h3. "Instinctiv":http://instinctiv.com/
 
