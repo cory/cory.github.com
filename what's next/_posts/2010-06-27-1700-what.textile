@@ -8,7 +8,7 @@ h3. "Instinctiv":http://instinctiv.com/
 
 "Instinctiv":http://instinctiv.com/ is a multiplatform music player that uses some very clever machine learning to let you discover the music you already own. The OS X player is released, mobile and Windows are close. If you spend a lot of time listening to music off of your Mac, grab Instinctiv! You can also sign up on the site to be part of the private beta on your mobile phone.
 
-h3. "Togetherville"::http://togetherville.com/
+h3. "Togetherville":http://togetherville.com/
 
 "Togetherville":http://togetherville.com/ is an online community for kids and their grownups. Togetherville entered public beta in May and has had some "great coverage":http://blog.togetherville.com/news/. The team have done an amazing job and if you have kids, you should check it out!
 
