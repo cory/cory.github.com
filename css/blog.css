@@ -27,12 +27,12 @@ a {
 
 a, a:visited {
   color: #99c;
-  text-shadow: 0px 0px 2px #aad;
+  text-shadow: 0px 0px 1px #aad;
 }
 
 a:hover, a:focus {
   color: #ccf;
-  text-shadow: 0px 0px 2px #ccf;
+  text-shadow: 0px 0px 1px #ccf;
 }
 
 .spotlight {
@@ -42,7 +42,7 @@ a:hover, a:focus {
 
 .lowlight {
   color: #666;
-  text-shadow: 0px 0px 4px #ccf;
+  text-shadow: 0px 0px 2px #ccf;
 }
 
 .date {
