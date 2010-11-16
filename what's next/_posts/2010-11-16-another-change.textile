@@ -1,0 +1,21 @@
+---
+layout: post
+title: Changes
+---
+Sometimes changes come quickly. My blog has been quiet because I've been hard at work on the startup I co-founded with my brilliant friend Bruce Rogers . I would have expected this post to be talking about what we built, but for obvious reasons we're posting something a bit different:
+
+<blockquote>After years of working parallel careers and constantly trying to hire each other, we decided the only way to work together would be to co-found something.
+And, so, "Walletin":http://walletin.com was born.
+After six months of hard work, we knew we had something awesome. Our friends are the most intelligent and cynical developers in the Valley and even they thought it was cool.
+(Some of them may also be great liars.)
+We were ready for beta. Hell, we were ready for a "Rate my Startup" post on "Hacker News":http://news.ycombinator.com/.
+During development, we got calls from friends at big Silicon Valley companies. We took those meetings because they came with free lunch, great conversations, and Walletin Global HQ doesn't have air conditioning. We came away smarter for the discussions, but decided it was more fun to keep doing our own thing.
+When we met with "Facebook":http://facebook.com, we expected the same result.
+Instead we met our people. Engineers focused on getting shit done. Moreover they recognized the disruption we were betting on and saw how far we could run with it at Facebook.
+And they moved like they were still a startup.
+For our part, the more we learned about Facebook, the more we saw our ideas fitting in. The more we saw an opportunity exciting enough to abandon Walletin Corporate HQ and go into work every day.
+Ultimately, it was an easy decision and we will both be joining Facebook.
+It is with a bit of sadness that we bid a fond farewell to Walletin, but are thrilled by what we're going to do next.
+It's going to be fun.
+- Bruce and Cory
+</blockquote>
