@@ -6,7 +6,7 @@ Thanksgiving is my favorite holiday of the year. Friends, cooking, board games, 
 
 Oh yes.
 
-!{width:512px;}images/bacon.jpg(doughnuts)!
+!{width:512px;}/images/bacon.jpg(doughnuts)!
 
 Several folks asked for the recipe, so here it is.
 
