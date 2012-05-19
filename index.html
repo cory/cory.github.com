@@ -1,31 +1,23 @@
 ---
 layout: default
-title: Agile or Dead
+title: prompt criticality
 ---
 <div class="span-23 title">
-  <div class="span-8"><a href="/index.html"><span class="lowlight">Agile or Dead</span></a></div>
-  <div class="span-15 last">
-    <a href="/blog.html">Blog</a>
-    <a href="/speaking.html">Speaking</a>
-    <a href="/advising.html">Advising</a>
-    <a href="/code.html">Code</a>
-    <a href="/cv.html">About</a>
-    <a href="http://feeds2.feedburner.com/github/fgmV">RSS</a>
+  <div class="span-20"><a href="/index.html"><span class="lowlight">prompt criticality</span></a></div>
+  <div class="span-20 links">
+    <a href="/blog.html">blog</a>
+    <a href="/speaking.html">speaking</a>
+    <a href="/advising.html">advising</a>
+    <a href="/code.html">code</a>
+    <a href="/cv.html">about</a>
   </div>
 </div>
 
-<div class="span-8">
-  <div class="span-7">I'm working on what's next.<br />I <a href="/advising.html">help and advise</a> startups, <a href="/speaking.html">speak</a> to organizations about innovation and cultural change, and consult on a variety of technology projects.<br />Follow me on Twitter <a href="http://twitter.com/coryondrejka">here</a><br />cory.ondrejka@gmail.com<br /></div>
-  {% include postslimited.html %}
-  <div class="recent-comments"><div id="dsq-recentcomments" class="dsq-widget"><span class="dsq-widget-title"></span><script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/recent_comments_widget.js?num_items=3&avatar_size=32&hide_avatars=1"></script></div></div>
-</div>
-<div class="span-14 last">
-  {% for post in site.posts limit:5 %}
-  <span class="date">{{ post.date | date: "%A, %B %d, %Y" }}</span>
-  <div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
-  {{ post.content }}
-  <div class="comment-link"><a href="{{ post.url }}#disqus_thread">{{ post.title }}</a></div>
-  {% endfor %}
-</div>
+I work at <a href="http://facebook.com">Facebook</a>. I'm an <a href="/advising.html">angel investor</a> and sometimes <a href="/speaking.html">speak</a> about innovation.<br /><br />
+{% for post in site.posts limit:5 %}
+<div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
+{{ post.content }}
+{% endfor %}
 
 

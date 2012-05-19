@@ -1,23 +1,22 @@
 body {
-  background: #222;
-  font-family: "proxima-nova-1","proxima-nova-2","Helvetica Neue",Helvetica,Arial,sans-serif
-  color:#bbc;
-  font-size: 90%;
-  font-weight: 100;
-  letter-spacing: 0.1em;
+  background: url("../images/background5.png");;
+	font-family: 'Gudea', sans-serif;
+  color:#bbb;
+}
+
+div {
+  font-size: 125%;
+  font-weight: 200;
 }
 
 .wrapper {
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
-  background: #3d3d3f;
   padding-top: 1.7em;
-  margin-top: 4em;
-  margin-bottom: 4em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 br {
-  margin: 0em 0em 1.5em 0em;
+  margin: 0em 0em 0.5em 0em;
 }
 
 a {
@@ -27,27 +26,35 @@ a {
 
 a, a:visited {
   color: #99c;
-  text-shadow: 0px 0px 1px #aad;
 }
 
 a:hover, a:focus {
   color: #ccf;
-  text-shadow: 0px 0px 1px #ccf;
 }
 
 .spotlight {
   color: #aaf;
-  text-shadow: 0px 1px 0px #000;
 }
 
 .lowlight {
+  font-size: 150%;
   color: #666;
-  text-shadow: 0px 0px 2px #ccf;
+}
+
+.links {
+	margin-top: -0.8em;
+	margin-left: 1em;
+  font-size: 80%;
+  margin-bottom: 1em;
 }
 
 .date {
-  font-style: oblique;
-  border-bottom: 1px solid #666;
+  font-style: italic;
+	margin-top: -0.8em;
+	margin-left: 1em;
+	margin-bottom: 1em;
+  font-size: 50%;
+  color: #aaf;
 }
 
 .heading {
@@ -58,16 +65,16 @@ a:hover, a:focus {
 
 .blurb {
   font-style: italic;
-  font-size: 125%;
   padding: 0.1em 0.1em 0.25em 0.25em;
   color: #333;
-  text-shadow: 0px -1px 0px #777;
 }
 
 .title {
   font-style: italic;
-  font-size: 150%;
-  margin: 0em 0em 1em 0em;
+}
+
+.posttitle a {
+  color: #666;
 }
 
 .comment-link {
@@ -75,19 +82,17 @@ a:hover, a:focus {
 }
 
 .sidebar {
-  font-size: 75%;
 }
 
 .recent-comments {
-  font-size: 80%;
-  font-weight: 100;
   margin: 0em 1em 0em 0em;
   padding: 0em 0.5em;
   border-left: 1px solid #aad;
 }
 
 blockquote {
+	color: #aaa;
+  font-size: 100%;
   margin-left: 1.5em;
   padding-left: 1em;
-  border-left: 1px solid #aad;
 }

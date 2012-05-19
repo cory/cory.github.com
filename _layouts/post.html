@@ -2,27 +2,20 @@
 layout: default
 ---
 <div class="span-23 title">
-  <div class="span-8"><a href="/index.html"><span class="lowlight">Agile or Dead</span></a></div>
-  <div class="span-15 last">
-    <a href="/blog.html"><span class="lowlight">Blog</span></a>
-    <a href="/speaking.html">Speaking</a>
-    <a href="/advising.html">Advising</a>
-    <a href="/code.html">Code</a>
-    <a href="/cv.html">About</a>
-    <a href="http://feeds2.feedburner.com/github/fgmV">RSS</a>
+  <div class="span-20"><a href="/index.html"><span class="lowlight">prompt criticality</span></a></div>
+  <div class="span-20 links">
+    <a href="/blog.html">blog</a>
+    <a href="/speaking.html">speaking</a>
+    <a href="/advising.html">advising</a>
+    <a href="/code.html">code</a>
+    <a href="/cv.html">about</a>
   </div>
 </div>
 
-<div class="span-8">
-  {% include postslimited.html %}
-  <div class="recent-comments"><div id="dsq-recentcomments" class="dsq-widget"><span class="dsq-widget-title"></span><script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/recent_comments_widget.js?num_items=3&avatar_size=32&hide_avatars=1"></script></div></div>
-</div>
-<div class="span-14 last">
-  <span class="date">{{ page.date | date: "%A, %B %d, %Y" }}</span>
-  <div class="title"><a href="{{ post.url }}">{{ page.title }}</a></div>
-  {{ content }}
-  <div class="comments">
-    <div id="disqus_thread"></div>
-    <script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/embed.js"></script>
-  </div>
-</div>
+<div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
+ {{ content }}
+ <div class="comments">
+   <div id="disqus_thread"></div>
+   <script type="text/javascript" src="http://disqus.com/forums/collapsinggeography/embed.js"></script>
+ </div>
