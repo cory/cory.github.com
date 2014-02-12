@@ -1,25 +1,21 @@
 ---
 layout: default
-title: prompt criticality
+title: CORY ONDREJKA
 ---
 <div class="span-23 title">
-  <div class="span-20"><a href="/index.html"><span class="lowlight">prompt criticality</span></a></div>
-  <div class="span-20 links">
-    <a href="/blog.html">blog</a>
-    <a href="/speaking.html">speaking</a>
-    <a href="/advising.html">advising</a>
-    <a href="/code.html">code</a>
-    <a href="/cv.html">about</a>
-  </div>
+  <div class="span-20"><a href="/index.html"><span class="title"><b>CORY</b>ONDREJKA/speaking</span></a></div>
 </div>
 
+<div class="span-23">
  {% for post in site.categories.speaking limit:5 %}
-<div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="post"><div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
 <div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
  {{ post.content }}
+</div>
  {% endfor %}
 
  {% for post in site.categories.speaking %}
  <span class="date">{{ post.date | date: "%A, %B %d, %Y"  }}</span>
  <div class="blurb"><a href="{{ post.url }}">{{ post.title }}</a></div>
  {% endfor %}
+</div>

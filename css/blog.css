@@ -1,12 +1,12 @@
 body {
-  background: url("../images/background5.png");;
-	font-family: 'Gudea', sans-serif;
-  color:#bbb;
+  background-color:#e0e0e8;
+	font-family: 'Helvetica', sans-serif;
+  color:#001;
+  font-size: 100%;
+  font-weight: 100;
 }
 
 div {
-  font-size: 125%;
-  font-weight: 200;
 }
 
 .wrapper {
@@ -15,8 +15,9 @@ div {
   margin-bottom: 2em;
 }
 
-br {
-  margin: 0em 0em 0.5em 0em;
+p {
+	margin-left:0;
+	margin-bottom: 0.5em;
 }
 
 a {
@@ -25,36 +26,22 @@ a {
 }
 
 a, a:visited {
-  color: #99c;
+  color: #008;
 }
 
-a:hover, a:focus {
-  color: #ccf;
-}
-
-.spotlight {
-  color: #aaf;
-}
-
-.lowlight {
-  font-size: 150%;
-  color: #666;
-}
-
-.links {
-	margin-top: -0.8em;
-	margin-left: 1em;
-  font-size: 80%;
-  margin-bottom: 1em;
+.title {
+  font-weight: 400;
+  font-size: 125%;
+  color: #114;
 }
 
 .date {
   font-style: italic;
-	margin-top: -0.8em;
+	margin-top: -0.4em;
 	margin-left: 1em;
 	margin-bottom: 1em;
-  font-size: 50%;
-  color: #aaf;
+  font-size: 80%;
+  color: #008;
 }
 
 .heading {
@@ -69,30 +56,28 @@ a:hover, a:focus {
   color: #333;
 }
 
-.title {
-  font-style: italic;
+.post {
+	padding-left:1em;
+	border-left:1px solid #c0c0c8;
+	padding-top:0.7em;
+	border-top:1px solid #c0c0c8;
 }
 
 .posttitle a {
-  color: #666;
+  font-weight: 400;
+  color: #001;
 }
 
 .comment-link {
   margin: 0em 0em 1em 0em;  
 }
 
-.sidebar {
-}
-
-.recent-comments {
-  margin: 0em 1em 0em 0em;
-  padding: 0em 0.5em;
-  border-left: 1px solid #aad;
-}
-
 blockquote {
-	color: #aaa;
-  font-size: 100%;
+	color: #445;
   margin-left: 1.5em;
   padding-left: 1em;
+}
+
+a:hover, a:focus {
+  color: #99a;
 }
