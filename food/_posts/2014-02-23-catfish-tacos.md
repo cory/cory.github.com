@@ -42,28 +42,28 @@ Heat peanut oil to 350 degrees. Working in batches, dip pieces in wet coat, shak
 
 The pickled peppers...
 
-> 4-6 jalapeno peppers
-> 4-6 carrots, sweet bell peppers, radishes
-> 1 1/2 cups of vinegar
-> 1 cup of water
-> 4 tablespoons of sugar
-> 2 tablespoons of kosher salt
+> 4-6 jalapeno peppers  
+> 4-6 carrots, sweet bell peppers, radishes  
+> 1 1/2 cups of vinegar  
+> 1 cup of water  
+> 4 tablespoons of sugar  
+> 2 tablespoons of kosher salt  
 
 Bring water, vingar, salt and sugar to a boil. Cut peppers etc. Toss peppers into liquid, boil for 1 minute, kill the heat. Put peppers into Bell jars and cover with liquid. Ready to eat in 3 hours or store in fridge once cooled.
 
 The slaw...
 
-> 1 head of cabbage
-> Good quality mustard and mayonnaise
-> Kosher salt and pepper
+> 1 head of cabbage  
+> Good quality mustard and mayonnaise  
+> Kosher salt and pepper  
 
 Peal off any dried or damaged outer leaves, then split in half and remove the core. Thinly slice changing your angle regularly to get a mix of sizes and textures. Toss the cabbage with salt and pepper, adding mustard and mayo approximately 1:1 until just coated. Cover and refrigerate for at least 3 hours.
 
 The tortillas...
 
-> Masa Harina
-> Hot water
-> Kosher salt
+> Masa Harina  
+> Hot water  
+> Kosher salt  
 
 Mix masa per package directions. Make tortillas on griddle. If you have a gas stove, finish directly over burner just before eating.
 
