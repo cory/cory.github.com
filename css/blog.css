@@ -18,15 +18,11 @@ h1, h2, h3, h4, h5, h6, th, td, caption { font-weight:normal; }
 img { border: 0; }
 
 body {
-  background-color:#f0f0f8;
+  background-color:#d6d2d0;
 	font-family: 'Helvetica', sans-serif;
-  color:#001;
+  color:#000;
   font-size: 100%;
   font-weight: 100;
-}
-
-div {
-	margin-top: 0em;
 }
 
 .wrapper {
@@ -52,7 +48,7 @@ a, a:visited {
 .title {
   font-weight: 400;
   font-size: 125%;
-  color: #114;
+  color: #111;
 }
 
 .subtitle {
@@ -60,12 +56,10 @@ a, a:visited {
 }
 
 .date {
-  font-style: italic;
 	margin-top: -0.4em;
 	margin-left: 1em;
 	margin-bottom: 1em;
   font-size: 80%;
-  color: #008;
 }
 
 .heading {
@@ -82,7 +76,7 @@ a, a:visited {
 
 .post {
 	padding-top:0.5em;
-	border-top:1px solid #d0d0d8;
+	border-top:1px solid #c6c2c0;
 }
 
 .posttitle a {
@@ -95,7 +89,7 @@ a, a:visited {
 }
 
 blockquote {
-	color: #445;
+	margin-top: 0em;
   margin-left: 1.5em;
   padding-left: 1em;
 }

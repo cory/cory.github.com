@@ -2,9 +2,9 @@
 layout: post
 title: Catfish Tacos
 ---
-This is a go-to party recipe, but wanted it today so I made it. Lost of steps, but all pretty easy.
+This has been a go-to party recipe, but wanted it today so I made it. Greatly improved by importing techniques from [Fried Chicken and Waffles](/food/2014/02/11/fried-chicken.html "Fried Chicken") recipe. Lost of steps, but all pretty easy.
 
-<img src="/images/fish.jpg" alt="Fried Catfish tacos" style="width: 1024px;"/>
+<img src="/images/fish.jpg" alt="Fried Catfish tacos" style="width: 910px;"/>
 
 The fish...
 > 4 (or more) fresh, farm-raised Catfish filets (one per two people or so)
