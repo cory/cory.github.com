@@ -47,9 +47,9 @@ Total baking time 18-20 minutes, internal temperature should be nearly 200 degre
 
 <img src="/images/working.jpg" alt="Comparison" style="width: 420px;"/>
 
-<img src="/images/breadbutter.jpg" alt="Comparison" style="width: 420px;"/>
+Oh, yeah, don't forget the fresh butter.
 
-Oh, yeah, the fresh butter.
+<img src="/images/breadbutter.jpg" alt="Comparison" style="width: 420px;"/>
 
 * 1 pint of heavy whipping cream (best quality you can find)  
 * salt to taste
