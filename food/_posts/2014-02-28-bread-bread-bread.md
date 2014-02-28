@@ -51,8 +51,8 @@ Total baking time 18-20 minutes, internal temperature should be nearly 200 degre
 
 To add flavor, get sourdough starter going. 2:1 ratio of water to flour in a covered but not airtight container. Once it starts bubbling, add approximately 1:1 flour and water by weight (around 1oz each) every day. By the end of a week, you should have some excellent flavors going and the ratio will be roughly 1:1 by weight, so scoop out 4 to 6oz and add to recipe, the subtract one half of the total from flour and water amounts. For example, if you add 6oz of starter, you'd go with:
 
-* 14.5 ounces of bread flour (17.5 oz - 3 ounces of flour in starter)  
-* 9.6 ounces of water (12.6 ounces - 3 ounces of water in starter)
+* 14.5 ounces of bread flour (17.5 ounces in original recipe - 3 ounces of flour in starter)  
+* 9.6 ounces of water (12.6 ounces in original recipe - 3 ounces of water in starter)
 
 I still add packaged yeast in addition to the yeast in the starter.
 
