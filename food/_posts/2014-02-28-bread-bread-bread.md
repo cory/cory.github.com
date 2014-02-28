@@ -16,7 +16,9 @@ Using the kneading technique and rise from this recipe, I A:B tested Jacques and
 
 <img src="/images/bread1.jpg" alt="Comparison" style="width: 420px;"/>
 
-They ended up very similar, although testers preferred Julia's crumb and Jacques crust. So, time to experiment...
+They ended up very similar, although testers preferred Julia's crumb and Jacques crust. After lots of experiments, this is my current go-to bread recipe.
+
+Mk 1 Mod 0 Bread...
 
 * 17.5 ounces of bread flour + 2 tablespoons  
 * (additional flour as needed for dusting, hand, rise)
@@ -47,14 +49,23 @@ Total baking time 18-20 minutes, internal temperature should be nearly 200 degre
 
 <img src="/images/working.jpg" alt="Comparison" style="width: 420px;"/>
 
+To add flavor, get sourdough starter going. 2:1 ratio of water to flour in a covered but not airtight container. Once it starts bubbling, add approximately 1:1 flour and water by weight (around 1oz each) every day. By the end of a week, you should have some excellent flavors going and the ratio will be roughly 1:1 by weight, so scoop out 4 to 6oz and add to recipe, the subtract one half of the total from flour and water amounts. For example, if you add 6oz of starter, you'd go with:
+
+* 14.5 ounces of bread flour (17.5 oz - 3 ounces of flour in starter)  
+* 9.6 ounces of water (12.6 ounces - 3 ounces of water in starter)
+
+I still add packaged yeast in addition to the yeast in the starter.
+
 Oh, yeah, don't forget the fresh butter.
 
 <img src="/images/breadbutter.jpg" alt="Comparison" style="width: 420px;"/>
 
+Fresh, homemade butter...
+
 * 1 pint of heavy whipping cream (best quality you can find)  
 * salt to taste
 
-But the cream in a stand mixer with a whisk attachment. Put the spurs to it and make whipped cream. Keep going until the whipped cream starts looking over whipped.
+Put the cream in a stand mixer with a whisk attachment. Put the spurs to it and make whipped cream. Keep going until the whipped cream starts looking over whipped.
 
 Switch to paddle attachment and use plastic wrap to make a tent around the stand mixer, because it's about to get messy. High speed with the paddle and wait. And wait. Get to the point that you think you've screwed up and nothing is going to happen. Keep mixing. Suddenly the cream will separate into solids (the butter) and buttermilk. Slow down and keep mixing until the butter begins to clump.
 
