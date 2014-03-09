@@ -15,13 +15,26 @@ th, td {
 
 h1, h2, h3, h4, h5, h6, th, td, caption { font-weight:normal; }
 
+h1 { 
+	font-size: 130%;
+	font-weight: 400;
+	margin-top: 1em; 
+	margin-bottom: 1em; 
+}
+
+h2 { 
+	font-size: 110%;
+	margin-top: 0.5em; 
+	margin-bottom: 0.5em; 
+}
+
 img { border: 0; }
 
 body {
-  background-color:#d6d2d0;
+  background-color:#f2f2f6;
 	font-family: 'Helvetica', sans-serif;
   color:#000;
-  font-size: 100%;
+  font-size: 120%;
   font-weight: 100;
 }
 
@@ -33,7 +46,7 @@ body {
 
 p {
 	margin-left:0;
-	margin-bottom: 0.5em;
+	margin-bottom: 1.5em;
 }
 
 a {
@@ -47,25 +60,19 @@ a, a:visited {
 
 .title {
   font-weight: 400;
-  font-size: 125%;
+  font-size: 160%;
   color: #111;
 }
 
 .subtitle {
+  font-size: 100%;
 	margin-bottom:0.5em;
 }
 
 .date {
 	margin-top: -0.4em;
-	margin-left: 1em;
 	margin-bottom: 1em;
   font-size: 80%;
-}
-
-.heading {
-  font-style: bold;
-  font-size: 125%;
-  margin: 0em 0em 0em 0em;
 }
 
 .blurb {
@@ -75,11 +82,17 @@ a, a:visited {
 }
 
 .post {
-	padding-top:0.5em;
-	border-top:1px solid #c6c2c0;
+	margin-top:2em;
+	border-top:1px solid #a6a2a6;
+	margin-bottom:2.5em;
+}
+
+.posttitle {
+	margin-top: 2em;
 }
 
 .posttitle a {
+  font-size: 175%;
   font-weight: 400;
   color: #001;
 }
