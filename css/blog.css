@@ -72,6 +72,7 @@ a, a:visited {
 .date {
 	margin-top: -0.4em;
 	margin-bottom: 1em;
+	margin-left:0.05em;
   font-size: 80%;
 }
 
@@ -88,6 +89,7 @@ a, a:visited {
 }
 
 .posttitle {
+	margin: 0em;
 	margin-top: 2em;
 }
 
