@@ -4,7 +4,7 @@ title: Tacos Leprecano
 ---
 A friend was having a taco-themed birthday and asked me to help with the cooking. The week before I had discovered just how easy and delicious homemade corned beef was. "Self," I said, "I think it's time for some fusion!"
 
-* WARNING *
+* WARNING
 
 You are curing meat, which means you're dealing both with potentially deadly pathogens and toxic substances. Double check measurements, keep curing salt -- which is generally dyed pink -- away from children and other seasonings. I like [Putting Food By](http://smile.amazon.com/Putting-Food-Fifth-Ruth-Hertzberg/dp/0452296226/ref=sr_1_1?ie=UTF8&qid=1431873283&sr=8-1) as a resource on all things curing and canning.
 
