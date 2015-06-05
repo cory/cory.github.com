@@ -1,5 +1,5 @@
 lsi:         false
 port: 4000
 pygments:    false
-markdown:    maruku
+markdown:    kramdown
 permalink:   date
