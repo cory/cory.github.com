@@ -4,11 +4,9 @@ title: Tacos Leprecano
 ---
 A friend was having a taco-themed birthday and asked me to help with the cooking. The week before I had discovered just how easy and delicious homemade corned beef was. "Self," I said, "I think it's time for some fusion!"
 
-* WARNING
+WARNING: You are curing meat, which means you're dealing both with potentially deadly pathogens and toxic substances. Double check measurements, keep curing salt -- which is generally dyed pink -- away from children and other seasonings. I like [Putting Food By](http://smile.amazon.com/Putting-Food-Fifth-Ruth-Hertzberg/dp/0452296226/ref=sr_1_1?ie=UTF8&qid=1431873283&sr=8-1) as a resource on all things curing and canning.
 
-You are curing meat, which means you're dealing both with potentially deadly pathogens and toxic substances. Double check measurements, keep curing salt -- which is generally dyed pink -- away from children and other seasonings. I like [Putting Food By](http://smile.amazon.com/Putting-Food-Fifth-Ruth-Hertzberg/dp/0452296226/ref=sr_1_1?ie=UTF8&qid=1431873283&sr=8-1) as a resource on all things curing and canning.
-
-<img src="/images/tacos.jpg" alt="Tacos Leprecano" style="width: 420px;"/>
+<img src="/images/tacos.JPG" alt="Tacos Leprecano" style="width: 420px;"/>
 
 These tacos were amazing. They played. You just need to start 10 days ahead of time.
 
@@ -24,7 +22,7 @@ Puncture meat with a fork 20-30 times per side. Combine dry ingredients and rub 
 
 After the cure, pull the meat out and rince off under cold water. Using either sous vide or a very low simmer, cook at 160-170 degrees for 8-10 hours. Remove from heat, immerse in cooled cooking liquid and refridgerate 4 hours or overnight. It will be better if you can let it go overnight.
 
-<img src="/images/spicy-slaw.jpg" alt="Spicy Slaw" style="width: 420px;"/>
+<img src="/images/spicy-slaw.JPG" alt="Spicy Slaw" style="width: 420px;"/>
 
 Step 2, make the spicy slaw the day of
 
@@ -47,7 +45,7 @@ Step 3, make the Sriracha Island sauce
 
 Mix all the ingredients together. Cover and refridgerate until needed.
 
-<img src="/images/pea-slaw.jpg" alt="Pea Slaw" style="width: 420px;"/>
+<img src="/images/pea-slaw.JPG" alt="Pea Slaw" style="width: 420px;"/>
 
 Step 4, make the cool topping for the spicy-impaired
 
